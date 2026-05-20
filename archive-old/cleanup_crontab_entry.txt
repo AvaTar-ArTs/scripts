@@ -1,0 +1,7 @@
+# Regular cleanup tasks for home directory maintenance
+
+# Run weekly cleanup every Sunday at 2 AM
+0 2 * * 0 /Users/steven/scripts/cleanup_old_files.sh >> /Users/steven/logs/cleanup.log 2>&1
+
+# Monthly cleanup of Docker system (if Docker is installed)
+0 3 1 * * /usr/local/bin/docker system prune -af >> /Users/steven/logs/docker_cleanup.log 2>&1

@@ -1,0 +1,8 @@
+./.cursor
+./.cursor/.DS_Store
+./.cursor/skills
+./.cursor/skills/.DS_Store
+./.cursor/skills/adapt-into-your-style
+./.cursor/skills/adapt-into-your-style/SKILL.md
+./.cursor/skills/learning-style-plugin
+./.cursor/skills/learning-style-plugin/SKILL.md

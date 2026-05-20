@@ -1,0 +1,220 @@
+path	type	size_bytes	ext
+./Ai-Merge-GitHub	dir	0	
+./Ai-Merge-GitHub/.DS_Store	file	6148	
+./Ai-Merge-GitHub/.firecrawl	dir	0	
+./Ai-Merge-GitHub/.firecrawl/github-repo-status.md	file	11469	md
+./Ai-Merge-GitHub/.git	dir	0	
+./Ai-Merge-GitHub/.git/.DS_Store	file	6148	
+./Ai-Merge-GitHub/.git/ai	dir	0	
+./Ai-Merge-GitHub/.git/ai/.DS_Store	file	6148	
+./Ai-Merge-GitHub/.git/ai/logs	dir	0	
+./Ai-Merge-GitHub/.git/ai/rewrite_log	file	0	
+./Ai-Merge-GitHub/.git/ai/working_logs	dir	0	
+./Ai-Merge-GitHub/.git/ai/working_logs/d7bd3df32c85a2b9cd57fb25fa4c590ecf27129b	dir	0	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial	dir	0	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs	dir	0	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/15d2dd91beb755ffa99e357ca3ef7a486ce4538bb523678dc8ad87177c4ee896	file	842	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/23c0bdc9b514ff745cea71791235ba4be95028ebdc797b5123439884a400e70f	file	7776	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/2c9261a802650ea7b4348776c0793cdce2f4cf4d7123de9afb1e9bf301a9d841	file	2089	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/6c09a28b76a0197e00d891e72720447d9f5e6c8d3d2c3cfbce9f055954aa0f48	file	1617	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/70bcc7a9ed94bf3a072f66a766b988d01d38c8b587a42bcf56a1e5f84c2702de	file	561	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/83a46e2ba1bc77cf6ba0905f221b726d05c5aaa155b6e82ee2f108e7fb3059d5	file	839	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/a1f2ef6fe1965509b82674c0c98cc0271966a56dc1f3eed611c62e99804f5ab9	file	801	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/ad2b6446017dfc59946d9f0c5ccf08c6b4fdb322cc6b2ddca52f184af53fce3b	file	2026	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/blobs/c228068f3d632ec37f5a055227233676f0aff4b709dab8eae56f928b7d1c2316	file	1077	
+./Ai-Merge-GitHub/.git/ai/working_logs/initial/checkpoints.jsonl	file	8126	jsonl
+./Ai-Merge-GitHub/.git/COMMIT_EDITMSG	file	412	
+./Ai-Merge-GitHub/.git/config	file	312	
+./Ai-Merge-GitHub/.git/description	file	73	
+./Ai-Merge-GitHub/.git/FETCH_HEAD	file	119	
+./Ai-Merge-GitHub/.git/HEAD	file	21	
+./Ai-Merge-GitHub/.git/hooks	dir	0	
+./Ai-Merge-GitHub/.git/hooks/applypatch-msg.sample	file	478	sample
+./Ai-Merge-GitHub/.git/hooks/commit-msg.sample	file	896	sample
+./Ai-Merge-GitHub/.git/hooks/fsmonitor-watchman.sample	file	4726	sample
+./Ai-Merge-GitHub/.git/hooks/post-update.sample	file	189	sample
+./Ai-Merge-GitHub/.git/hooks/pre-applypatch.sample	file	424	sample
+./Ai-Merge-GitHub/.git/hooks/pre-commit.sample	file	1649	sample
+./Ai-Merge-GitHub/.git/hooks/pre-merge-commit.sample	file	416	sample
+./Ai-Merge-GitHub/.git/hooks/pre-push.sample	file	1374	sample
+./Ai-Merge-GitHub/.git/hooks/pre-rebase.sample	file	4898	sample
+./Ai-Merge-GitHub/.git/hooks/pre-receive.sample	file	544	sample
+./Ai-Merge-GitHub/.git/hooks/prepare-commit-msg.sample	file	1492	sample
+./Ai-Merge-GitHub/.git/hooks/push-to-checkout.sample	file	2783	sample
+./Ai-Merge-GitHub/.git/hooks/sendemail-validate.sample	file	2308	sample
+./Ai-Merge-GitHub/.git/hooks/update.sample	file	3650	sample
+./Ai-Merge-GitHub/.git/index	file	3327	
+./Ai-Merge-GitHub/.git/info	dir	0	
+./Ai-Merge-GitHub/.git/info/exclude	file	240	
+./Ai-Merge-GitHub/.git/logs	dir	0	
+./Ai-Merge-GitHub/.git/logs/.DS_Store	file	6148	
+./Ai-Merge-GitHub/.git/logs/HEAD	file	1556	
+./Ai-Merge-GitHub/.git/logs/refs	dir	0	
+./Ai-Merge-GitHub/.git/logs/refs/heads	dir	0	
+./Ai-Merge-GitHub/.git/logs/refs/heads/main	file	1212	
+./Ai-Merge-GitHub/.git/logs/refs/remotes	dir	0	
+./Ai-Merge-GitHub/.git/logs/refs/remotes/origin	dir	0	
+./Ai-Merge-GitHub/.git/logs/refs/remotes/origin/HEAD	file	137	
+./Ai-Merge-GitHub/.git/logs/refs/remotes/origin/main	file	742	
+./Ai-Merge-GitHub/.git/objects	dir	0	
+./Ai-Merge-GitHub/.git/objects/.DS_Store	file	12292	
+./Ai-Merge-GitHub/.git/objects/01	dir	0	
+./Ai-Merge-GitHub/.git/objects/01/58274272b8af9ec00dfb58d647b4d3803cc2a1	file	1296	
+./Ai-Merge-GitHub/.git/objects/06	dir	0	
+./Ai-Merge-GitHub/.git/objects/06/5f44f2c061cc237939c821dffb41f11b11d740	file	9022	
+./Ai-Merge-GitHub/.git/objects/07	dir	0	
+./Ai-Merge-GitHub/.git/objects/07/74da113e409d2eb24e5b0ff28e7b250444cb89	file	1850	
+./Ai-Merge-GitHub/.git/objects/0a	dir	0	
+./Ai-Merge-GitHub/.git/objects/0a/9a221c8c1d8046f9772e28bf57caa53d2145df	file	3143	
+./Ai-Merge-GitHub/.git/objects/0a/ecb5c9b9eaf8480e6ea3ddd56958f770a73a1c	file	838	
+./Ai-Merge-GitHub/.git/objects/0e	dir	0	
+./Ai-Merge-GitHub/.git/objects/0e/3956a5b42f21f6f4a5ba76be53ede505a2f1cc	file	2217	
+./Ai-Merge-GitHub/.git/objects/13	dir	0	
+./Ai-Merge-GitHub/.git/objects/13/14a0a03d7ae1f3e66f5d897d802d682e1ca304	file	695	
+./Ai-Merge-GitHub/.git/objects/24	dir	0	
+./Ai-Merge-GitHub/.git/objects/24/02a0267724db1c23b5adc05a3c1368f5fe72e2	file	1236	
+./Ai-Merge-GitHub/.git/objects/2b	dir	0	
+./Ai-Merge-GitHub/.git/objects/2b/dbd093ddf63910e799da94b1e00d69d312d769	file	90	
+./Ai-Merge-GitHub/.git/objects/2c	dir	0	
+./Ai-Merge-GitHub/.git/objects/2c/f0460a29d0a0150f3cdafcbd640d393c18da33	file	662	
+./Ai-Merge-GitHub/.git/objects/30	dir	0	
+./Ai-Merge-GitHub/.git/objects/30/100c9b3365b8491bd5c59fee6d34e9aa681627	file	500	
+./Ai-Merge-GitHub/.git/objects/32	dir	0	
+./Ai-Merge-GitHub/.git/objects/32/02887dcfba9dd9ea43a2b2273878a0056611cc	file	890	
+./Ai-Merge-GitHub/.git/objects/32/a1998982409cf30604f39b9787eef94fe15d9a	file	463	
+./Ai-Merge-GitHub/.git/objects/3f	dir	0	
+./Ai-Merge-GitHub/.git/objects/3f/4eabf5767f6b8f351e1a336949d60644226c84	file	551	
+./Ai-Merge-GitHub/.git/objects/41	dir	0	
+./Ai-Merge-GitHub/.git/objects/41/6b1ccdffabe89b347818c73a016f447c2426cb	file	2173	
+./Ai-Merge-GitHub/.git/objects/41/e06adbb762f0fa66d8300dc9931281d8c150b7	file	210	
+./Ai-Merge-GitHub/.git/objects/4c	dir	0	
+./Ai-Merge-GitHub/.git/objects/4c/a4c5aba1304a0fd66a0b844cccdebf4931ce26	file	278	
+./Ai-Merge-GitHub/.git/objects/4f	dir	0	
+./Ai-Merge-GitHub/.git/objects/4f/fafe76159bf73107b6dfaa4d82e249e1ad8214	file	53	
+./Ai-Merge-GitHub/.git/objects/51	dir	0	
+./Ai-Merge-GitHub/.git/objects/51/aaf75de6a5b5cac2ba4c16fba73e22df737641	file	417	
+./Ai-Merge-GitHub/.git/objects/56	dir	0	
+./Ai-Merge-GitHub/.git/objects/56/50f8a0c83299b80023da68683db72949145286	file	7096	
+./Ai-Merge-GitHub/.git/objects/57	dir	0	
+./Ai-Merge-GitHub/.git/objects/57/69eaf7bbf063c2bbf1eb2aa75e1dcf8918e500	file	2693	
+./Ai-Merge-GitHub/.git/objects/58	dir	0	
+./Ai-Merge-GitHub/.git/objects/58/1e0e833dc9b24e9f7d361bd1c0744f75497ce8	file	392	
+./Ai-Merge-GitHub/.git/objects/59	dir	0	
+./Ai-Merge-GitHub/.git/objects/59/58047d3201a05e7db9fc86db7aa325681d5334	file	904	
+./Ai-Merge-GitHub/.git/objects/5a	dir	0	
+./Ai-Merge-GitHub/.git/objects/5a/37c133487375306858bede581054b570ef870d	file	533	
+./Ai-Merge-GitHub/.git/objects/5e	dir	0	
+./Ai-Merge-GitHub/.git/objects/5e/21d5be9355613f390fe753c4301247c3126809	file	33	
+./Ai-Merge-GitHub/.git/objects/60	dir	0	
+./Ai-Merge-GitHub/.git/objects/60/fdfb063807f6d5b71ca76358b659165edb4f51	file	655	
+./Ai-Merge-GitHub/.git/objects/69	dir	0	
+./Ai-Merge-GitHub/.git/objects/69/396903261b8b7f8c993a0b9cfbb895af72f29a	file	850	
+./Ai-Merge-GitHub/.git/objects/6d	dir	0	
+./Ai-Merge-GitHub/.git/objects/6d/1eca6cc1e6eecc44783e1e2bdc83908860d56a	file	1679	
+./Ai-Merge-GitHub/.git/objects/6d/2dc254882a497f713c66508f21f75f56e70dfe	file	66	
+./Ai-Merge-GitHub/.git/objects/74	dir	0	
+./Ai-Merge-GitHub/.git/objects/74/39d4d76399919060935485b33ab0390a21b051	file	637	
+./Ai-Merge-GitHub/.git/objects/75	dir	0	
+./Ai-Merge-GitHub/.git/objects/75/1eb92951e690beb7c0d9335b8996dfba538dab	file	430	
+./Ai-Merge-GitHub/.git/objects/7b	dir	0	
+./Ai-Merge-GitHub/.git/objects/7b/10009a216dc0363d50c98b6633098a4a74bf14	file	1092	
+./Ai-Merge-GitHub/.git/objects/7b/7ff3e51cd4473eac6bdd106564bf29abdcb956	file	655	
+./Ai-Merge-GitHub/.git/objects/88	dir	0	
+./Ai-Merge-GitHub/.git/objects/88/5188ead83b327d01d325e7d41c85561a493540	file	399	
+./Ai-Merge-GitHub/.git/objects/8d	dir	0	
+./Ai-Merge-GitHub/.git/objects/8d/6a43b0f4a5ae921177ef3f5a18f9dd1f49c33a	file	1754	
+./Ai-Merge-GitHub/.git/objects/8e	dir	0	
+./Ai-Merge-GitHub/.git/objects/8e/af25b62cb256912b060440b665fbe33f67db21	file	3451	
+./Ai-Merge-GitHub/.git/objects/94	dir	0	
+./Ai-Merge-GitHub/.git/objects/94/3575497cd1f729a21edb63ad5721cc55fc545f	file	945	
+./Ai-Merge-GitHub/.git/objects/9a	dir	0	
+./Ai-Merge-GitHub/.git/objects/9a/f402cd71dcb97448d40ec161946fb5edd59ab0	file	3287	
+./Ai-Merge-GitHub/.git/objects/9b	dir	0	
+./Ai-Merge-GitHub/.git/objects/9b/be56c011dc9d74038074321b800bc0cfccc993	file	1463	
+./Ai-Merge-GitHub/.git/objects/9c	dir	0	
+./Ai-Merge-GitHub/.git/objects/9c/26409bd8796a9237fe199cd47d2b135118e5fc	file	849	
+./Ai-Merge-GitHub/.git/objects/9e	dir	0	
+./Ai-Merge-GitHub/.git/objects/9e/b067273527f74fe49e87410055c63edb070a2d	file	883	
+./Ai-Merge-GitHub/.git/objects/a8	dir	0	
+./Ai-Merge-GitHub/.git/objects/a8/a58947f049072aa24bce70338d6a6deea54143	file	552	
+./Ai-Merge-GitHub/.git/objects/ab	dir	0	
+./Ai-Merge-GitHub/.git/objects/ab/ba39aaef5ed58d80e4b58ddc1ed28bd776d15b	file	3077	
+./Ai-Merge-GitHub/.git/objects/b2	dir	0	
+./Ai-Merge-GitHub/.git/objects/b2/e0122e1022b812baa9c2a3fe0b44880a50f724	file	615	
+./Ai-Merge-GitHub/.git/objects/bf	dir	0	
+./Ai-Merge-GitHub/.git/objects/bf/b5908e2a4cbe80e7d3cae7005bb7710a0c789e	file	695	
+./Ai-Merge-GitHub/.git/objects/c1	dir	0	
+./Ai-Merge-GitHub/.git/objects/c1/933f7edf43254b0ca580a54bd1ee7aed990b66	file	96	
+./Ai-Merge-GitHub/.git/objects/c1/d9f47bbedb29639f0d42bb683e36095c3a9852	file	2861	
+./Ai-Merge-GitHub/.git/objects/c2	dir	0	
+./Ai-Merge-GitHub/.git/objects/c2/f78bc6719994409228b82c5f5f45f62aeeeba9	file	3622	
+./Ai-Merge-GitHub/.git/objects/c3	dir	0	
+./Ai-Merge-GitHub/.git/objects/c3/cc8126d57e876109cca52af2b87e7ef356678d	file	2001	
+./Ai-Merge-GitHub/.git/objects/cc	dir	0	
+./Ai-Merge-GitHub/.git/objects/cc/295818aae3e04d089aaccd1fa53d87282161a4	file	360	
+./Ai-Merge-GitHub/.git/objects/cc/77aad58da5e3f754a23aee8905b44cf9d123bc	file	390	
+./Ai-Merge-GitHub/.git/objects/d2	dir	0	
+./Ai-Merge-GitHub/.git/objects/d2/89eacd214f6491bad34bd8a2f25c2fb8316be8	file	784	
+./Ai-Merge-GitHub/.git/objects/d7	dir	0	
+./Ai-Merge-GitHub/.git/objects/d7/bd3df32c85a2b9cd57fb25fa4c590ecf27129b	file	401	
+./Ai-Merge-GitHub/.git/objects/df	dir	0	
+./Ai-Merge-GitHub/.git/objects/df/06c77b2725f6e4087847e5130b0ff9c2d5fccb	file	2385	
+./Ai-Merge-GitHub/.git/objects/e4	dir	0	
+./Ai-Merge-GitHub/.git/objects/e4/d2f5b6c7eaef423f17b296026ccc000b8cba2f	file	883	
+./Ai-Merge-GitHub/.git/objects/ec	dir	0	
+./Ai-Merge-GitHub/.git/objects/ec/391fe12df60c8caa5a2e07291b9f509a50c456	file	1001	
+./Ai-Merge-GitHub/.git/objects/f8	dir	0	
+./Ai-Merge-GitHub/.git/objects/f8/4fbca1c0bec968aa2b0c00670e9bc768fd40e5	file	86	
+./Ai-Merge-GitHub/.git/objects/f9	dir	0	
+./Ai-Merge-GitHub/.git/objects/f9/79070d2b9865a0e72b66aff062ddeaf591b26d	file	210	
+./Ai-Merge-GitHub/.git/objects/fa	dir	0	
+./Ai-Merge-GitHub/.git/objects/fa/669ac35a82dbc64add69bf9a563695b4e8526b	file	1378	
+./Ai-Merge-GitHub/.git/objects/fd	dir	0	
+./Ai-Merge-GitHub/.git/objects/fd/046ed085cd1ba819609324ab1afdab249b7c93	file	938	
+./Ai-Merge-GitHub/.git/objects/info	dir	0	
+./Ai-Merge-GitHub/.git/objects/pack	dir	0	
+./Ai-Merge-GitHub/.git/ORIG_HEAD	file	41	
+./Ai-Merge-GitHub/.git/refs	dir	0	
+./Ai-Merge-GitHub/.git/refs/.DS_Store	file	6148	
+./Ai-Merge-GitHub/.git/refs/heads	dir	0	
+./Ai-Merge-GitHub/.git/refs/heads/main	file	41	
+./Ai-Merge-GitHub/.git/refs/remotes	dir	0	
+./Ai-Merge-GitHub/.git/refs/remotes/origin	dir	0	
+./Ai-Merge-GitHub/.git/refs/remotes/origin/HEAD	file	30	
+./Ai-Merge-GitHub/.git/refs/remotes/origin/main	file	41	
+./Ai-Merge-GitHub/.git/refs/tags	dir	0	
+./Ai-Merge-GitHub/.github	dir	0	
+./Ai-Merge-GitHub/.github/.DS_Store	file	6148	
+./Ai-Merge-GitHub/.github/ISSUE_TEMPLATE	dir	0	
+./Ai-Merge-GitHub/.github/ISSUE_TEMPLATE/bug_report.md	file	839	md
+./Ai-Merge-GitHub/.github/ISSUE_TEMPLATE/feature_request.md	file	842	md
+./Ai-Merge-GitHub/.github/workflows	dir	0	
+./Ai-Merge-GitHub/.github/workflows/release.yml	file	801	yml
+./Ai-Merge-GitHub/.github/workflows/tests.yml	file	1617	yml
+./Ai-Merge-GitHub/.gitignore	file	388	
+./Ai-Merge-GitHub/ai_merge_system.py	file	23658	py
+./Ai-Merge-GitHub/API.md	file	5472	md
+./Ai-Merge-GitHub/AUTO_SETUP_README.md	file	4925	md
+./Ai-Merge-GitHub/CONTRIBUTING.md	file	965	md
+./Ai-Merge-GitHub/deploy_to_github.sh	file	3752	sh
+./Ai-Merge-GitHub/DEPLOYMENT_SUCCESS.md	file	5900	md
+./Ai-Merge-GitHub/DEPLOYMENT_SUMMARY.md	file	8480	md
+./Ai-Merge-GitHub/examples	dir	0	
+./Ai-Merge-GitHub/examples/auto_setup_example.py	file	1440	py
+./Ai-Merge-GitHub/examples/basic_example.py	file	2067	py
+./Ai-Merge-GitHub/examples/basic_usage.py	file	5692	py
+./Ai-Merge-GitHub/examples/multi_ai_code_review.py	file	1339	py
+./Ai-Merge-GitHub/examples/multi_modal_example.py	file	3453	py
+./Ai-Merge-GitHub/GETTING_STARTED.md	file	6670	md
+./Ai-Merge-GitHub/GITHUB_ACCOUNTS_AUDIT.md	file	2596	md
+./Ai-Merge-GitHub/GITHUB_INTEGRATION.md	file	1610	md
+./Ai-Merge-GitHub/INNOVATION_FRAMEWORK.md	file	5875	md
+./Ai-Merge-GitHub/LICENSE	file	1067	
+./Ai-Merge-GitHub/multi_modal_ai_merge_system.py	file	35334	py
+./Ai-Merge-GitHub/MULTI_MODAL_EXTENSION.md	file	4850	md
+./Ai-Merge-GitHub/QUICK_DEPLOY.sh	file	4861	sh
+./Ai-Merge-GitHub/README_GITHUB.md	file	7776	md
+./Ai-Merge-GitHub/README.md	file	1850	md
+./Ai-Merge-GitHub/requirements.txt	file	265	txt
+./Ai-Merge-GitHub/setup.py	file	9120	py
+./Ai-Merge-GitHub/SUMMARY.md	file	7205	md

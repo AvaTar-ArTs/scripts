@@ -1,0 +1,396 @@
+category,filename,path,size_kb
+Code Analysis & Refactoring,check-quality.py,/Users/steven/Documents/pythons/check-quality.py,3.6
+Code Analysis & Refactoring,python-lint-complexity.py,/Users/steven/Documents/pythons/python-lint-complexity.py,1.6
+Code Analysis & Refactoring,claude-code-review-system.py,/Users/steven/Documents/pythons/claude-code-review-system.py,10.8
+Code Analysis & Refactoring,analyze-code-complexity.py,/Users/steven/Documents/pythons/analyze-code-complexity.py,17.9
+Data Processing & Conversion,merge-doc-csvs.py,/Users/steven/Documents/pythons/merge-doc-csvs.py,2.5
+Data Processing & Conversion,instagram-parse.py,/Users/steven/Documents/pythons/instagram-parse.py,3.0
+Data Processing & Conversion,leonardo-convert-loop.py,/Users/steven/Documents/pythons/leonardo-convert-loop.py,5.6
+Data Processing & Conversion,validate-json-reader.py,/Users/steven/Documents/pythons/validate-json-reader.py,27.4
+Data Processing & Conversion,parse-api.py,/Users/steven/Documents/pythons/parse-api.py,9.6
+Data Processing & Conversion,scancsv.py,/Users/steven/Documents/pythons/scancsv.py,1.2
+Data Processing & Conversion,convertupscale.py,/Users/steven/Documents/pythons/convertupscale.py,2.0
+Data Processing & Conversion,image-extract-prompt-metadata.py,/Users/steven/Documents/pythons/image-extract-prompt-metadata.py,6.4
+Data Processing & Conversion,csvmerge.py,/Users/steven/Documents/pythons/csvmerge.py,2.1
+Data Processing & Conversion,csv-media-catalog-helper.py,/Users/steven/Documents/pythons/csv-media-catalog-helper.py,1.9
+Data Processing & Conversion,extract-files.py,/Users/steven/Documents/pythons/extract-files.py,1.7
+Data Processing & Conversion,convert-aiff-to-mp3.py,/Users/steven/Documents/pythons/convert-aiff-to-mp3.py,1.8
+Data Processing & Conversion,util-json-handler.py,/Users/steven/Documents/pythons/util-json-handler.py,2.2
+Data Processing & Conversion,leonardo-convert-loop2.py,/Users/steven/Documents/pythons/leonardo-convert-loop2.py,6.2
+Data Processing & Conversion,parse-reddit-post.py,/Users/steven/Documents/pythons/parse-reddit-post.py,0.9
+Data Processing & Conversion,extract-to-audio.py,/Users/steven/Documents/pythons/extract-to-audio.py,2.1
+Data Processing & Conversion,convert-markdown-to-pdf.py,/Users/steven/Documents/pythons/convert-markdown-to-pdf.py,6.8
+Data Processing & Conversion,image-to-image-converter.py,/Users/steven/Documents/pythons/image-to-image-converter.py,2.2
+Data Processing & Conversion,convert.py,/Users/steven/Documents/pythons/convert.py,13.2
+Data Processing & Conversion,csvsort.py,/Users/steven/Documents/pythons/csvsort.py,1.8
+Data Processing & Conversion,process-csv-docs.py,/Users/steven/Documents/pythons/process-csv-docs.py,6.6
+Data Processing & Conversion,parse-simple.py,/Users/steven/Documents/pythons/parse-simple.py,2.9
+Data Processing & Conversion,pdfcsv.py,/Users/steven/Documents/pythons/pdfcsv.py,0.2
+Data Processing & Conversion,image-convert-upscale.py,/Users/steven/Documents/pythons/image-convert-upscale.py,2.0
+Data Processing & Conversion,csv-file-lister.py,/Users/steven/Documents/pythons/csv-file-lister.py,3.1
+Data Processing & Conversion,sufflecsv.py,/Users/steven/Documents/pythons/sufflecsv.py,0.9
+Data Processing & Conversion,export-analysis-to-csv.py,/Users/steven/Documents/pythons/export-analysis-to-csv.py,10.7
+Data Processing & Conversion,process-remix.py,/Users/steven/Documents/pythons/process-remix.py,9.0
+Data Processing & Conversion,etsy-printify-download-csv.py,/Users/steven/Documents/pythons/etsy-printify-download-csv.py,1.4
+Data Processing & Conversion,analyze-json-writer.py,/Users/steven/Documents/pythons/analyze-json-writer.py,6.6
+Data Processing & Conversion,development-utils-jsonutil.py,/Users/steven/Documents/pythons/development-utils-jsonutil.py,5.9
+Data Processing & Conversion,parse-main.py,/Users/steven/Documents/pythons/parse-main.py,6.9
+Data Processing & Conversion,catalog-to-csv.py,/Users/steven/Documents/pythons/catalog-to-csv.py,5.3
+Data Processing & Conversion,suno-merge-suno-csv.py,/Users/steven/Documents/pythons/suno-merge-suno-csv.py,10.4
+Data Processing & Conversion,csv-extract-webm-files.py,/Users/steven/Documents/pythons/csv-extract-webm-files.py,0.8
+Data Processing & Conversion,sitemap-random-product-extractor.py,/Users/steven/Documents/pythons/sitemap-random-product-extractor.py,1.3
+Data Processing & Conversion,gallery-url-parser.py,/Users/steven/Documents/pythons/gallery-url-parser.py,3.7
+Data Processing & Conversion,converts.py,/Users/steven/Documents/pythons/converts.py,2.5
+Data Processing & Conversion,csv-print-on-demand-catalog.py,/Users/steven/Documents/pythons/csv-print-on-demand-catalog.py,1.0
+Data Processing & Conversion,suno-extract-songs.py,/Users/steven/Documents/pythons/suno-extract-songs.py,4.3
+Data Processing & Conversion,instagram-extract-video-reader.py,/Users/steven/Documents/pythons/instagram-extract-video-reader.py,2.8
+Data Processing & Conversion,convert-conversations-to-csv.py,/Users/steven/Documents/pythons/convert-conversations-to-csv.py,2.4
+Data Processing & Conversion,leonardo-convert.py,/Users/steven/Documents/pythons/leonardo-convert.py,7.1
+Data Processing & Conversion,leonardo-process-images.py,/Users/steven/Documents/pythons/leonardo-process-images.py,1.7
+Data Processing & Conversion,converters.py,/Users/steven/Documents/pythons/converters.py,3.5
+Data Processing & Conversion,leonardo-convert-json-writer.py,/Users/steven/Documents/pythons/leonardo-convert-json-writer.py,6.9
+Data Processing & Conversion,csv-image-file-mover.py,/Users/steven/Documents/pythons/csv-image-file-mover.py,1.8
+Data Processing & Conversion,process-json.py,/Users/steven/Documents/pythons/process-json.py,31.1
+Data Processing & Conversion,parse.py,/Users/steven/Documents/pythons/parse.py,3.7
+Data Processing & Conversion,extract-news-to-audio.py,/Users/steven/Documents/pythons/extract-news-to-audio.py,2.1
+Data Processing & Conversion,dallecsv.py,/Users/steven/Documents/pythons/dallecsv.py,1.1
+Data Processing & Conversion,suno-extract-suno-html.py,/Users/steven/Documents/pythons/suno-extract-suno-html.py,9.6
+Data Processing & Conversion,openai-csv-metadata-filler.py,/Users/steven/Documents/pythons/openai-csv-metadata-filler.py,3.8
+Data Processing & Conversion,gdrive-link-converter.py,/Users/steven/Documents/pythons/gdrive-link-converter.py,1.0
+Data Processing & Conversion,development-process-proc.py,/Users/steven/Documents/pythons/development-process-proc.py,5.5
+Data Processing & Conversion,extract.py,/Users/steven/Documents/pythons/extract.py,6.7
+Data Processing & Conversion,extract-topic-from-text.py,/Users/steven/Documents/pythons/extract-topic-from-text.py,2.1
+Data Processing & Conversion,backupcsv.py,/Users/steven/Documents/pythons/backupcsv.py,2.1
+Data Processing & Conversion,process-imove-backups.py,/Users/steven/Documents/pythons/process-imove-backups.py,1.2
+Data Processing & Conversion,suno-merge-csv.py,/Users/steven/Documents/pythons/suno-merge-csv.py,9.5
+Data Processing & Conversion,extract-archived-content.py,/Users/steven/Documents/pythons/extract-archived-content.py,21.8
+Data Processing & Conversion,database-clients-extract.py,/Users/steven/Documents/pythons/database-clients-extract.py,15.4
+File & Folder Organization,rename-files-utility.py,/Users/steven/Documents/pythons/rename-files-utility.py,28.7
+File & Folder Organization,smart-conservative-renamer.py,/Users/steven/Documents/pythons/smart-conservative-renamer.py,17.5
+File & Folder Organization,rename-by-purpose.py,/Users/steven/Documents/pythons/rename-by-purpose.py,6.5
+File & Folder Organization,cleanup-external-volumes.py,/Users/steven/Documents/pythons/cleanup-external-volumes.py,13.6
+File & Folder Organization,avatararts-flatten.py,/Users/steven/Documents/pythons/avatararts-flatten.py,7.1
+File & Folder Organization,organize-files-intelligent.py,/Users/steven/Documents/pythons/organize-files-intelligent.py,37.1
+File & Folder Organization,comprehensive-dedup-rename.py,/Users/steven/Documents/pythons/comprehensive-dedup-rename.py,5.7
+File & Folder Organization,organize-youtube-root.py,/Users/steven/Documents/pythons/organize-youtube-root.py,9.8
+File & Folder Organization,batch-volume-cleanup.py,/Users/steven/Documents/pythons/batch-volume-cleanup.py,8.0
+File & Folder Organization,simple-flat-organizer.py,/Users/steven/Documents/pythons/simple-flat-organizer.py,8.8
+File & Folder Organization,intelligent-renamer-1.py,/Users/steven/Documents/pythons/intelligent-renamer-1.py,40.3
+File & Folder Organization,content-aware-organizer.py,/Users/steven/Documents/pythons/content-aware-organizer.py,22.3
+File & Folder Organization,smart-rename-versions.py,/Users/steven/Documents/pythons/smart-rename-versions.py,4.9
+File & Folder Organization,aggressive-filename-cleaner.py,/Users/steven/Documents/pythons/aggressive-filename-cleaner.py,10.2
+File & Folder Organization,instagram-bulk-renamer.py,/Users/steven/Documents/pythons/instagram-bulk-renamer.py,8.1
+File & Folder Organization,organize-excel-files.py,/Users/steven/Documents/pythons/organize-excel-files.py,23.4
+File & Folder Organization,organize-printify-products.py,/Users/steven/Documents/pythons/organize-printify-products.py,7.3
+File & Folder Organization,instagram-aggressive-renamer.py,/Users/steven/Documents/pythons/instagram-aggressive-renamer.py,15.0
+File & Folder Organization,pyorganize.py,/Users/steven/Documents/pythons/pyorganize.py,2.4
+File & Folder Organization,reorganize-by-service.py,/Users/steven/Documents/pythons/reorganize-by-service.py,6.8
+File & Folder Organization,smart-local-renamer.py,/Users/steven/Documents/pythons/smart-local-renamer.py,8.0
+File & Folder Organization,consolidate-python-ecosystem.py,/Users/steven/Documents/pythons/consolidate-python-ecosystem.py,10.9
+File & Folder Organization,duplicate-cleaner.py,/Users/steven/Documents/pythons/duplicate-cleaner.py,9.7
+File & Folder Organization,rename.py,/Users/steven/Documents/pythons/rename.py,5.0
+File & Folder Organization,organize.py,/Users/steven/Documents/pythons/organize.py,12.5
+File & Folder Organization,etsy-sort.py,/Users/steven/Documents/pythons/etsy-sort.py,2.7
+File & Folder Organization,docs-reorganizer.py,/Users/steven/Documents/pythons/docs-reorganizer.py,13.9
+File & Folder Organization,instagram-directory-organizer.py,/Users/steven/Documents/pythons/instagram-directory-organizer.py,12.3
+File & Folder Organization,suno-music-sort-dedup.py,/Users/steven/Documents/pythons/suno-music-sort-dedup.py,20.4
+File & Folder Organization,album-sorting.py,/Users/steven/Documents/pythons/album-sorting.py,4.9
+File & Folder Organization,instagram-reorganize.py,/Users/steven/Documents/pythons/instagram-reorganize.py,15.1
+File & Folder Organization,deep-content-renamer.py,/Users/steven/Documents/pythons/deep-content-renamer.py,17.9
+File & Folder Organization,simple-smart-renamer.py,/Users/steven/Documents/pythons/simple-smart-renamer.py,5.8
+File & Folder Organization,clean-folder-names-no-vols.py,/Users/steven/Documents/pythons/clean-folder-names-no-vols.py,11.2
+File & Folder Organization,renamer.py,/Users/steven/Documents/pythons/renamer.py,16.6
+File & Folder Organization,import-clean-conversations.py,/Users/steven/Documents/pythons/import-clean-conversations.py,6.6
+File & Folder Organization,suno-albums-folder-organizer.py,/Users/steven/Documents/pythons/suno-albums-folder-organizer.py,2.6
+File & Folder Organization,consolidate-versions.py,/Users/steven/Documents/pythons/consolidate-versions.py,4.2
+File & Folder Organization,simplify-organizer.py,/Users/steven/Documents/pythons/simplify-organizer.py,17.8
+File & Folder Organization,organize-directory.py,/Users/steven/Documents/pythons/organize-directory.py,13.0
+File & Folder Organization,clean-flatten-names.py,/Users/steven/Documents/pythons/clean-flatten-names.py,4.2
+File & Folder Organization,preservation-renamer.py,/Users/steven/Documents/pythons/preservation-renamer.py,18.1
+File & Folder Organization,organize-files.py,/Users/steven/Documents/pythons/organize-files.py,22.2
+File & Folder Organization,flatten-all-album-structure.py,/Users/steven/Documents/pythons/flatten-all-album-structure.py,8.8
+File & Folder Organization,smart-organizer.py,/Users/steven/Documents/pythons/smart-organizer.py,15.8
+File & Folder Organization,instagram-rename-suno-files.py,/Users/steven/Documents/pythons/instagram-rename-suno-files.py,23.7
+File & Folder Organization,thinketh-content-renamer-from-seo-optimizer.py,/Users/steven/Documents/pythons/thinketh-content-renamer-from-seo-optimizer.py,12.5
+File & Folder Organization,PROCESS_BATCH_RENAMES.py,/Users/steven/Documents/pythons/PROCESS_BATCH_RENAMES.py,5.6
+File & Folder Organization,organize-images-by-year.py,/Users/steven/Documents/pythons/organize-images-by-year.py,1.1
+File & Folder Organization,python-intelligent-rename.py,/Users/steven/Documents/pythons/python-intelligent-rename.py,94.1
+File & Folder Organization,folder-by-folder-cleanup.py,/Users/steven/Documents/pythons/folder-by-folder-cleanup.py,6.7
+File & Folder Organization,smart-content-renamer-v3.py,/Users/steven/Documents/pythons/smart-content-renamer-v3.py,32.5
+File & Folder Organization,suno-album-file-organizer.py,/Users/steven/Documents/pythons/suno-album-file-organizer.py,3.0
+File & Folder Organization,run-all-renamers.py,/Users/steven/Documents/pythons/run-all-renamers.py,8.6
+File & Folder Organization,verify-and-sort-missing-songs.py,/Users/steven/Documents/pythons/verify-and-sort-missing-songs.py,17.0
+File & Folder Organization,downloads-organizer-dedup.py,/Users/steven/Documents/pythons/downloads-organizer-dedup.py,21.2
+File & Folder Organization,instagram-sort.py,/Users/steven/Documents/pythons/instagram-sort.py,13.7
+File & Folder Organization,smart-content-renamer-v2.py,/Users/steven/Documents/pythons/smart-content-renamer-v2.py,16.1
+File & Folder Organization,organizer.py,/Users/steven/Documents/pythons/organizer.py,2.6
+File & Folder Organization,batch-cleanup-analyzer.py,/Users/steven/Documents/pythons/batch-cleanup-analyzer.py,10.4
+File & Folder Organization,thinketh-content-renamer.py,/Users/steven/Documents/pythons/thinketh-content-renamer.py,12.5
+File & Folder Organization,sorts.py,/Users/steven/Documents/pythons/sorts.py,9.2
+File & Folder Organization,super-flatten.py,/Users/steven/Documents/pythons/super-flatten.py,8.3
+Content Generation & Creation,suno-content-creation-suno.py,/Users/steven/Documents/pythons/suno-content-creation-suno.py,4.3
+Content Generation & Creation,leonardo-content-creation-leonardo.py,/Users/steven/Documents/pythons/leonardo-content-creation-leonardo.py,2.6
+Content Generation & Creation,generatetexts.py,/Users/steven/Documents/pythons/generatetexts.py,0.6
+Content Generation & Creation,openai-image-generater.py,/Users/steven/Documents/pythons/openai-image-generater.py,3.4
+Content Generation & Creation,DEEP-CONTENT-ANALYSIS.py,/Users/steven/Documents/pythons/DEEP-CONTENT-ANALYSIS.py,9.5
+Content Generation & Creation,create-strip.py,/Users/steven/Documents/pythons/create-strip.py,1.4
+Content Generation & Creation,adaptive-content-awareness.py,/Users/steven/Documents/pythons/adaptive-content-awareness.py,25.5
+Content Generation & Creation,content-aware.py,/Users/steven/Documents/pythons/content-aware.py,11.1
+Content Generation & Creation,advanced-content-pipeline.py,/Users/steven/Documents/pythons/advanced-content-pipeline.py,13.4
+Content Generation & Creation,generatetexts-1.py,/Users/steven/Documents/pythons/generatetexts-1.py,1.3
+Content Generation & Creation,openai-generate.py,/Users/steven/Documents/pythons/openai-generate.py,1.5
+Content Generation & Creation,image-generate-pics.py,/Users/steven/Documents/pythons/image-generate-pics.py,6.6
+Content Generation & Creation,generate-file-move-log.py,/Users/steven/Documents/pythons/generate-file-move-log.py,2.2
+Content Generation & Creation,generate-text-overlay.py,/Users/steven/Documents/pythons/generate-text-overlay.py,3.1
+Content Generation & Creation,createdb.py,/Users/steven/Documents/pythons/createdb.py,0.1
+Content Generation & Creation,leonardo-autonomous-content-agency.py,/Users/steven/Documents/pythons/leonardo-autonomous-content-agency.py,25.6
+Content Generation & Creation,upscalecreateimages.py,/Users/steven/Documents/pythons/upscalecreateimages.py,5.2
+Content Generation & Creation,screenshot-generate.py,/Users/steven/Documents/pythons/screenshot-generate.py,4.0
+Content Generation & Creation,content-aware-analyzer.py,/Users/steven/Documents/pythons/content-aware-analyzer.py,15.6
+Content Generation & Creation,openai-content-creation-nocturne.py,/Users/steven/Documents/pythons/openai-content-creation-nocturne.py,1.5
+Content Generation & Creation,leonardo-content-factory.py,/Users/steven/Documents/pythons/leonardo-content-factory.py,11.9
+Content Generation & Creation,generate-emotional-audio.py,/Users/steven/Documents/pythons/generate-emotional-audio.py,19.5
+Content Generation & Creation,createimages.py,/Users/steven/Documents/pythons/createimages.py,6.2
+Content Generation & Creation,deep-content-cross-reference.py,/Users/steven/Documents/pythons/deep-content-cross-reference.py,22.7
+Content Generation & Creation,openai-content-analyzer.py,/Users/steven/Documents/pythons/openai-content-analyzer.py,10.7
+Content Generation & Creation,audiobook-producer.py,/Users/steven/Documents/pythons/audiobook-producer.py,15.6
+Content Generation & Creation,content-creation-nocturne.py,/Users/steven/Documents/pythons/content-creation-nocturne.py,2.3
+Content Generation & Creation,create-gallery.py,/Users/steven/Documents/pythons/create-gallery.py,4.3
+Content Generation & Creation,leonardo-brand-builder.py,/Users/steven/Documents/pythons/leonardo-brand-builder.py,9.6
+Content Generation & Creation,comprehensive-music-content-scan.py,/Users/steven/Documents/pythons/comprehensive-music-content-scan.py,26.1
+Content Generation & Creation,create-audiobook.py,/Users/steven/Documents/pythons/create-audiobook.py,1.3
+Content Generation & Creation,downloads-index-builder.py,/Users/steven/Documents/pythons/downloads-index-builder.py,11.2
+Content Generation & Creation,intelligent-docs-builder.py,/Users/steven/Documents/pythons/intelligent-docs-builder.py,13.1
+Content Generation & Creation,create-files.py,/Users/steven/Documents/pythons/create-files.py,3.7
+Content Generation & Creation,merge-other-content-albums.py,/Users/steven/Documents/pythons/merge-other-content-albums.py,5.5
+Content Generation & Creation,create-reorganization-plan.py,/Users/steven/Documents/pythons/create-reorganization-plan.py,12.9
+Automation & Bot Frameworks,instagram-scan-leonardo-comprehensive.py,/Users/steven/Documents/pythons/instagram-scan-leonardo-comprehensive.py,9.6
+Automation & Bot Frameworks,instagram-like-user-followers.py,/Users/steven/Documents/pythons/instagram-like-user-followers.py,0.6
+Automation & Bot Frameworks,instagram-download.py,/Users/steven/Documents/pythons/instagram-download.py,17.3
+Automation & Bot Frameworks,instagram-whitelist.py,/Users/steven/Documents/pythons/instagram-whitelist.py,1.0
+Automation & Bot Frameworks,instagram-bot-template.py,/Users/steven/Documents/pythons/instagram-bot-template.py,4.0
+Automation & Bot Frameworks,instagram-follow-user-following.py,/Users/steven/Documents/pythons/instagram-follow-user-following.py,0.6
+Automation & Bot Frameworks,instagram-follow-users.py,/Users/steven/Documents/pythons/instagram-follow-users.py,0.7
+Automation & Bot Frameworks,instagram-like-users-from.py,/Users/steven/Documents/pythons/instagram-like-users-from.py,0.9
+Automation & Bot Frameworks,instagram-unlike-users.py,/Users/steven/Documents/pythons/instagram-unlike-users.py,0.6
+Automation & Bot Frameworks,instagram-stories-downloader.py,/Users/steven/Documents/pythons/instagram-stories-downloader.py,0.5
+Automation & Bot Frameworks,instagram-whisper.py,/Users/steven/Documents/pythons/instagram-whisper.py,1.7
+Automation & Bot Frameworks,instagram-processor.py,/Users/steven/Documents/pythons/instagram-processor.py,2.2
+Automation & Bot Frameworks,instagram-ecosystem-insights.py,/Users/steven/Documents/pythons/instagram-ecosystem-insights.py,9.5
+Automation & Bot Frameworks,instagram-state.py,/Users/steven/Documents/pythons/instagram-state.py,1.6
+Automation & Bot Frameworks,instagram-follow-last-user.py,/Users/steven/Documents/pythons/instagram-follow-last-user.py,0.9
+Automation & Bot Frameworks,instagram-download-photos.py,/Users/steven/Documents/pythons/instagram-download-photos.py,0.7
+Automation & Bot Frameworks,instagram-download-user-videos.py,/Users/steven/Documents/pythons/instagram-download-user-videos.py,1.3
+Automation & Bot Frameworks,instagram-like-your-last.py,/Users/steven/Documents/pythons/instagram-like-your-last.py,1.0
+Automation & Bot Frameworks,instagram-social-platforms-instagram-scraper.py,/Users/steven/Documents/pythons/instagram-social-platforms-instagram-scraper.py,117.1
+Automation & Bot Frameworks,instagram-like-user-following.py,/Users/steven/Documents/pythons/instagram-like-user-following.py,0.6
+Automation & Bot Frameworks,instagram-archive-media.py,/Users/steven/Documents/pythons/instagram-archive-media.py,0.8
+Automation & Bot Frameworks,bot-photo.py,/Users/steven/Documents/pythons/bot-photo.py,3.9
+Automation & Bot Frameworks,instagram-blacklist-timeline-liker.py,/Users/steven/Documents/pythons/instagram-blacklist-timeline-liker.py,1.0
+Automation & Bot Frameworks,instagram-follow-user-followers.py,/Users/steven/Documents/pythons/instagram-follow-user-followers.py,0.8
+Automation & Bot Frameworks,instagram-infinity-hashtags-liker.py,/Users/steven/Documents/pythons/instagram-infinity-hashtags-liker.py,0.7
+Automation & Bot Frameworks,instagram-handle-checker.py,/Users/steven/Documents/pythons/instagram-handle-checker.py,3.6
+Automation & Bot Frameworks,instagram-collect-stats.py,/Users/steven/Documents/pythons/instagram-collect-stats.py,0.8
+Automation & Bot Frameworks,instagram-infinity-hashtags-follower.py,/Users/steven/Documents/pythons/instagram-infinity-hashtags-follower.py,0.8
+Automation & Bot Frameworks,instagram-root-scripts.py,/Users/steven/Documents/pythons/instagram-root-scripts.py,6.6
+Automation & Bot Frameworks,instagram-like-users.py,/Users/steven/Documents/pythons/instagram-like-users.py,0.7
+Automation & Bot Frameworks,instagram-welcome-message.py,/Users/steven/Documents/pythons/instagram-welcome-message.py,2.4
+Automation & Bot Frameworks,instagram-message-users.py,/Users/steven/Documents/pythons/instagram-message-users.py,2.9
+Automation & Bot Frameworks,instagram-unfollow-everyone.py,/Users/steven/Documents/pythons/instagram-unfollow-everyone.py,0.5
+Automation & Bot Frameworks,automation-playwright-screenshot.py,/Users/steven/Documents/pythons/automation-playwright-screenshot.py,1.9
+Automation & Bot Frameworks,instagram-like-follow.py,/Users/steven/Documents/pythons/instagram-like-follow.py,1.3
+Automation & Bot Frameworks,bot-like.py,/Users/steven/Documents/pythons/bot-like.py,5.9
+Automation & Bot Frameworks,instagram-repost-photo.py,/Users/steven/Documents/pythons/instagram-repost-photo.py,1.5
+Automation & Bot Frameworks,instagram-filter-blacklist-hashtag.py,/Users/steven/Documents/pythons/instagram-filter-blacklist-hashtag.py,0.6
+Automation & Bot Frameworks,instagram-upload-story-photo.py,/Users/steven/Documents/pythons/instagram-upload-story-photo.py,0.6
+Automation & Bot Frameworks,instabot-api-prepare.py,/Users/steven/Documents/pythons/instabot-api-prepare.py,3.6
+Automation & Bot Frameworks,bot-instagram.py,/Users/steven/Documents/pythons/bot-instagram.py,1.4
+Automation & Bot Frameworks,instagram-like-location-feed.py,/Users/steven/Documents/pythons/instagram-like-location-feed.py,0.6
+Automation & Bot Frameworks,instagram-whispertext.py,/Users/steven/Documents/pythons/instagram-whispertext.py,2.1
+Automation & Bot Frameworks,instagram-save-users-following.py,/Users/steven/Documents/pythons/instagram-save-users-following.py,0.8
+Automation & Bot Frameworks,instabot-devices.py,/Users/steven/Documents/pythons/instabot-devices.py,3.4
+Automation & Bot Frameworks,instagram-followers.py,/Users/steven/Documents/pythons/instagram-followers.py,2.4
+Automation & Bot Frameworks,instagram-download-1.py,/Users/steven/Documents/pythons/instagram-download-1.py,2.7
+Automation & Bot Frameworks,instagram-unfollow-followers.py,/Users/steven/Documents/pythons/instagram-unfollow-followers.py,0.5
+Automation & Bot Frameworks,instagram-unarchive.py,/Users/steven/Documents/pythons/instagram-unarchive.py,0.3
+Automation & Bot Frameworks,instagram-like-hashtags.py,/Users/steven/Documents/pythons/instagram-like-hashtags.py,0.6
+Automation & Bot Frameworks,instagram-dom-tree.py,/Users/steven/Documents/pythons/instagram-dom-tree.py,14.2
+Automation & Bot Frameworks,instagram-bot-comment.py,/Users/steven/Documents/pythons/instagram-bot-comment.py,7.3
+Automation & Bot Frameworks,instagram-bot-library.py,/Users/steven/Documents/pythons/instagram-bot-library.py,32.9
+Automation & Bot Frameworks,instagram-direct-send-photo.py,/Users/steven/Documents/pythons/instagram-direct-send-photo.py,0.6
+Automation & Bot Frameworks,instagram-reportbot.py,/Users/steven/Documents/pythons/instagram-reportbot.py,2.2
+Automation & Bot Frameworks,instagram-image-uploader.py,/Users/steven/Documents/pythons/instagram-image-uploader.py,6.6
+Automation & Bot Frameworks,instagram-interact.py,/Users/steven/Documents/pythons/instagram-interact.py,1.5
+Automation & Bot Frameworks,instagram-whispertext-combine.py,/Users/steven/Documents/pythons/instagram-whispertext-combine.py,2.1
+Automation & Bot Frameworks,instagram-ecosystem-master.py,/Users/steven/Documents/pythons/instagram-ecosystem-master.py,27.5
+Automation & Bot Frameworks,instagram-filter-private-profiles.py,/Users/steven/Documents/pythons/instagram-filter-private-profiles.py,0.4
+Automation & Bot Frameworks,instagram-checkpoint.py,/Users/steven/Documents/pythons/instagram-checkpoint.py,2.2
+Automation & Bot Frameworks,instagram-download-your-photos.py,/Users/steven/Documents/pythons/instagram-download-your-photos.py,0.3
+Automation & Bot Frameworks,instagram-save-users-followers.py,/Users/steven/Documents/pythons/instagram-save-users-followers.py,0.8
+Automation & Bot Frameworks,instagram-story.py,/Users/steven/Documents/pythons/instagram-story.py,2.3
+Automation & Bot Frameworks,instagram-follow-users-from.py,/Users/steven/Documents/pythons/instagram-follow-users-from.py,0.8
+Automation & Bot Frameworks,instagram-openai-download.py,/Users/steven/Documents/pythons/instagram-openai-download.py,3.3
+Automation & Bot Frameworks,automation-selenium-content.py,/Users/steven/Documents/pythons/automation-selenium-content.py,19.8
+Automation & Bot Frameworks,instagram-block-bots.py,/Users/steven/Documents/pythons/instagram-block-bots.py,0.9
+Automation & Bot Frameworks,instagram-upload.py,/Users/steven/Documents/pythons/instagram-upload.py,0.5
+Automation & Bot Frameworks,instagram-script-simple.py,/Users/steven/Documents/pythons/instagram-script-simple.py,7.9
+Automation & Bot Frameworks,instagram-combiner.py,/Users/steven/Documents/pythons/instagram-combiner.py,2.0
+Automation & Bot Frameworks,instagram-infinity-feedliker.py,/Users/steven/Documents/pythons/instagram-infinity-feedliker.py,0.6
+Automation & Bot Frameworks,instagram-instabot-bot-youtube-user-id.py,/Users/steven/Documents/pythons/instagram-instabot-bot-youtube-user-id.py,32.6
+Automation & Bot Frameworks,instagram-eliminate.py,/Users/steven/Documents/pythons/instagram-eliminate.py,8.8
+Automation & Bot Frameworks,instagram-requirements.py,/Users/steven/Documents/pythons/instagram-requirements.py,8.5
+Automation & Bot Frameworks,instagram-delete-posts.py,/Users/steven/Documents/pythons/instagram-delete-posts.py,0.6
+Automation & Bot Frameworks,social-platforms-instagram-bot-error.py,/Users/steven/Documents/pythons/social-platforms-instagram-bot-error.py,21.3
+Automation & Bot Frameworks,instagram-save-unfollowers-into.py,/Users/steven/Documents/pythons/instagram-save-unfollowers-into.py,0.9
+Automation & Bot Frameworks,instagram-like-hashtags-from.py,/Users/steven/Documents/pythons/instagram-like-hashtags-from.py,0.8
+Automation & Bot Frameworks,leonardo-instagram-build.py,/Users/steven/Documents/pythons/leonardo-instagram-build.py,4.8
+Media Processing (Images),leonardo.py,/Users/steven/Documents/pythons/leonardo.py,8.9
+Media Processing (Images),openai-gpt4o-image-metadata.py,/Users/steven/Documents/pythons/openai-gpt4o-image-metadata.py,7.7
+Media Processing (Images),stability.py,/Users/steven/Documents/pythons/stability.py,5.5
+Media Processing (Images),image-to-pdf.py,/Users/steven/Documents/pythons/image-to-pdf.py,1.2
+Media Processing (Images),leonardo-myinfo.py,/Users/steven/Documents/pythons/leonardo-myinfo.py,0.6
+Media Processing (Images),leonardo-cyberpunk-hacker-generator.py,/Users/steven/Documents/pythons/leonardo-cyberpunk-hacker-generator.py,3.5
+Media Processing (Images),leonardo-process.py,/Users/steven/Documents/pythons/leonardo-process.py,1.7
+Media Processing (Images),identify-leonardo-user-scripts.py,/Users/steven/Documents/pythons/identify-leonardo-user-scripts.py,16.4
+Media Processing (Images),leonardo-upscaled.py,/Users/steven/Documents/pythons/leonardo-upscaled.py,6.5
+Media Processing (Images),upscale-and-upload.py,/Users/steven/Documents/pythons/upscale-and-upload.py,3.0
+Media Processing (Images),image-optimize-9mb-threshold.py,/Users/steven/Documents/pythons/image-optimize-9mb-threshold.py,5.5
+Media Processing (Images),leonardo-avatar-download.py,/Users/steven/Documents/pythons/leonardo-avatar-download.py,2.9
+Media Processing (Images),quote-image-generator.py,/Users/steven/Documents/pythons/quote-image-generator.py,3.3
+Media Processing (Images),etsy-image-metadata.py,/Users/steven/Documents/pythons/etsy-image-metadata.py,3.3
+Media Processing (Images),image-resize-aspect-ratios.py,/Users/steven/Documents/pythons/image-resize-aspect-ratios.py,6.0
+Media Processing (Images),upscale-sips.py,/Users/steven/Documents/pythons/upscale-sips.py,7.1
+Media Processing (Images),upscale.py,/Users/steven/Documents/pythons/upscale.py,12.2
+Media Processing (Images),leonardo-upload-image.py,/Users/steven/Documents/pythons/leonardo-upload-image.py,4.8
+Media Processing (Images),image-upscale-batch.py,/Users/steven/Documents/pythons/image-upscale-batch.py,3.5
+Media Processing (Images),aws-sqs-image-queue.py,/Users/steven/Documents/pythons/aws-sqs-image-queue.py,7.2
+Media Processing (Images),image-scan-directory.py,/Users/steven/Documents/pythons/image-scan-directory.py,1.1
+Media Processing (Images),leonardo-leoup.py,/Users/steven/Documents/pythons/leonardo-leoup.py,1.9
+Media Processing (Images),image-resize.py,/Users/steven/Documents/pythons/image-resize.py,6.6
+Media Processing (Images),image-kaleidoscope-effect.py,/Users/steven/Documents/pythons/image-kaleidoscope-effect.py,6.3
+Media Processing (Images),simple-image-display.py,/Users/steven/Documents/pythons/simple-image-display.py,7.4
+Media Processing (Images),resize.py,/Users/steven/Documents/pythons/resize.py,8.6
+Media Processing (Images),stability-format.py,/Users/steven/Documents/pythons/stability-format.py,47.3
+Media Processing (Images),leonardo-download.py,/Users/steven/Documents/pythons/leonardo-download.py,2.6
+Media Processing (Images),image-batch-downloader.py,/Users/steven/Documents/pythons/image-batch-downloader.py,6.5
+Media Processing (Images),image-get-cover-images.py,/Users/steven/Documents/pythons/image-get-cover-images.py,2.2
+Media Processing (Images),dalle-prompt.py,/Users/steven/Documents/pythons/dalle-prompt.py,3.4
+Media Processing (Images),image-search.py,/Users/steven/Documents/pythons/image-search.py,2.7
+Media Processing (Images),stability-medium.py,/Users/steven/Documents/pythons/stability-medium.py,43.9
+Media Processing (Images),resizer.py,/Users/steven/Documents/pythons/resizer.py,4.7
+Media Processing (Images),upscaler.py,/Users/steven/Documents/pythons/upscaler.py,6.1
+Media Processing (Images),leonardo-download-1.py,/Users/steven/Documents/pythons/leonardo-download-1.py,7.0
+Media Processing (Images),skip-image-fixer.py,/Users/steven/Documents/pythons/skip-image-fixer.py,6.1
+Media Processing (Images),leonardo-api.py,/Users/steven/Documents/pythons/leonardo-api.py,4.9
+Media Processing (Images),ai-stability-code.py,/Users/steven/Documents/pythons/ai-stability-code.py,37.7
+Media Processing (Images),image-taggy.py,/Users/steven/Documents/pythons/image-taggy.py,5.5
+Media Processing (Images),image-gallery-alphabetical.py,/Users/steven/Documents/pythons/image-gallery-alphabetical.py,4.4
+Media Processing (Images),image-ultimate.py,/Users/steven/Documents/pythons/image-ultimate.py,25.5
+Media Processing (Images),leonardo-ssh-avatararts-downloader.py,/Users/steven/Documents/pythons/leonardo-ssh-avatararts-downloader.py,2.8
+Media Processing (Images),openai-batch-image-seo-pipeline.py,/Users/steven/Documents/pythons/openai-batch-image-seo-pipeline.py,16.9
+Media Processing (Images),upscale-images.py,/Users/steven/Documents/pythons/upscale-images.py,2.0
+Media Processing (Images),leonardo-loop-upscale.py,/Users/steven/Documents/pythons/leonardo-loop-upscale.py,2.7
+Media Processing (Images),image-generator-generic.py,/Users/steven/Documents/pythons/image-generator-generic.py,4.1
+Media Processing (Images),openai-vision-image-reader.py,/Users/steven/Documents/pythons/openai-vision-image-reader.py,8.6
+Media Processing (Images),openai-image-enrichment.py,/Users/steven/Documents/pythons/openai-image-enrichment.py,3.3
+Media Processing (Images),leonardo-leodown.py,/Users/steven/Documents/pythons/leonardo-leodown.py,1.5
+Media Processing (Images),leonardo-newsletter-empire.py,/Users/steven/Documents/pythons/leonardo-newsletter-empire.py,10.5
+Media Processing (Images),utilities-upscale-images.py,/Users/steven/Documents/pythons/utilities-upscale-images.py,3.3
+Media Processing (Images),image-add-text-overlay.py,/Users/steven/Documents/pythons/image-add-text-overlay.py,1.7
+Media Processing (Images),leonardo-generation.py,/Users/steven/Documents/pythons/leonardo-generation.py,5.1
+Media Processing (Images),dalle-image-downloader.py,/Users/steven/Documents/pythons/dalle-image-downloader.py,1.5
+Media Processing (Images),leonardo-universe4.py,/Users/steven/Documents/pythons/leonardo-universe4.py,3.5
+Media Processing (Images),leonardo-download-batch.py,/Users/steven/Documents/pythons/leonardo-download-batch.py,5.1
+Media Processing (Audio/Video),audio-thinketh.py,/Users/steven/Documents/pythons/audio-thinketh.py,4.8
+Media Processing (Audio/Video),video-clip-editor.py,/Users/steven/Documents/pythons/video-clip-editor.py,0.4
+Media Processing (Audio/Video),suno-generator.py,/Users/steven/Documents/pythons/suno-generator.py,2.2
+Media Processing (Audio/Video),ffmpeg-installer.py,/Users/steven/Documents/pythons/ffmpeg-installer.py,5.4
+Media Processing (Audio/Video),suno-prompt-analyzer.py,/Users/steven/Documents/pythons/suno-prompt-analyzer.py,21.5
+Media Processing (Audio/Video),suno-html-scraper.py,/Users/steven/Documents/pythons/suno-html-scraper.py,3.1
+Media Processing (Audio/Video),suno-html-splitter.py,/Users/steven/Documents/pythons/suno-html-splitter.py,1.7
+Media Processing (Audio/Video),suno-card-html.py,/Users/steven/Documents/pythons/suno-card-html.py,4.5
+Media Processing (Audio/Video),video-generator-pyqt-app.py,/Users/steven/Documents/pythons/video-generator-pyqt-app.py,1.4
+Media Processing (Audio/Video),pexels-video-downloader.py,/Users/steven/Documents/pythons/pexels-video-downloader.py,15.9
+Media Processing (Audio/Video),ffmpeg-downloader.py,/Users/steven/Documents/pythons/ffmpeg-downloader.py,3.1
+Media Processing (Audio/Video),ffmpeg-robot.py,/Users/steven/Documents/pythons/ffmpeg-robot.py,9.4
+Media Processing (Audio/Video),suno-music-catalog.py,/Users/steven/Documents/pythons/suno-music-catalog.py,2.2
+Media Processing (Audio/Video),audio-normalize.py,/Users/steven/Documents/pythons/audio-normalize.py,0.7
+Media Processing (Audio/Video),ffmpeg-help.py,/Users/steven/Documents/pythons/ffmpeg-help.py,4.9
+Media Processing (Audio/Video),suno-model.py,/Users/steven/Documents/pythons/suno-model.py,1.4
+Media Processing (Audio/Video),reddit-tts-video-maker.py,/Users/steven/Documents/pythons/reddit-tts-video-maker.py,4.5
+Media Processing (Audio/Video),gemini-storybook-audio.py,/Users/steven/Documents/pythons/gemini-storybook-audio.py,12.4
+Media Processing (Audio/Video),elevenlabs.py,/Users/steven/Documents/pythons/elevenlabs.py,1.3
+Media Processing (Audio/Video),suno-scrape-suno-api.py,/Users/steven/Documents/pythons/suno-scrape-suno-api.py,9.8
+Media Processing (Audio/Video),tiktok-compile-videos-v1.py,/Users/steven/Documents/pythons/tiktok-compile-videos-v1.py,1.9
+Media Processing (Audio/Video),alchemyapi-audio-demo-generator.py,/Users/steven/Documents/pythons/alchemyapi-audio-demo-generator.py,22.3
+Media Processing (Audio/Video),suno-discography.py,/Users/steven/Documents/pythons/suno-discography.py,12.7
+Web Scraping & Downloading,openai-download.py,/Users/steven/Documents/pythons/openai-download.py,11.2
+Web Scraping & Downloading,scraper.py,/Users/steven/Documents/pythons/scraper.py,1.3
+Web Scraping & Downloading,reddit-scrape.py,/Users/steven/Documents/pythons/reddit-scrape.py,2.8
+Web Scraping & Downloading,sticker-download.py,/Users/steven/Documents/pythons/sticker-download.py,3.8
+Web Scraping & Downloading,anthropic-download.py,/Users/steven/Documents/pythons/anthropic-download.py,29.0
+Web Scraping & Downloading,giphy-download.py,/Users/steven/Documents/pythons/giphy-download.py,9.7
+Web Scraping & Downloading,scraping-download-news-api-fetcher.py,/Users/steven/Documents/pythons/scraping-download-news-api-fetcher.py,6.0
+Web Scraping & Downloading,giphy-downloader.py,/Users/steven/Documents/pythons/giphy-downloader.py,7.3
+Web Scraping & Downloading,mydesign-download.py,/Users/steven/Documents/pythons/mydesign-download.py,2.8
+Web Scraping & Downloading,bubblespider-amazon-scraper.py,/Users/steven/Documents/pythons/bubblespider-amazon-scraper.py,1.3
+Web Scraping & Downloading,twitch-download.py,/Users/steven/Documents/pythons/twitch-download.py,1.3
+Web Scraping & Downloading,reddit-download.py,/Users/steven/Documents/pythons/reddit-download.py,4.1
+Web Scraping & Downloading,gui-apps-downloader.py,/Users/steven/Documents/pythons/gui-apps-downloader.py,2.4
+Web Scraping & Downloading,scraping-download-scrape.py,/Users/steven/Documents/pythons/scraping-download-scrape.py,0.4
+Web Scraping & Downloading,telegraph-download-images.py,/Users/steven/Documents/pythons/telegraph-download-images.py,18.0
+Web Scraping & Downloading,claude-anthropic-download.py,/Users/steven/Documents/pythons/claude-anthropic-download.py,49.1
+Web Scraping & Downloading,printify-blueprint-downloader.py,/Users/steven/Documents/pythons/printify-blueprint-downloader.py,2.7
+Web Scraping & Downloading,scrape.py,/Users/steven/Documents/pythons/scrape.py,2.4
+Web Scraping & Downloading,scraping-download-intelligent.py,/Users/steven/Documents/pythons/scraping-download-intelligent.py,11.9
+Web Scraping & Downloading,openai-wikipedia-data-downloader.py,/Users/steven/Documents/pythons/openai-wikipedia-data-downloader.py,1.7
+API Integration Utilities,openai-text-to-speech.py,/Users/steven/Documents/pythons/openai-text-to-speech.py,1.5
+API Integration Utilities,firebase-api-processor.py,/Users/steven/Documents/pythons/firebase-api-processor.py,19.0
+API Integration Utilities,claude-deep.py,/Users/steven/Documents/pythons/claude-deep.py,28.3
+API Integration Utilities,api-key-inventory.py,/Users/steven/Documents/pythons/api-key-inventory.py,13.8
+API Integration Utilities,goapi-midjourney-imagine.py,/Users/steven/Documents/pythons/goapi-midjourney-imagine.py,1.3
+API Integration Utilities,upload-api.py,/Users/steven/Documents/pythons/upload-api.py,5.4
+API Integration Utilities,claude-script.py,/Users/steven/Documents/pythons/claude-script.py,1.2
+API Integration Utilities,claude-chief.py,/Users/steven/Documents/pythons/claude-chief.py,30.6
+API Integration Utilities,openai-script.py,/Users/steven/Documents/pythons/openai-script.py,3.0
+API Integration Utilities,search-claude-conversations.py,/Users/steven/Documents/pythons/search-claude-conversations.py,5.7
+API Integration Utilities,openai-missingapikeyerror.py,/Users/steven/Documents/pythons/openai-missingapikeyerror.py,2.3
+API Integration Utilities,openai-media-processing-image.py,/Users/steven/Documents/pythons/openai-media-processing-image.py,3.2
+API Integration Utilities,openai-song-lyrics-analyzer.py,/Users/steven/Documents/pythons/openai-song-lyrics-analyzer.py,1.4
+API Integration Utilities,api-key-inventory-v2.py,/Users/steven/Documents/pythons/api-key-inventory-v2.py,11.4
+HTML & Gallery Generation,onedrive-gallery-logic.py,/Users/steven/Documents/pythons/onedrive-gallery-logic.py,3.8
+HTML & Gallery Generation,html-keep.py,/Users/steven/Documents/pythons/html-keep.py,19.0
+HTML & Gallery Generation,services-gallery.py,/Users/steven/Documents/pythons/services-gallery.py,3.0
+HTML & Gallery Generation,photo-gallery-batch-generator.py,/Users/steven/Documents/pythons/photo-gallery-batch-generator.py,24.8
+HTML & Gallery Generation,pdf2html.py,/Users/steven/Documents/pythons/pdf2html.py,2.1
+HTML & Gallery Generation,search-portfolio-html.py,/Users/steven/Documents/pythons/search-portfolio-html.py,3.1
+HTML & Gallery Generation,gallery-merge-system.py,/Users/steven/Documents/pythons/gallery-merge-system.py,13.8
+HTML & Gallery Generation,simple-photo-gallery.py,/Users/steven/Documents/pythons/simple-photo-gallery.py,3.5
+HTML & Gallery Generation,to-html-gallery.py,/Users/steven/Documents/pythons/to-html-gallery.py,2.3
+HTML & Gallery Generation,discography-grid-html.py,/Users/steven/Documents/pythons/discography-grid-html.py,5.0
+HTML & Gallery Generation,discography-html.py,/Users/steven/Documents/pythons/discography-html.py,5.0
+HTML & Gallery Generation,html-docs-generator.py,/Users/steven/Documents/pythons/html-docs-generator.py,33.9
+Testing & Quality Assurance,testjoin-v1.py,/Users/steven/Documents/pythons/testjoin-v1.py,1.6
+Testing & Quality Assurance,verify-connection.py,/Users/steven/Documents/pythons/verify-connection.py,2.0
+Testing & Quality Assurance,check-modules.py,/Users/steven/Documents/pythons/check-modules.py,1.4
+Testing & Quality Assurance,diagnose.py,/Users/steven/Documents/pythons/diagnose.py,7.5
+Testing & Quality Assurance,test-v3.py,/Users/steven/Documents/pythons/test-v3.py,1.2
+Testing & Quality Assurance,check-1.py,/Users/steven/Documents/pythons/check-1.py,0.4
+Testing & Quality Assurance,check-file.py,/Users/steven/Documents/pythons/check-file.py,2.7
+Testing & Quality Assurance,testfonts-v1.py,/Users/steven/Documents/pythons/testfonts-v1.py,3.0
+Testing & Quality Assurance,verify.py,/Users/steven/Documents/pythons/verify.py,8.1
+Testing & Quality Assurance,word-validate-changes.py,/Users/steven/Documents/pythons/word-validate-changes.py,11.0
+Database & Cache Operations,database.py,/Users/steven/Documents/pythons/database.py,9.0
+Config & Setup Utilities,setuptools.py,/Users/steven/Documents/pythons/setuptools.py,4.4
+Config & Setup Utilities,setup-simple.py,/Users/steven/Documents/pythons/setup-simple.py,1.8
+Config & Setup Utilities,pip-install-command.py,/Users/steven/Documents/pythons/pip-install-command.py,8.6
+Config & Setup Utilities,STANDARD-ENV-LOADER.py,/Users/steven/Documents/pythons/STANDARD-ENV-LOADER.py,0.3
+Config & Setup Utilities,pip-installer-bootstrap.py,/Users/steven/Documents/pythons/pip-installer-bootstrap.py,2583.3
+Config & Setup Utilities,file-uploader.py,/Users/steven/Documents/pythons/file-uploader.py,3.6
+Config & Setup Utilities,cli-config-manager.py,/Users/steven/Documents/pythons/cli-config-manager.py,30.3
+Config & Setup Utilities,pyinstaller.py,/Users/steven/Documents/pythons/pyinstaller.py,1.1
+Config & Setup Utilities,uploader.py,/Users/steven/Documents/pythons/uploader.py,8.6
+Config & Setup Utilities,setup-browser.py,/Users/steven/Documents/pythons/setup-browser.py,1.5
+Config & Setup Utilities,backup-installations.py,/Users/steven/Documents/pythons/backup-installations.py,1.4
+Config & Setup Utilities,installations.py,/Users/steven/Documents/pythons/installations.py,1.4
+Config & Setup Utilities,setup-legacy.py,/Users/steven/Documents/pythons/setup-legacy.py,1.2

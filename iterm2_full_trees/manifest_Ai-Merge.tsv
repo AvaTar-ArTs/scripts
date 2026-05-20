@@ -1,0 +1,22 @@
+path	type	size_bytes	ext
+./Ai-Merge	dir	0	
+./Ai-Merge/__pycache__	dir	0	
+./Ai-Merge/__pycache__/multi_modal_ai_merge_system.cpython-314.pyc	file	52467	pyc
+./Ai-Merge/.DS_Store	file	6148	
+./Ai-Merge/ai_merge_system.py	file	23681	py
+./Ai-Merge/API.md	file	5485	md
+./Ai-Merge/AUTO_SETUP_README.md	file	5032	md
+./Ai-Merge/auto_setup.py	file	12751	py
+./Ai-Merge/automated_setup.py	file	7729	py
+./Ai-Merge/enhanced_validator.py	file	13222	py
+./Ai-Merge/GETTING_STARTED.md	file	7371	md
+./Ai-Merge/INNOVATION_FRAMEWORK.md	file	5911	md
+./Ai-Merge/install_auto_setup.sh	file	4144	sh
+./Ai-Merge/multi_modal_ai_merge_system.py	file	35372	py
+./Ai-Merge/MULTI_MODAL_API.md	file	9375	md
+./Ai-Merge/MULTI_MODAL_EXTENSION.md	file	4811	md
+./Ai-Merge/README.md	file	2345	md
+./Ai-Merge/setup.sh	file	3353	sh
+./Ai-Merge/simple_interface.py	file	10569	py
+./Ai-Merge/tests	dir	0	
+./Ai-Merge/tests/test_ai_merge_system.py	file	12566	py

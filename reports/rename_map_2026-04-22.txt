@@ -1,0 +1,29 @@
+fix.sh -> mac-maintenance-technomancer.sh
+fixer.sh -> python-toolchain-bootstrap-verify.sh
+run.sh -> run-clean-organizer-batch.sh
+up.sh -> system-update-maintenance.sh
+down.sh -> download-images-from-csv.sh
+dev.sh -> npm-dev-server.sh
+web.sh -> convert-gallery-images-300dpi.sh
+png.sh -> convert-tiff-to-png.sh
+trans.sh -> transcribe-media-whisper-gpt.sh
+auto.sh -> split-chat-html-assets.sh
+shorty.sh -> upscale-mp4-2x.sh
+start-mobile.sh -> start-mobile-node-server.sh
+recovery.sh -> reboot-into-recovery-mode.sh
+install.sh -> media-organizer-install.sh
+list.sh -> package-inventory-report.sh
+manage_envs.sh -> mamba-environment-manager.sh
+cleanup_git.sh -> remove-git-from-noncritical-projects.sh
+autoclean.sh -> autotools-cleanup.sh
+sample_script.sh -> sample-dangerous-rm-script.sh
+launch_automation.sh -> launch-intelligent-organization-menu.sh
+search_files.sh -> search-file-index.sh
+search_helpers.sh -> clipboard-search-helpers.sh
+search_projects.sh -> search-project-indexes.sh
+process_music copy.sh -> process_music_legacy_copy.sh
+mp3tomp4 2.sh -> mp3-to-mp4-with-image.sh
+mp4-txt 2.sh -> mp4-to-transcript-analysis.sh
+mp4-txt_1.sh -> mp4-to-transcript-analysis-alt.sh
+merge_diff_1.sh -> merge-diff-podcast-files.sh
+check_grok_setup_full copy.sh -> generate-check-grok-setup-full.sh

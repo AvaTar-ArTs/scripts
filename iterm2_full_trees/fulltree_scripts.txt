@@ -1,0 +1,8 @@
+./scripts
+./scripts/.DS_Store
+./scripts/.gitignore
+./scripts/agent_ops_handoff.py
+./scripts/iterm2_full_trees
+./scripts/iterm2_full_trees/fulltree_all.txt
+./scripts/run_scripts.py
+./scripts/run_scripts.sh

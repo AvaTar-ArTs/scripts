@@ -1,0 +1,56 @@
+# Carbon Code Gallery
+
+Beautiful code visuals generated from the local Carbon automation pipeline.
+
+## What It Is
+
+Carbon turns source files into polished PNG cards that make scripts easier to present in documentation, product listings, and social previews. This gallery is the showcase layer for the local workflow that renders, analyzes, and optimizes those cards.
+
+## Why It Matters
+
+The gallery gives MarketMaster and Gumroad listings a reusable visual asset: code can be shown as a product feature instead of a raw file path. The same output folder can feed documentation, marketplace screenshots, and promotional thumbnails without rebuilding the workflow for each channel.
+
+## Featured Outputs
+
+### Automation Utilities
+![Carbon automation utility](../carbon-images/02_utils.png)
+
+### OpenAI Text-to-Speech
+![OpenAI text-to-speech Carbon card](../carbon-images/03_openai-text-to-speech.png)
+
+### Multimodal Workflow
+![Multimodal workflow Carbon card](../carbon-images/04_multimodal.png)
+
+## Current Workflow
+
+```bash
+# Create or refresh the Carbon CLI preset
+/Users/steven/scripts/carbon-automation.sh --setup
+
+# Generate selected Carbon cards from a source folder
+INPUT_DIR=/Users/steven/pythons \
+OUTPUT_DIR=/Users/steven/Pictures/carbon-images \
+PROMPT_FOR_INPUT_DIR=0 \
+/Users/steven/scripts/carbon-automation.sh --no-prompt --types py
+
+# Render specific files directly
+/Users/steven/scripts/carbon-batch.sh /path/to/source.py
+
+# Analyze the image folder and create optimization helpers
+/Users/steven/scripts/carbon_image_analyze_optimize.sh /Users/steven/Pictures/carbon-images
+```
+
+## Presets Available
+
+- **steven-preset**: Default local preset used by the automation and batch scripts.
+- **web-optimized**: Smaller output for documentation and marketplace pages.
+- **print-optimized**: Higher-resolution export for archival or PDF use.
+- **social-optimized**: Larger, cleaner card style for social previews.
+- **minimal**: Lightweight output for compact galleries.
+
+## Operating Notes
+
+- Output folder: `/Users/steven/Pictures/carbon-images`
+- Carbon config file: `~/.carbon-now.json`
+- Analysis reports: `/Users/steven/Pictures/carbon-images/reports/`
+- Generated helper scripts: `/Users/steven/Pictures/carbon-images/*.sh`

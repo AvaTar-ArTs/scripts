@@ -1,0 +1,322 @@
+{
+  "bundle": {
+    "name": "AI Ops Command Center",
+    "tagline": "Multi-Model Management",
+    "description": "Manage 10+ AI models, MCP servers, and API keys from one CLI. The DevOps toolkit for the multi-model era.",
+    "version": "1.0.0",
+    "release_date": "2026-04-12",
+    "author": "Steven",
+    "license": "MIT",
+    "price_usd": 79,
+    "category": "Developer Tools / AI Infrastructure",
+    "platform": "macOS 12+",
+    "runtime": "bash 5.0+",
+    "dependencies": [],
+    "optional_dependencies": ["jq", "bc", "psutil", "ollama"],
+    "total_scripts": 9,
+    "total_files": 13,
+    "total_lines": 2476,
+    "repository": "https://github.com/steven/ai-ops-command-center",
+    "homepage": "https://gumroad.com/l/ai-ops-command-center"
+  },
+  "scripts": [
+    {
+      "file": "setup-ai-apis.sh",
+      "lines": 698,
+      "role": "flagship",
+      "category": "setup",
+      "description": "Full API key setup wizard with validation, connectivity testing, .env generation, and test suite for 6+ AI providers",
+      "features": [
+        "OpenAI API key validation",
+        "Anthropic API key validation",
+        "Groq API key validation",
+        "xAI/Grok API key validation",
+        "Google/Gemini API key validation",
+        "Cohere API key validation",
+        "Connectivity testing against live endpoints",
+        "Auto-detection of existing configurations",
+        ".env template generation",
+        "Full test suite with pass/fail reporting"
+      ],
+      "usage": "./setup-ai-apis.sh",
+      "modes": ["interactive", "non-interactive", "validate-only"]
+    },
+    {
+      "file": "ai-cli-diagnostics.sh",
+      "lines": 121,
+      "role": "diagnostics",
+      "category": "monitoring",
+      "description": "Comprehensive environment audit: shell layout, Python inventory, virtual envs, Aider config, LiteLLM status, API reachability — all auto-redacted",
+      "features": [
+        "Shell and PATH analysis",
+        "System information (macOS version)",
+        "Python executable detection and version",
+        "Virtual environment detection",
+        "Full pip freeze package inventory",
+        "Aider configuration audit",
+        "LiteLLM proxy status check",
+        "Grok CLI installation state",
+        "API endpoint reachability testing",
+        "Auto-redaction of all sensitive data"
+      ],
+      "usage": "./ai-cli-diagnostics.sh",
+      "output": "Terminal + timestamped log file in $HOME"
+    },
+    {
+      "file": "ai-resource-manager.sh",
+      "lines": 140,
+      "role": "resource-governance",
+      "category": "monitoring",
+      "description": "CPU and memory governance per AI tool with configurable limits, pre-flight checks, and auto-cleanup",
+      "features": [
+        "Memory limits per tool (default: 4096 MB)",
+        "CPU caps per tool (default: 80%, auto-kill at 95%)",
+        "Concurrent tool limits (default: 3)",
+        "Pre-flight resource availability checks",
+        "Process lifecycle management with timeouts",
+        "Active tool tracking via /tmp/active_ai_tools",
+        "Automatic cleanup of stale entries"
+      ],
+      "usage": [
+        "./ai-resource-manager.sh launch 'command' 'name' [memory_mb]",
+        "./ai-resource-manager.sh status",
+        "./ai-resource-manager.sh cleanup"
+      ],
+      "configurable": {
+        "MAX_MEMORY_PER_TOOL": "4096 MB",
+        "MAX_CPU_PER_TOOL": "80%",
+        "MAX_CONCURRENT_TOOLS": 3
+      }
+    },
+    {
+      "file": "ai-watchdog.sh",
+      "lines": 123,
+      "role": "process-protection",
+      "category": "monitoring",
+      "description": "Continuous monitoring daemon that detects and terminates runaway AI processes based on CPU and runtime thresholds",
+      "features": [
+        "High-CPU process detection (threshold: 90%)",
+        "Runtime limit enforcement (default: 2 hours)",
+        "Top 5 resource consumer identification",
+        "Graceful termination (SIGTERM) with fallback to force kill (SIGKILL)",
+        "Timestamped logging to /tmp/ai-watchdog.log",
+        "System-wide CPU and memory monitoring",
+        "Three operation modes: run, once, status"
+      ],
+      "usage": [
+        "./ai-watchdog.sh run   # continuous monitoring",
+        "./ai-watchdog.sh once  # single check cycle",
+        "./ai-watchdog.sh status # show current status"
+      ],
+      "configurable": {
+        "MAX_CPU_THRESHOLD": "90%",
+        "MAX_RUNTIME_HOURS": 2,
+        "CHECK_INTERVAL": "60 seconds"
+      }
+    },
+    {
+      "file": "ai_unified_menu.sh",
+      "lines": 413,
+      "role": "unified-interface",
+      "category": "interface",
+      "description": "Interactive color-coded TUI menu providing unified access to all AI tools, quick actions, and environment checks",
+      "features": [
+        "Color-coded terminal UI (bold, dim, green, red, cyan, yellow, blue, purple)",
+        "Grok CLI submenu (interactive, quick prompt, file analysis, code review, git analysis)",
+        "Ollama submenu (generate, list models, pull models, interactive chat)",
+        "Python AI APIs submenu (agent scripts, API tests, examples)",
+        "Quick Actions menu (ask any model, check keys, environment status)",
+        "Environment auto-loading from .env.d/ system",
+        "Tool availability checking with install guidance",
+        "Interrupt-safe with clean exit on Ctrl+C"
+      ],
+      "usage": "./ai_unified_menu.sh",
+      "menus": ["Grok CLI", "Ollama", "Python AI APIs", "Environment Check", "Quick Actions"]
+    },
+    {
+      "file": "grok_integration.sh",
+      "lines": 181,
+      "role": "provider-setup",
+      "category": "provider",
+      "description": "Grok/xAI setup and configuration: API key validation, environment setup, connectivity testing",
+      "features": [
+        "GROK_API_KEY environment validation",
+        "xAI API endpoint connectivity test",
+        "Configuration file generation",
+        "Integration status reporting"
+      ],
+      "usage": "./grok_integration.sh"
+    },
+    {
+      "file": "grok_menu.sh",
+      "lines": 273,
+      "role": "provider-interface",
+      "category": "provider",
+      "description": "Interactive Grok menu with quick prompts, file analysis, code review, and git repository analysis",
+      "features": [
+        "Interactive prompt mode",
+        "Quick prompt (one-liner)",
+        "File analysis (read file, send to Grok)",
+        "Code review mode with structured feedback",
+        "Git repository analysis (status + recent commits)",
+        "API key status check"
+      ],
+      "usage": "./grok_menu.sh"
+    },
+    {
+      "file": "ollama_install.sh",
+      "lines": 12,
+      "role": "provider-setup",
+      "category": "provider",
+      "description": "One-command Ollama installation via Homebrew",
+      "features": [
+        "Homebrew-based installation",
+        "Service auto-start configuration",
+        "Installation verification"
+      ],
+      "usage": "./ollama_install.sh"
+    },
+    {
+      "file": "ollama_menu.sh",
+      "lines": 214,
+      "role": "provider-interface",
+      "category": "provider",
+      "description": "Ollama interactive menu for local model management: generation, listing, pulling, and chat",
+      "features": [
+        "Quick generation with model selection",
+        "Model listing (ollama list)",
+        "Model pulling (ollama pull)",
+        "Interactive chat mode with context",
+        "Default model configuration (llama3.1:8b)"
+      ],
+      "usage": "./ollama_menu.sh"
+    },
+    {
+      "file": "mcp-lifecycle-manager.sh",
+      "lines": 152,
+      "role": "mcp-ops",
+      "category": "mcp",
+      "description": "Full MCP server lifecycle management: start, stop, restart, health checks, log tailing, auto-restart",
+      "features": [
+        "MCP server start/stop/restart",
+        "Health check endpoint testing",
+        "Log tailing and monitoring",
+        "Server configuration validation",
+        "Auto-restart on failure detection",
+        "Server status reporting"
+      ],
+      "usage": [
+        "./mcp-lifecycle-manager.sh start <server-name>",
+        "./mcp-lifecycle-manager.sh stop <server-name>",
+        "./mcp-lifecycle-manager.sh restart <server-name>",
+        "./mcp-lifecycle-manager.sh health <server-name>",
+        "./mcp-lifecycle-manager.sh logs <server-name>"
+      ]
+    },
+    {
+      "file": "mcp-process-manager.sh",
+      "lines": 149,
+      "role": "mcp-ops",
+      "category": "mcp",
+      "description": "Process-level MCP management: list servers, monitor resources, graceful shutdown, stale cleanup",
+      "features": [
+        "List all running MCP processes",
+        "Per-server resource usage monitoring",
+        "Graceful shutdown with timeout",
+        "Process tree analysis",
+        "Stale process detection and cleanup",
+        "Process status reporting"
+      ],
+      "usage": [
+        "./mcp-process-manager.sh status",
+        "./mcp-process-manager.sh monitor <server-name>",
+        "./mcp-process-manager.sh shutdown <server-name>",
+        "./mcp-process-manager.sh cleanup"
+      ]
+    }
+  ],
+  "providers": [
+    {
+      "name": "OpenAI",
+      "type": "cloud-api",
+      "env_var": "OPENAI_API_KEY",
+      "key_prefix": "sk-",
+      "endpoint": "https://api.openai.com/v1/models",
+      "setup_script": "setup-ai-apis.sh"
+    },
+    {
+      "name": "Anthropic",
+      "type": "cloud-api",
+      "env_var": "ANTHROPIC_API_KEY",
+      "key_prefix": "sk-ant-",
+      "endpoint": "https://api.anthropic.com/v1/messages",
+      "setup_script": "setup-ai-apis.sh"
+    },
+    {
+      "name": "Groq",
+      "type": "cloud-api",
+      "env_var": "GROQ_API_KEY",
+      "key_prefix": "gsk-",
+      "endpoint": "https://api.groq.com/openai/v1/models",
+      "setup_script": "setup-ai-apis.sh"
+    },
+    {
+      "name": "xAI / Grok",
+      "type": "cloud-api",
+      "env_var": "GROK_API_KEY",
+      "key_prefix": "xai-",
+      "endpoint": "https://api.x.ai/v1/models",
+      "setup_script": "grok_integration.sh"
+    },
+    {
+      "name": "Google / Gemini",
+      "type": "cloud-api",
+      "env_var": "GOOGLE_API_KEY",
+      "key_prefix": "AIza-",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models",
+      "setup_script": "setup-ai-apis.sh"
+    },
+    {
+      "name": "Cohere",
+      "type": "cloud-api",
+      "env_var": "COHERE_API_KEY",
+      "key_prefix": "varies",
+      "endpoint": "https://api.cohere.ai/v1/models",
+      "setup_script": "setup-ai-apis.sh"
+    },
+    {
+      "name": "Ollama",
+      "type": "local",
+      "env_var": "OLLAMA_HOST",
+      "key_prefix": "n/a",
+      "endpoint": "http://localhost:11434/api/tags",
+      "setup_script": "ollama_install.sh"
+    },
+    {
+      "name": "MCP Servers",
+      "type": "local/remote",
+      "env_var": "varies",
+      "key_prefix": "n/a",
+      "endpoint": "varies by server",
+      "setup_script": "mcp-lifecycle-manager.sh"
+    }
+  ],
+  "tags": [
+    "ai",
+    "cli",
+    "devops",
+    "multi-model",
+    "openai",
+    "anthropic",
+    "groq",
+    "grok",
+    "xai",
+    "ollama",
+    "mcp",
+    "resource-management",
+    "monitoring",
+    "bash",
+    "automation",
+    "api-management"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "bundle": {
+    "name": "Mac Maintenance Pro Suite",
+    "version": "1.0.0",
+    "tagline": "7 Professional macOS Maintenance Scripts — Replace CleanMyMac for $49",
+    "release_date": "2026-04-12",
+    "license": "MIT",
+    "platform": "macOS 12+",
+    "price_usd": 49.00,
+    "total_scripts": 7,
+    "total_lines": 3021,
+    "languages": ["bash"],
+    "architecture": ["intel", "apple_silicon"],
+    "dependencies": {
+      "required": ["homebrew", "bash >= 5.0"],
+      "optional": ["openai_api_key", "internet_connection"]
+    }
+  },
+  "scripts": [
+    {
+      "name": "mac-cleanup-pro.sh",
+      "lines": 416,
+      "type": "flagship",
+      "difficulty": "beginner",
+      "risk": "low",
+      "price_usd": 15.00,
+      "description": "Post-update cleanup with real-time progress bars, dry-run mode, Homebrew/Yarn/npm/pip/Bun cache clearing, and Python .pyc batch removal",
+      "features": [
+        "progress_bars",
+        "dry_run_mode",
+        "homebrew_cleanup",
+        "yarn_npm_pip_cache_clear",
+        "python_pyc_batch_removal",
+        "extra_caches_mamba_uv_cargo_pnpm"
+      ],
+      "usage": "mac-cleanup-pro.sh [--dry-run] [-v]",
+      "emoji": "⭐"
+    },
+    {
+      "name": "advanced-system-maintenance-v5.sh",
+      "lines": 1442,
+      "type": "enterprise",
+      "difficulty": "advanced",
+      "risk": "medium",
+      "price_usd": 25.00,
+      "description": "AI-driven system maintenance with predictive analysis, parallel operations (up to 6 jobs), JSON logging, configuration file support, and automatic backups",
+      "features": [
+        "ai_powered_analysis",
+        "predictive_maintenance",
+        "parallel_operations",
+        "json_logging",
+        "cpu_memory_monitoring",
+        "automatic_backups",
+        "configuration_file",
+        "cloud_sync_optional"
+      ],
+      "usage": "advanced-system-maintenance-v5.sh [--interactive] [--ai-analysis] [--parallel N]",
+      "emoji": "🏢"
+    },
+    {
+      "name": "enhanced_cleanup.sh",
+      "lines": 456,
+      "type": "general",
+      "difficulty": "intermediate",
+      "risk": "low",
+      "price_usd": 10.00,
+      "description": "Comprehensive Homebrew cleanup, system cache analysis, log file rotation, trash and Downloads folder analysis with space savings report",
+      "features": [
+        "homebrew_formula_cask_cleanup",
+        "system_cache_analysis",
+        "log_file_rotation",
+        "trash_downloads_analysis",
+        "space_savings_report"
+      ],
+      "usage": "enhanced_cleanup.sh [--verbose] [--dry-run]",
+      "emoji": "🧹"
+    },
+    {
+      "name": "enhanced_disk_cleanup.sh",
+      "lines": 271,
+      "type": "disk",
+      "difficulty": "beginner",
+      "risk": "low",
+      "price_usd": 8.00,
+      "description": "Disk space analysis with large file detection (>100MB), directory size breakdown, disk usage trends, and smart recommendations",
+      "features": [
+        "large_file_detection",
+        "directory_size_breakdown",
+        "disk_usage_trends",
+        "smart_recommendations"
+      ],
+      "usage": "enhanced_disk_cleanup.sh [/path] [--min-size 500M]",
+      "emoji": "💾"
+    },
+    {
+      "name": "cleanup_python_conservative.sh",
+      "lines": 108,
+      "type": "python",
+      "difficulty": "beginner",
+      "risk": "very_low",
+      "price_usd": 5.00,
+      "description": "Safe Python cache cleanup — .pyc file removal, __pycache__ directory cleanup, conservative approach that won't break environments",
+      "features": [
+        "pyc_file_removal",
+        "pycache_directory_cleanup",
+        "user_space_only",
+        "conservative_defaults"
+      ],
+      "usage": "cleanup_python_conservative.sh [-v]",
+      "emoji": "🐍"
+    },
+    {
+      "name": "cleanup_duplicates.sh",
+      "lines": 44,
+      "type": "files",
+      "difficulty": "beginner",
+      "risk": "low",
+      "price_usd": 3.00,
+      "description": "Lightweight duplicate file detection using hash-based comparison, report generation, and safe removal with confirmation",
+      "features": [
+        "hash_based_detection",
+        "report_generation",
+        "safe_removal_confirmation"
+      ],
+      "usage": "cleanup_duplicates.sh [/path] [-v]",
+      "emoji": "🔍"
+    },
+    {
+      "name": "package_manager_cleanup.sh",
+      "lines": 284,
+      "type": "packages",
+      "difficulty": "intermediate",
+      "risk": "low",
+      "price_usd": 8.00,
+      "description": "Multi-package manager cleanup for Homebrew, npm, pip — environment analysis, automatic backup before changes, inventory reports",
+      "features": [
+        "homebrew_formula_cask_analysis",
+        "npm_global_package_review",
+        "pip_package_inventory",
+        "automatic_backup",
+        "environment_analysis_report"
+      ],
+      "usage": "package_manager_cleanup.sh [--verbose] [--python-only] [--review]",
+      "emoji": "📦"
+    }
+  ],
+  "pricing": {
+    "individual_total_usd": 74.00,
+    "bundle_price_usd": 49.00,
+    "savings_usd": 25.00,
+    "savings_percent": 33.8,
+    "competitor_cleanmymac_annual_usd": 89.00,
+    "vs_competitor_savings_usd": 40.00
+  },
+  "distribution": {
+    "platforms": ["codecanyon", "gumroad", "github"],
+    "package_format": "zip",
+    "includes_source": true,
+    "includes_docs": true,
+    "includes_license": true
+  },
+  "support": {
+    "email": "support@avatararts.dev",
+    "github_issues": "https://github.com/avatararts/mac-maintenance-pro/issues",
+    "documentation": "README.md, INSTALL.md, CHANGELOG.md"
+  }
+}

@@ -1,0 +1,60 @@
+path	type	size_bytes	ext
+./docs	dir	0	
+./docs/.DS_Store	file	8196	DS_Store
+./docs/agent_ops	dir	0	
+./docs/agent_ops/README.md	file	1897	md
+./docs/agent_ops/scripts_context.md	file	2066	md
+./docs/agent_ops/steven_deep_inventory.sh	file	2440	sh
+./docs/agent_ops/steven_inventory.txt	file	43324	txt
+./docs/agent_ops/steven_largest_dirs.txt	file	8119	txt
+./docs/agent_ops/steven_largest_files.txt	file	18145	txt
+./docs/agent_ops/steven_recent_files_7d.txt	file	170299	txt
+./docs/agent_ops/steven_top_level.txt	file	42168	txt
+./docs/changelogs	dir	0	
+./docs/changelogs/2026-02-10-changelog.md	file	3956	md
+./docs/changelogs/2026-02-10-narrative.md	file	2956	md
+./docs/chat_points	dir	0	
+./docs/chat_points/2026-02-10-notion-workbook.md	file	216	md
+./docs/comprehension-summary_2026-02-10.md	file	7630	md
+./docs/DEEP_DIVE_ITERM2_DIRS.md	file	12808	md
+./docs/DEEP_DIVE_trees	dir	0	
+./docs/DEEP_DIVE_trees/fulltree_.claude.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_.cursor.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_.gemini.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_.grok.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_.qodo.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_.qwen.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_agent_ops.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_claude-ecosystem.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_Codex.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_cursor-ecosystem.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_docs.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_gemini.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_scripts.txt	file	0	txt
+./docs/DEEP_DIVE_trees/fulltree_superpowers-codex-product.txt	file	0	txt
+./docs/discovery_2026-02-10.md	file	4076	md
+./docs/duplicate_code_report_2026-02-10.json	file	26084843	json
+./docs/ecosystem_inventory_2026-02-10_fulltree.json	file	29460619	json
+./docs/ecosystem_inventory_2026-02-10.json	file	29412585	json
+./docs/exploration_superpowers_ecosystems_2026-02-10.md	file	14941	md
+./docs/git-ai-overview-and-uses.md	file	3964	md
+./docs/git-worktrees-and-refs-2026-02-10.md	file	3571	md
+./docs/ITERM2_TOOLS.md	file	3433	md
+./docs/manifest-referenced-paths_2026-02-10.md	file	4092	md
+./docs/notion_workbook_template.md	file	1049	md
+./docs/plans	dir	0	
+./docs/plans/2026-02-10-content-awareness-design.md	file	8296	md
+./docs/plans/2026-02-10-content-awareness-implementation.md	file	5909	md
+./docs/plans/2026-02-10-content-awareness.md	file	7304	md
+./docs/plans/2026-02-10-duplicate-detection-system-design.md	file	5009	md
+./docs/plans/2026-02-10-git-ai-brainstorm-design.md	file	3364	md
+./docs/plans/2026-02-10-prompt-engineering-exploration.md	file	5206	md
+./docs/plans/2026-02-10-prompt-engineering.md	file	6929	md
+./docs/prompt_engineering	dir	0	
+./docs/prompt_engineering/iterative_refinement_loop.md	file	4573	md
+./docs/prompt_engineering/output_formatting_control.md	file	6361	md
+./docs/prompt_engineering/performance_benchmarking.md	file	5966	md
+./docs/prompt_engineering/prompt_structure_optimization.md	file	4831	md
+./docs/prompt_engineering/variable_injection_strategy.md	file	5443	md
+./docs/resources-available-index.md	file	8163	md
+./docs/upwork-xeo-income-codester-index.md	file	6599	md

@@ -1,0 +1,2 @@
+./.grok
+./.grok/settings.json

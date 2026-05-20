@@ -1,0 +1,93 @@
+{
+  "name": "lib",
+  "dependencies": {
+    "@ai-sdk/deepseek": {
+      "version": "2.0.19",
+      "overridden": false
+    },
+    "@anthropic-ai/sdk": {
+      "version": "0.90.0",
+      "overridden": false
+    },
+    "@builder.io/ai-shell": {
+      "version": "1.0.12",
+      "overridden": false
+    },
+    "@google/gemini-cli": {
+      "version": "0.42.0",
+      "overridden": false
+    },
+    "@kilocode/cli": {
+      "version": "7.2.0",
+      "overridden": false
+    },
+    "@openai/codex": {
+      "version": "0.130.0",
+      "overridden": false
+    },
+    "@qoder-ai/qodercli": {
+      "version": "0.1.41",
+      "overridden": false
+    },
+    "@qwen-code/qwen-code": {
+      "version": "0.15.11",
+      "overridden": false
+    },
+    "@vibe-kit/grok-cli": {
+      "version": "0.0.34",
+      "overridden": false
+    },
+    "agent-browser": {
+      "version": "0.26.0",
+      "overridden": false
+    },
+    "carbon-now-cli": {
+      "version": "2.1.0",
+      "overridden": false
+    },
+    "cline": {
+      "version": "3.0.7",
+      "overridden": false
+    },
+    "corepack": {
+      "version": "0.34.7",
+      "overridden": false
+    },
+    "create-once-ui-app": {
+      "version": "1.0.1",
+      "overridden": false
+    },
+    "firecrawl-cli": {
+      "version": "1.3.1",
+      "overridden": false
+    },
+    "genkit-cli": {
+      "version": "1.28.0",
+      "overridden": false
+    },
+    "kanban": {
+      "version": "0.1.68",
+      "overridden": false
+    },
+    "node-gyp": {
+      "version": "12.3.0",
+      "overridden": false
+    },
+    "npm": {
+      "version": "11.12.1",
+      "overridden": false
+    },
+    "openclaw": {
+      "version": "2026.4.21",
+      "overridden": false
+    },
+    "overture-mcp": {
+      "version": "0.1.8",
+      "overridden": false
+    },
+    "pm2": {
+      "version": "6.0.14",
+      "overridden": false
+    }
+  }
+}

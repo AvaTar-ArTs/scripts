@@ -1,0 +1,320 @@
+path	type	size_bytes	ext
+./.qwen	dir	0	
+./.qwen/.DS_Store	file	8196	
+./.qwen/agents	dir	0	
+./.qwen/agents/ai-music-video-creator.md	file	2593	md
+./.qwen/agents/content-organizer.md	file	2745	md
+./.qwen/agents/knowledge-automation-strategist.md	file	6165	md
+./.qwen/agents/project-launch-manager.md	file	2890	md
+./.qwen/agents/seo-keyword-analyst.md	file	3631	md
+./.qwen/agents/system-analyzer.md	file	2414	md
+./.qwen/debug	dir	0	
+./.qwen/debug/55987f2e-52fe-409a-9551-a94d3abe0236.txt	file	3904	txt
+./.qwen/debug/72ab755f-059e-485d-9d54-1c8be8517603.txt	file	3584	txt
+./.qwen/google_accounts.json	file	33	json
+./.qwen/ide	dir	0	
+./.qwen/ide/50616.lock	file	129	lock
+./.qwen/ide/50714.lock	file	139	lock
+./.qwen/ide/51750.lock	file	0	lock
+./.qwen/ide/52248.lock	file	231	lock
+./.qwen/ide/59571.lock	file	148	lock
+./.qwen/ide/60551.lock	file	148	lock
+./.qwen/ide/60652.lock	file	148	lock
+./.qwen/ide/62191.lock	file	168	lock
+./.qwen/ide/64349.lock	file	117	lock
+./.qwen/installation_id	file	36	
+./.qwen/logs	dir	0	
+./.qwen/oauth_creds.json	file	313	json
+./.qwen/output-language.md	file	676	md
+./.qwen/PROJECT_SUMMARY.md	file	5817	md
+./.qwen/projects	dir	0	
+./.qwen/projects/-Users-steven	dir	0	
+./.qwen/projects/-Users-steven-claudemarketplaces-com	dir	0	
+./.qwen/projects/-Users-steven-claudemarketplaces-com/.DS_Store	file	6148	
+./.qwen/projects/-Users-steven-claudemarketplaces-com/chats	dir	0	
+./.qwen/projects/-Users-steven-claudemarketplaces-com/chats/c903eab7-c7dc-42ff-aea5-d92f7ac6f0c5.jsonl	file	270921	jsonl
+./.qwen/projects/-Users-steven-Downloads	dir	0	
+./.qwen/projects/-Users-steven-Downloads/.DS_Store	file	6148	
+./.qwen/projects/-Users-steven-Downloads/chats	dir	0	
+./.qwen/projects/-Users-steven-Downloads/chats/064daf40-3195-426d-9c88-e7c16aa5c546.jsonl	file	8596198	jsonl
+./.qwen/projects/-Users-steven-iterm2	dir	0	
+./.qwen/projects/-Users-steven-iterm2/chats	dir	0	
+./.qwen/projects/-Users-steven-iterm2/chats/34c919d4-1d49-4c0e-ac6a-d884d70dd3ed.jsonl	file	208285	jsonl
+./.qwen/projects/-Users-steven-iterm2/chats/55987f2e-52fe-409a-9551-a94d3abe0236.jsonl	file	86913	jsonl
+./.qwen/projects/-Users-steven-MasterxEo	dir	0	
+./.qwen/projects/-Users-steven-MasterxEo/.DS_Store	file	6148	
+./.qwen/projects/-Users-steven-MasterxEo/chats	dir	0	
+./.qwen/projects/-Users-steven-MasterxEo/chats/5cf7182a-ffd2-4abf-a6ed-e0ebeb3ffa2c.jsonl	file	7372585	jsonl
+./.qwen/projects/-Users-steven-MasterxEo/chats/d45c078f-2886-4b0f-a6ee-031fcd4929da.jsonl	file	1791909	jsonl
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS	dir	0	
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/.DS_Store	file	6148	
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats	dir	0	
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/35fab8f7-e4bb-4322-8319-92c3ab7619d2.jsonl	file	1993436	jsonl
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/6bad3c53-457b-43ca-9d66-b7d461c43936.jsonl	file	467600	jsonl
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/a1fa4aba-5ab5-491e-a51a-3c6a682dcd13.jsonl	file	5116857	jsonl
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/aea3a160-441f-49da-b18c-914326bd7af3.jsonl	file	282383	jsonl
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/af4d43d8-7c53-4530-8dba-cc5620e0c9b6.jsonl	file	19285138	jsonl
+./.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/b9cdcf7c-0725-4988-aed2-6f23726be5df.jsonl	file	4096533	jsonl
+./.qwen/projects/-Users-steven-pythons	dir	0	
+./.qwen/projects/-Users-steven-pythons/.DS_Store	file	6148	
+./.qwen/projects/-Users-steven-pythons/chats	dir	0	
+./.qwen/projects/-Users-steven-pythons/chats/7cf4cb0e-477e-45ec-bdfe-75c85f17c0b3.jsonl	file	470368	jsonl
+./.qwen/projects/-Users-steven-pythons/chats/d93998f9-2a65-4d55-a59f-2aa2a5e83de8.jsonl	file	4099044	jsonl
+./.qwen/projects/-Users-steven-scripts	dir	0	
+./.qwen/projects/-Users-steven-scripts/chats	dir	0	
+./.qwen/projects/-Users-steven-scripts/chats/e4b56d59-9b38-4927-ae68-83f4c1a1f8de.jsonl	file	207074	jsonl
+./.qwen/projects/-Users-steven-workspace	dir	0	
+./.qwen/projects/-Users-steven-workspace/.DS_Store	file	6148	
+./.qwen/projects/-Users-steven-workspace/chats	dir	0	
+./.qwen/projects/-Users-steven-workspace/chats/676453a9-75f4-4a1a-bcd8-5ed8f0f46762.jsonl	file	7614813	jsonl
+./.qwen/projects/-Users-steven/.DS_Store	file	6148	
+./.qwen/projects/-Users-steven/chats	dir	0	
+./.qwen/projects/-Users-steven/chats/05551882-ac4c-4531-861c-8783549e54b4.jsonl	file	2628896	jsonl
+./.qwen/projects/-Users-steven/chats/3482d6fd-6b2f-4801-92f3-2a51e1d5b01c.jsonl	file	38404	jsonl
+./.qwen/projects/-Users-steven/chats/4186c334-5f53-47c5-9eca-c6521536561b.jsonl	file	2638861	jsonl
+./.qwen/projects/-Users-steven/chats/63f465c8-81bf-40c6-81d6-ef3faf7784b1.jsonl	file	273887	jsonl
+./.qwen/projects/-Users-steven/chats/698551cc-f521-4f0f-a658-7ed93e3b73ed.jsonl	file	4063448	jsonl
+./.qwen/projects/-Users-steven/chats/72ab755f-059e-485d-9d54-1c8be8517603.jsonl	file	896357	jsonl
+./.qwen/projects/-Users-steven/chats/81bca729-146b-4f17-8db5-3833225c7ea4.jsonl	file	4787028	jsonl
+./.qwen/projects/-Users-steven/chats/84adc61b-11c6-4107-8e36-0002116cb567.jsonl	file	1174454	jsonl
+./.qwen/projects/-Users-steven/chats/896fcea1-6016-4911-8ba2-d6bc7c6d6b60.jsonl	file	44764578	jsonl
+./.qwen/projects/-Users-steven/chats/a77a2bc9-9c8b-4417-a422-fd300c5cee2e.jsonl	file	5178975	jsonl
+./.qwen/projects/-Users-steven/chats/d5b51a8d-50fb-48f0-adf7-5acd8c1c6890.jsonl	file	114370	jsonl
+./.qwen/projects/-Users-steven/chats/d7f4b8b5-5703-4a77-a20e-a2aecc46397a.jsonl	file	6255580	jsonl
+./.qwen/projects/-Users-steven/chats/e48fc72d-2004-4121-8533-29ee1a391da5.jsonl	file	33484	jsonl
+./.qwen/projects/-Users-steven/chats/f42e37fc-a027-40c7-9ccf-3fd41631d9d1.jsonl	file	1617797	jsonl
+./.qwen/projects/-Users-steven/chats/f5928a10-3887-4a71-bfb1-0448700a3384.jsonl	file	1786438	jsonl
+./.qwen/projects/-Users-steven/chats/fabc23fb-1783-4fc0-8b35-d4fc8c7ddb22.jsonl	file	25085	jsonl
+./.qwen/projects/.DS_Store	file	10244	
+./.qwen/QWEN.md	file	4846	md
+./.qwen/QWEN.md.backup	file	3339	backup
+./.qwen/QWEN.mdnecho	file	0	mdnecho
+./.qwen/settings.json	file	713	json
+./.qwen/settings.json.backup	file	702	backup
+./.qwen/settings.json.orig	file	713	orig
+./.qwen/skills	dir	0	
+./.qwen/tmp	dir	0	
+./.qwen/tmp/.DS_Store	file	18436	
+./.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49	dir	0	
+./.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49/call_135614aec6e9412eaff4ff19.output	file	47273	output
+./.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49/call_6842de482b594009999afea6.output	file	121603	output
+./.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49/call_9f66138845ea4dd68d773490.output	file	125846	output
+./.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49/logs.json	file	15872	json
+./.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7	dir	0	
+./.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_761dd397de2e458c9af12614.output	file	147949465	output
+./.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_7ca594f959ec435e89d887f2.output	file	28750	output
+./.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_9e961493ca244b7e81f34b56.output	file	30247	output
+./.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_bc4c215af0444c25abe2c8c6.output	file	30100	output
+./.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_d4d37a2066c34a549b6a22f1.output	file	1571769	output
+./.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/logs.json	file	23916	json
+./.qwen/tmp/5155996b8b239e5206e90c8e85d8f2149e06d2caef7e08d501ea7758f6b66048	dir	0	
+./.qwen/tmp/5155996b8b239e5206e90c8e85d8f2149e06d2caef7e08d501ea7758f6b66048/logs.json	file	854	json
+./.qwen/tmp/53e295794ce9b3042393b78f05564df43e5b2003747e66e9b383fb9b6feb66fe	dir	0	
+./.qwen/tmp/53e295794ce9b3042393b78f05564df43e5b2003747e66e9b383fb9b6feb66fe/logs.json	file	2475	json
+./.qwen/tmp/65d38ca681b4143f8859f099a60d99b17a6043b80775735275ff57b36366aa3b	dir	0	
+./.qwen/tmp/65d38ca681b4143f8859f099a60d99b17a6043b80775735275ff57b36366aa3b/call_76f82d0921674ce2b9a0f5c8.output	file	55050240	output
+./.qwen/tmp/65d38ca681b4143f8859f099a60d99b17a6043b80775735275ff57b36366aa3b/call_f3ed3139da1a4504b9b1adf1.output	file	735768	output
+./.qwen/tmp/65d38ca681b4143f8859f099a60d99b17a6043b80775735275ff57b36366aa3b/logs.json	file	85619	json
+./.qwen/tmp/772b8b374c34d2f73fad376dff0b2fb7581667f7059515812368e1fb4d6c29f8	dir	0	
+./.qwen/tmp/772b8b374c34d2f73fad376dff0b2fb7581667f7059515812368e1fb4d6c29f8/logs.json	file	564	json
+./.qwen/tmp/78ae220003f9e6f79db44260e2851361731a60324784b4e13f7315efac7cae4f	dir	0	
+./.qwen/tmp/78ae220003f9e6f79db44260e2851361731a60324784b4e13f7315efac7cae4f/call_bba825749bb548aa9ff3ca04.output	file	8360087	output
+./.qwen/tmp/78ae220003f9e6f79db44260e2851361731a60324784b4e13f7315efac7cae4f/call_d32df1f736104784a835fb4b.output	file	61463	output
+./.qwen/tmp/78ae220003f9e6f79db44260e2851361731a60324784b4e13f7315efac7cae4f/logs.json	file	1838	json
+./.qwen/tmp/81a74aaed65dca57645ef735dd3ae33017583f33880b850f3e94b52c4e5533a6	dir	0	
+./.qwen/tmp/81a74aaed65dca57645ef735dd3ae33017583f33880b850f3e94b52c4e5533a6/logs.json	file	278359	json
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d	dir	0	
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_0364e468ec0248388e5aaa33.output	file	1262468	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_061cd14200ee4605a659971c.output	file	64711	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_066e708313bf4362aa3b52cb.output	file	129999	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_09e3d29ea50f4b8b98415ebf.output	file	569426	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_0e22cda87e4546159cdeaf47.output	file	282345	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_0f4b92630eda43aa84943ffb.output	file	58564	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_14c71bd8b9964f3c9c1d93e3.output	file	51000	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_1e99df0561764e30b7b2b413.output	file	30214	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_1f65d0c0401a4ebeb0940c83.output	file	118967	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_355c8f3ea4514158b16580fe.output	file	65714	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_365a0d32d0db4dc58cd21bb5.output	file	55441	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_39daa4d2e5e34a1b81dfe6e1.output	file	60496	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_4bb2052b55244c0ebda38453.output	file	32396	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_5093e2588a124bac8b296695.output	file	97793	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_52171d48ca2141eea09fe675.output	file	1608650	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_58516df4517543948fd0eec4.output	file	119251	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_5987be5bb3d74181be3a48d6.output	file	99059	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_5a0ee022407147f09dff35d1.output	file	27079	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_6b9bed7aeb5a4d2e9a876220.output	file	36649	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_6d929719656c4cff8cf04a07.output	file	32396	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_74cdc9ba4b5c4d82b86aef52.output	file	118961	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_74ea9032fcaa413fa65fb19a.output	file	55497	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_7b18d19da4534be3a57dcf48.output	file	195829	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_7c28105fa3cd4fb08430bf02.output	file	200661	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_871074b1c7ae4985a2234543.output	file	38978	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_8973ce837227428d97c326d9.output	file	3616713	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_8b3ebb91036643c5bea546f1.output	file	54087	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_8d40f2aba3d34695a245023e.output	file	51389	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_94445161741146a8a123eedb.output	file	25557	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_9484f2174d554b44a715788f.output	file	98925	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_970e6f5c129c430d92dcb6c2.output	file	7929956	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_a38bfef0065f439593ff9cb2.output	file	27149	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_a409762c19994a94a310e52c.output	file	1673437	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_aa34f948b61b4645841894c7.output	file	99714	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_b48f85a1db0943bd8c0a28df.output	file	143586	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_b7cd615aa9a3412d9ee79a31.output	file	31055	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_c3383964c69e4f1ca7faf17c.output	file	55022	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_c6a520709f504be9a95d6b33.output	file	33629	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_ce3c88d97221424aa6ad7614.output	file	26972	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_d668a3161ad944aa83d73752.output	file	65756	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_d7df20c976744b03b8492fde.output	file	853389	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_dc43a0bfa3f5489d898e98eb.output	file	93345	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_e27c1ec5dfa343e0a67f3b4c.output	file	53770	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_eef930536f1f4c0eafe2611b.output	file	168781	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_f5a147ecf98047c79400c7fb.output	file	64562	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_fa8a2c427ac04766ae843b17.output	file	35417	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_fd4d3f25221d454dbeb9733b.output	file	32144	output
+./.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/logs.json	file	172221	json
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce	dir	0	
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_0660a6133f1943debbd28b45.output	file	40166	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_0d73596b395649c18333cc15.output	file	280341	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_101af7e0cf554fafa9891166.output	file	1833010	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_1882254c4f6b47b4844ac20f.output	file	562197	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_1ce12cdc47934316a30df085.output	file	136634	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_1e4d9627053c46aeab65522b.output	file	259134	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_21fe8e35231f417a9d67d046.output	file	34626	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_23595f243bd246a482cba5f0.output	file	379673	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_268b26277a834d8796e0b8ce.output	file	30886	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_276658cd4af747099556a201.output	file	38327	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_320de1f4db834201a9dcf3d5.output	file	169052	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_393c14c1bf2c4260ba7bf95c.output	file	228790	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_3a75262644b94b32b6c0af46.output	file	554230	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_3d4a52c022da4743990fac7d.output	file	345729	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_43596fe67fcf449ab416052b.output	file	39404	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_4411cf95b90d4bff815e62ae.output	file	730402	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_511a252b56dc4d739fae34b5.output	file	47067	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_60ea547616f54926a8710387.output	file	1075643	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_61c1b91f306e44f6a881327c.output	file	72951	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_65538335e9af47a1aa50a639.output	file	266751	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_690b35c01b134c0e89ba7489.output	file	60094	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_69a235b6d93843f887d45d6b.output	file	42437	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_6d9b5647dbd34c3ebfc6b598.output	file	82936	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_7032b2a271184ddcb000240b.output	file	224265	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_72c662e7e8054faeac4d4c0a.output	file	252926	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_73cb183d278b4109842e6d70.output	file	25045099	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_81d2bb7005ba4c0ba4361e3e.output	file	169853	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_88c1554b09124fef8f804ed7.output	file	5955211	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_9d3e54ce25f64b7c82f77d0c.output	file	194511	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_a9618a0598c743c2a390a492.output	file	55866	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_ae54a72cea9d41c8a7dd9d78.output	file	316683	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_b5e4948bea7b42b896624e2f.output	file	39784	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_b5f7d67a49b44b139b745726.output	file	91098	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_b8f30c72de144866b0388378.output	file	128205	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_b950f42fc55248ec80591fc0.output	file	31634	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_ba280c68b2d34f5798f618c2.output	file	83954	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_c49b414e26af4bf78e38fc12.output	file	104473	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_c6c2d662249441c8b8aa6844.output	file	263520	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_c9fbab6ab4144d1bac290486.output	file	347878	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_cc919232fa76470a93303bbc.output	file	70391729	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_d6cd1d899d7c4d8799aeb7cd.output	file	35426	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_e22d8d1f118e4fc5a33ea0a4.output	file	5955211	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_f522fb682c2f40b9afc03a6c.output	file	70981	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_f9d8091c871f42de8e1d68db.output	file	30129	output
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/logs.json	file	5958287	json
+./.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/shell_history	file	28015	
+./.qwen/tmp/a30cc3b98cc24392fa7fcd65d3f32c1f78c5a623c990097cb1cdedacc6cb3120	dir	0	
+./.qwen/tmp/a30cc3b98cc24392fa7fcd65d3f32c1f78c5a623c990097cb1cdedacc6cb3120/logs.json	file	1059	json
+./.qwen/tmp/d73b7ca535dd86b5d438258a9a1f4ba6d3f40b3645aaf29e52d5b45de8e78344	dir	0	
+./.qwen/tmp/d73b7ca535dd86b5d438258a9a1f4ba6d3f40b3645aaf29e52d5b45de8e78344/call_4fdb8e9fef024863aa45d45b.output	file	241032	output
+./.qwen/tmp/d73b7ca535dd86b5d438258a9a1f4ba6d3f40b3645aaf29e52d5b45de8e78344/call_f205481f495c44c88053b995.output	file	31033	output
+./.qwen/tmp/d73b7ca535dd86b5d438258a9a1f4ba6d3f40b3645aaf29e52d5b45de8e78344/logs.json	file	24751	json
+./.qwen/tmp/e0a0938f874f88e47dc4c9361d356a1fca0a1ecf1e2d396bb21e33584bcecdf9	dir	0	
+./.qwen/tmp/e0a0938f874f88e47dc4c9361d356a1fca0a1ecf1e2d396bb21e33584bcecdf9/logs.json	file	10338	json
+./.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9	dir	0	
+./.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/logs.json	file	46151	json
+./.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1	dir	0	
+./.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1/call_0b0759d181f14439af25027e.output	file	31189	output
+./.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1/call_c2f323d616d84e2382221316.output	file	12719034	output
+./.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1/call_cc4aaad160dd4170934e6d57.output	file	229258	output
+./.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1/logs.json	file	14709	json
+./.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821	dir	0	
+./.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/call_14a81ab458cb45d9a3308a0b.output	file	45317	output
+./.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/call_726409f13fef49e181b1613f.output	file	1490550	output
+./.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/call_95b22f03c8454d91b506ea07.output	file	2797123	output
+./.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/call_d28d5a11882a40f68bda258d.output	file	108882	output
+./.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/logs.json	file	79992	json
+./.qwen/todos	dir	0	
+./.qwen/todos/020cf543-1f84-4942-aaa5-669737097b9b.json	file	470	json
+./.qwen/todos/05551882-ac4c-4531-861c-8783549e54b4.json	file	617	json
+./.qwen/todos/09206e4f-48fe-40ee-ad5f-2e3bb2f34181.json	file	607	json
+./.qwen/todos/0c33aea4-7bee-45ed-bada-725c0e4ddeec.json	file	1187	json
+./.qwen/todos/0dd9905d-c08b-4784-acdb-8f2fa0365309.json	file	925	json
+./.qwen/todos/0f9fa663-477d-4bb6-a1d9-3b80e0dda2b9.json	file	606	json
+./.qwen/todos/132b1437-dc9b-47a8-aa80-78c30d3c5691.json	file	678	json
+./.qwen/todos/2ee254bc-ae4c-43f6-94c9-a5497c7d1d47.json	file	629	json
+./.qwen/todos/2ff33e24-db3b-49df-a20d-c734df333174.json	file	808	json
+./.qwen/todos/30e8e56f-96ff-43c2-a33e-612a0e0ba85f.json	file	574	json
+./.qwen/todos/324ab3a2-4a96-47c2-a2f6-b26a703ba735.json	file	2319	json
+./.qwen/todos/362891f7-8350-484e-aa88-45ee696ca70d.json	file	909	json
+./.qwen/todos/3880223c-3646-4231-99f9-9e60ae3bb53b.json	file	920	json
+./.qwen/todos/40bad0a7-71fe-441a-a8cd-4bfd99c5ae81.json	file	959	json
+./.qwen/todos/4186c334-5f53-47c5-9eca-c6521536561b.json	file	875	json
+./.qwen/todos/4607515d-95d4-4cf3-a3b3-4410f03c35f1.json	file	1171	json
+./.qwen/todos/55987f2e-52fe-409a-9551-a94d3abe0236.json	file	648	json
+./.qwen/todos/5cf7182a-ffd2-4abf-a6ed-e0ebeb3ffa2c.json	file	768	json
+./.qwen/todos/5f46bb76-4c5b-4625-8c04-f09bcc860909.json	file	778	json
+./.qwen/todos/63f465c8-81bf-40c6-81d6-ef3faf7784b1.json	file	736	json
+./.qwen/todos/676453a9-75f4-4a1a-bcd8-5ed8f0f46762.json	file	769	json
+./.qwen/todos/698551cc-f521-4f0f-a658-7ed93e3b73ed.json	file	1205	json
+./.qwen/todos/6bad3c53-457b-43ca-9d66-b7d461c43936.json	file	652	json
+./.qwen/todos/72ab755f-059e-485d-9d54-1c8be8517603.json	file	719	json
+./.qwen/todos/765e92ab-7781-49cf-b9fd-9a61c82ae4ed.json	file	443	json
+./.qwen/todos/7c5cd1b1-8453-4d18-a401-0d941cfe44b8.json	file	373	json
+./.qwen/todos/7dd0d838-cee4-4b66-8699-571271c0b66f.json	file	769	json
+./.qwen/todos/81bca729-146b-4f17-8db5-3833225c7ea4.json	file	984	json
+./.qwen/todos/81f3fed9-d89b-4630-88fc-91a7ed15458c.json	file	936	json
+./.qwen/todos/84adc61b-11c6-4107-8e36-0002116cb567.json	file	1772	json
+./.qwen/todos/896fcea1-6016-4911-8ba2-d6bc7c6d6b60.json	file	2126	json
+./.qwen/todos/8976f870-39db-41bd-811b-b09cf21f3fdb.json	file	2205	json
+./.qwen/todos/9187e782-3981-4883-90b5-586a2d6d7d93.json	file	218	json
+./.qwen/todos/955964e9-95a4-40ce-a435-be46fa377c5e.json	file	1037	json
+./.qwen/todos/965825fd-9922-4482-bb81-9c51058af73b.json	file	1139	json
+./.qwen/todos/97b2b0a1-5817-4c6c-a7f1-1cefdb1bc39c.json	file	523	json
+./.qwen/todos/98bc8ec5-ab4a-484d-b3be-4be67cf0c68f.json	file	1012	json
+./.qwen/todos/9fde6fc3-f1de-4f39-aab1-5cf65ca5cb8c.json	file	940	json
+./.qwen/todos/a11abca6-d14f-4b32-bcfc-0bc939422044.json	file	1601	json
+./.qwen/todos/a1fa4aba-5ab5-491e-a51a-3c6a682dcd13.json	file	1078	json
+./.qwen/todos/a27e88b8-ed86-4b0b-91f2-61ac79c7cb6a.json	file	904	json
+./.qwen/todos/a42e1f7c-2933-40a1-b68e-867887b626fe.json	file	1565	json
+./.qwen/todos/a77a2bc9-9c8b-4417-a422-fd300c5cee2e.json	file	1040	json
+./.qwen/todos/acf83beb-953f-4424-b266-c4992b263f2f.json	file	1061	json
+./.qwen/todos/ae1bced4-c07e-43e0-8655-579082616b1f.json	file	424	json
+./.qwen/todos/aea3a160-441f-49da-b18c-914326bd7af3.json	file	711	json
+./.qwen/todos/af4d43d8-7c53-4530-8dba-cc5620e0c9b6.json	file	1328	json
+./.qwen/todos/b0ab902a-231e-4bd6-97d9-91c39a7a5bf1.json	file	931	json
+./.qwen/todos/b3740047-a12c-46e8-8f9a-94735547aa50.json	file	770	json
+./.qwen/todos/b432e090-9c1a-4ae8-8cff-38a8c9635158.json	file	420	json
+./.qwen/todos/b6ee8808-f1fc-46d9-b9a5-cbccb476ec73.json	file	855	json
+./.qwen/todos/b705325b-d112-44a9-bfd3-0bd1cd9d8a9a.json	file	869	json
+./.qwen/todos/bdb35c94-243e-49be-ac66-90c7ed5e2e5b.json	file	491	json
+./.qwen/todos/c1b0c559-c077-4696-858b-0fd488349313.json	file	1161	json
+./.qwen/todos/c4c6a857-95ae-4d30-9526-d3884413d235.json	file	869	json
+./.qwen/todos/c9cc7e8b-0f66-49dd-a65e-d74e78e36a53.json	file	590	json
+./.qwen/todos/ca72e32c-e41b-4893-bb36-658c3ba4aad7.json	file	676	json
+./.qwen/todos/cd51239a-12bd-443b-9237-ad53850bf560.json	file	725	json
+./.qwen/todos/ce22cfd0-2a61-449f-a6d5-f2551a57cb6d.json	file	1052	json
+./.qwen/todos/d29eee56-99a2-4b5a-bdd8-54f3b0ea27a0.json	file	351	json
+./.qwen/todos/d45c078f-2886-4b0f-a6ee-031fcd4929da.json	file	445	json
+./.qwen/todos/d8a7fffd-8788-4a54-bb53-0dcfc44b44d2.json	file	544	json
+./.qwen/todos/da6fa24a-f08b-40fd-9f29-c597e777a5eb.json	file	530	json
+./.qwen/todos/dbb2f4ae-9d44-4fe2-9dec-29444343bc41.json	file	1009	json
+./.qwen/todos/e08f3425-77e2-4a91-b124-51dcf79547ba.json	file	740	json
+./.qwen/todos/e327a947-e23f-4fcb-96aa-1899f7390845.json	file	688	json
+./.qwen/todos/e4b56d59-9b38-4927-ae68-83f4c1a1f8de.json	file	481	json
+./.qwen/todos/e4e1c52e-5bfd-42ef-958f-1a140ae04501.json	file	628	json
+./.qwen/todos/edb931e7-4657-4e54-8582-8f2e25fb0924.json	file	598	json
+./.qwen/todos/eddcd320-b198-4f3b-9106-9e6bb41d2dee.json	file	505	json
+./.qwen/todos/ee17a8c3-76fb-47df-9e76-c36bd3ae1eec.json	file	877	json
+./.qwen/todos/f42e37fc-a027-40c7-9ccf-3fd41631d9d1.json	file	826	json
+./.qwen/todos/f5928a10-3887-4a71-bfb1-0448700a3384.json	file	790	json
+./.qwen/todos/fb5e5aac-9921-45a2-b148-f1307da96a04.json	file	921	json
+./.qwen/todos/fc762c0c-1053-4ccc-b2d0-057f163ae3fa.json	file	1080	json
+./.qwen/Untitled.txt	file	567820	txt
+./.qwen/update.sh	file	2207	sh

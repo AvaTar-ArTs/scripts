@@ -1,0 +1,2 @@
+FilePath,LineNumber,IssueType,Severity,Description,Suggestion,FileHash_SHA256,IsDuplicate,DuplicateOf
+/Users/steven/scripts/inject_error_handling.sh,1,ErrorHandling,Warning,'set -e' or 'set -o errexit' is not enabled.,Add 'set -e' at the start.,ca0c25f07974a393d72c80cc9f726818a0625edbc90bb7cf8e10aa1a0f4b5a73,false,

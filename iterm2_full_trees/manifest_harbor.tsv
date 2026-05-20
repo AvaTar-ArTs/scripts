@@ -1,0 +1,1472 @@
+path	type	size_bytes	ext
+./.harbor	dir	0	
+./.harbor/__init__.py	file	489	py
+./.harbor/.aider.chat.history.md	file	38905	md
+./.harbor/.aider.input.history	file	2353	history
+./.harbor/.aider.tags.cache.v4	dir	0	
+./.harbor/.aider.tags.cache.v4/cache.db	file	32768	db
+./.harbor/.aider.tags.cache.v4/cache.db-shm	file	32768	db-shm
+./.harbor/.aider.tags.cache.v4/cache.db-wal	file	119512	db-wal
+./.harbor/.DS_Store	file	22532	
+./.harbor/.editorconfig	file	236	
+./.harbor/.env	file	19870	
+./.harbor/.git	dir	0	
+./.harbor/.git/.DS_Store	file	6148	
+./.harbor/.git/ai	dir	0	
+./.harbor/.git/ai/logs	dir	0	
+./.harbor/.git/ai/rewrite_log	file	0	
+./.harbor/.git/ai/working_logs	dir	0	
+./.harbor/.git/COMMIT_EDITMSG	file	133	
+./.harbor/.git/config	file	137	
+./.harbor/.git/description	file	73	
+./.harbor/.git/HEAD	file	23	
+./.harbor/.git/hooks	dir	0	
+./.harbor/.git/hooks/applypatch-msg.sample	file	478	sample
+./.harbor/.git/hooks/commit-msg.sample	file	896	sample
+./.harbor/.git/hooks/fsmonitor-watchman.sample	file	4726	sample
+./.harbor/.git/hooks/post-update.sample	file	189	sample
+./.harbor/.git/hooks/pre-applypatch.sample	file	424	sample
+./.harbor/.git/hooks/pre-commit.sample	file	1649	sample
+./.harbor/.git/hooks/pre-merge-commit.sample	file	416	sample
+./.harbor/.git/hooks/pre-push.sample	file	1374	sample
+./.harbor/.git/hooks/pre-rebase.sample	file	4898	sample
+./.harbor/.git/hooks/pre-receive.sample	file	544	sample
+./.harbor/.git/hooks/prepare-commit-msg.sample	file	1492	sample
+./.harbor/.git/hooks/push-to-checkout.sample	file	2783	sample
+./.harbor/.git/hooks/sendemail-validate.sample	file	2308	sample
+./.harbor/.git/hooks/update.sample	file	3650	sample
+./.harbor/.git/index	file	17035	
+./.harbor/.git/info	dir	0	
+./.harbor/.git/info/exclude	file	240	
+./.harbor/.git/logs	dir	0	
+./.harbor/.git/logs/HEAD	file	408	
+./.harbor/.git/logs/refs	dir	0	
+./.harbor/.git/logs/refs/heads	dir	0	
+./.harbor/.git/logs/refs/heads/master	file	408	
+./.harbor/.git/objects	dir	0	
+./.harbor/.git/objects/01	dir	0	
+./.harbor/.git/objects/01/75681056bbd9a13fbce39a1caa6448d3559d61	file	2010	
+./.harbor/.git/objects/08	dir	0	
+./.harbor/.git/objects/08/5ed8e7612671c74e198e0ec413a2711e13b98f	file	1428	
+./.harbor/.git/objects/1e	dir	0	
+./.harbor/.git/objects/1e/526d91efa2b862ce49d035d21bccfbb2edd66a	file	1065	
+./.harbor/.git/objects/3d	dir	0	
+./.harbor/.git/objects/3d/5e0d1012f61220d8d6cb0320ff37aa0e7d4eac	file	816	
+./.harbor/.git/objects/5c	dir	0	
+./.harbor/.git/objects/5c/1bd9de18d1ebe115987125e72ebe0d962f7758	file	919	
+./.harbor/.git/objects/8a	dir	0	
+./.harbor/.git/objects/8a/b107fe4ae67e0fa17d1c0a3fb599c9fceb3b36	file	153	
+./.harbor/.git/objects/8d	dir	0	
+./.harbor/.git/objects/8d/46e789637832006b9bf7d8cebbbbe49544bee2	file	201	
+./.harbor/.git/objects/96	dir	0	
+./.harbor/.git/objects/96/4b505f022a422f4c330020c84d4c794d6d9155	file	240	
+./.harbor/.git/objects/c2	dir	0	
+./.harbor/.git/objects/c2/954dec426e96bf8e449478e485786fe63e8b2a	file	152	
+./.harbor/.git/objects/e2	dir	0	
+./.harbor/.git/objects/e2/7a583fbba2fd0086c8175b41ffd3e41a7a36e0	file	48	
+./.harbor/.git/objects/e6	dir	0	
+./.harbor/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391	file	15	
+./.harbor/.git/objects/f3	dir	0	
+./.harbor/.git/objects/f3/14f4e7f739d6199fc213460fe841fef0e674f1	file	572	
+./.harbor/.git/objects/f5	dir	0	
+./.harbor/.git/objects/f5/f68253d86ba7c5f0eff6f5fe2f2d969459254d	file	475	
+./.harbor/.git/objects/f7	dir	0	
+./.harbor/.git/objects/f7/4b32dab8eb6f13e1db47f45f928b5fdb255982	file	48	
+./.harbor/.git/objects/info	dir	0	
+./.harbor/.git/objects/pack	dir	0	
+./.harbor/.git/refs	dir	0	
+./.harbor/.git/refs/heads	dir	0	
+./.harbor/.git/refs/heads/master	file	41	
+./.harbor/.git/refs/tags	dir	0	
+./.harbor/.github	dir	0	
+./.harbor/.github/copilot-instructions.md	file	914	md
+./.harbor/.github/FUNDING.yml	file	928	yml
+./.harbor/.github/workflows	dir	0	
+./.harbor/.github/workflows/app-release.yml	file	2086	yml
+./.harbor/.github/workflows/bench-docker.yml	file	2520	yml
+./.harbor/.github/workflows/boost-docker.yml	file	2520	yml
+./.harbor/.gitignore	file	1211	
+./.harbor/.history	file	20	
+./.harbor/.scripts	dir	0	
+./.harbor/.scripts/app.ts	file	609	ts
+./.harbor/.scripts/comment.ts	file	708	ts
+./.harbor/.scripts/deno.json	file	62	json
+./.harbor/.scripts/deno.lock	file	29496	lock
+./.harbor/.scripts/docs-to-app.ts	file	974	ts
+./.harbor/.scripts/docs.ts	file	7313	ts
+./.harbor/.scripts/fluid.sh	file	538	sh
+./.harbor/.scripts/inliner.ts	file	450	ts
+./.harbor/.scripts/nbs.sh	file	406	sh
+./.harbor/.scripts/promx.sh	file	542	sh
+./.harbor/.scripts/release.sh	file	302	sh
+./.harbor/.scripts/scaffold.ts	file	1833	ts
+./.harbor/.scripts/seed-cdi.ts	file	1252	ts
+./.harbor/.scripts/seed-traefik.ts	file	2470	ts
+./.harbor/.scripts/seed.ts	file	2635	ts
+./.harbor/.scripts/terser.sh	file	1507	sh
+./.harbor/.style.yapf	file	133	yapf
+./.harbor/.vscode	dir	0	
+./.harbor/.vscode/.copilot-instructions.md	file	124	md
+./.harbor/.vscode/settings.json	file	186	json
+./.harbor/agent	dir	0	
+./.harbor/agent/.DS_Store	file	6148	
+./.harbor/agent/.gitignore	file	35	
+./.harbor/agent/docker	dir	0	
+./.harbor/agent/docker/services.d	dir	0	
+./.harbor/agent/docker/services.d/agent.sh	file	134	sh
+./.harbor/agent/Dockerfile	file	1032	
+./.harbor/agent/override.env	file	205	env
+./.harbor/agent/requirements.txt	file	82	txt
+./.harbor/agent/src	dir	0	
+./.harbor/agent/src/agent.py	file	1454	py
+./.harbor/agent/src/chat_node.py	file	2038	py
+./.harbor/agent/src/chat.py	file	2430	py
+./.harbor/agent/src/config.py	file	5590	py
+./.harbor/agent/src/format.py	file	472	py
+./.harbor/agent/src/llm.py	file	8350	py
+./.harbor/agent/src/log.py	file	414	py
+./.harbor/agent/src/main.py	file	2618	py
+./.harbor/agent/src/tasks	dir	0	
+./.harbor/agent/src/tasks/chat_to_goal.py	file	1342	py
+./.harbor/agent/src/tasks/direct.py	file	581	py
+./.harbor/agent/src/tasks/next_step.py	file	720	py
+./.harbor/agent/src/tasks/plan.py	file	981	py
+./.harbor/agent/src/tasks/refine.py	file	737	py
+./.harbor/agentzero	dir	0	
+./.harbor/agentzero/override.env	file	173	env
+./.harbor/aichat	dir	0	
+./.harbor/aichat/configs	dir	0	
+./.harbor/aichat/configs/aichat.airllm.yml	file	163	yml
+./.harbor/aichat/configs/aichat.aphrodite.yml	file	172	yml
+./.harbor/aichat/configs/aichat.config.yml	file	6539	yml
+./.harbor/aichat/configs/aichat.dify.yml	file	188	yml
+./.harbor/aichat/configs/aichat.ktransformers.yml	file	185	yml
+./.harbor/aichat/configs/aichat.litellm.yml	file	185	yml
+./.harbor/aichat/configs/aichat.llamacpp.yml	file	168	yml
+./.harbor/aichat/configs/aichat.mistralrs.yml	file	171	yml
+./.harbor/aichat/configs/aichat.ollama.yml	file	174	yml
+./.harbor/aichat/configs/aichat.sglang.yml	file	164	yml
+./.harbor/aichat/configs/aichat.tabbyapi.yml	file	187	yml
+./.harbor/aichat/configs/aichat.vllm.yml	file	160	yml
+./.harbor/aichat/Dockerfile	file	185	
+./.harbor/aichat/override.env	file	155	env
+./.harbor/aichat/start_aichat.sh	file	439	sh
+./.harbor/aider	dir	0	
+./.harbor/aider-config.env	file	2045	env
+./.harbor/aider-enhancements.sh	file	8703	sh
+./.harbor/aider-extension.sh	file	10407	sh
+./.harbor/aider-integration.sh	file	7206	sh
+./.harbor/aider/configs	dir	0	
+./.harbor/aider/configs/aider.airllm.yml	file	118	yml
+./.harbor/aider/configs/aider.aphrodite.yml	file	124	yml
+./.harbor/aider/configs/aider.config.yml	file	65	yml
+./.harbor/aider/configs/aider.dify.yml	file	144	yml
+./.harbor/aider/configs/aider.ktransformers.yml	file	133	yml
+./.harbor/aider/configs/aider.litellm.yml	file	138	yml
+./.harbor/aider/configs/aider.llamacpp.yml	file	122	yml
+./.harbor/aider/configs/aider.mistralrs.yml	file	124	yml
+./.harbor/aider/configs/aider.ollama.yml	file	129	yml
+./.harbor/aider/configs/aider.sglang.yml	file	119	yml
+./.harbor/aider/configs/aider.tabbyapi.yml	file	139	yml
+./.harbor/aider/configs/aider.vllm.yml	file	114	yml
+./.harbor/aider/override.env	file	134	env
+./.harbor/aider/start_aider.sh	file	546	sh
+./.harbor/airllm	dir	0	
+./.harbor/airllm/Dockerfile	file	363	
+./.harbor/airllm/override.env	file	155	env
+./.harbor/airllm/server.py	file	5365	py
+./.harbor/airweave	dir	0	
+./.harbor/airweave/override.env	file	1066	env
+./.harbor/anythingllm	dir	0	
+./.harbor/anythingllm/override.env	file	91	env
+./.harbor/aphrodite	dir	0	
+./.harbor/aphrodite/override.env	file	241	env
+./.harbor/app	dir	0	
+./.harbor/app/.DS_Store	file	6148	
+./.harbor/app/.editorconfig	file	260	
+./.harbor/app/.gitignore	file	253	
+./.harbor/app/app-icon.png	file	4102	png
+./.harbor/app/bun.lockb	file	158501	lockb
+./.harbor/app/index.html	file	712	html
+./.harbor/app/package.json	file	1068	json
+./.harbor/app/postcss.config.js	file	80	js
+./.harbor/app/public	dir	0	
+./.harbor/app/public/tauri.svg	file	2599	svg
+./.harbor/app/public/vite.svg	file	1497	svg
+./.harbor/app/README.md	file	878	md
+./.harbor/app/src	dir	0	
+./.harbor/app/src-tauri	dir	0	
+./.harbor/app/src-tauri/.gitignore	file	166	
+./.harbor/app/src-tauri/build.rs	file	39	rs
+./.harbor/app/src-tauri/capabilities	dir	0	
+./.harbor/app/src-tauri/capabilities/default.json	file	1677	json
+./.harbor/app/src-tauri/capabilities/desktop.json	file	217	json
+./.harbor/app/src-tauri/Cargo.lock	file	133702	lock
+./.harbor/app/src-tauri/Cargo.toml	file	830	toml
+./.harbor/app/src-tauri/icons	dir	0	
+./.harbor/app/src-tauri/icons/128x128.png	file	5417	png
+./.harbor/app/src-tauri/icons/128x128@2x.png	file	5021	png
+./.harbor/app/src-tauri/icons/32x32.png	file	1320	png
+./.harbor/app/src-tauri/icons/android	dir	0	
+./.harbor/app/src-tauri/icons/android/mipmap-hdpi	dir	0	
+./.harbor/app/src-tauri/icons/android/mipmap-hdpi/ic_launcher_foreground.png	file	7175	png
+./.harbor/app/src-tauri/icons/android/mipmap-hdpi/ic_launcher_round.png	file	1941	png
+./.harbor/app/src-tauri/icons/android/mipmap-mdpi	dir	0	
+./.harbor/app/src-tauri/icons/android/mipmap-mdpi/ic_launcher_foreground.png	file	4573	png
+./.harbor/app/src-tauri/icons/android/mipmap-mdpi/ic_launcher_round.png	file	2115	png
+./.harbor/app/src-tauri/icons/android/mipmap-xhdpi	dir	0	
+./.harbor/app/src-tauri/icons/android/mipmap-xhdpi/ic_launcher_foreground.png	file	10106	png
+./.harbor/app/src-tauri/icons/android/mipmap-xhdpi/ic_launcher_round.png	file	4163	png
+./.harbor/app/src-tauri/icons/android/mipmap-xxhdpi	dir	0	
+./.harbor/app/src-tauri/icons/android/mipmap-xxhdpi/ic_launcher_foreground.png	file	18232	png
+./.harbor/app/src-tauri/icons/android/mipmap-xxhdpi/ic_launcher_round.png	file	6328	png
+./.harbor/app/src-tauri/icons/android/mipmap-xxxhdpi	dir	0	
+./.harbor/app/src-tauri/icons/android/mipmap-xxxhdpi/ic_launcher_foreground.png	file	29912	png
+./.harbor/app/src-tauri/icons/android/mipmap-xxxhdpi/ic_launcher_round.png	file	8439	png
+./.harbor/app/src-tauri/icons/icon.icns	file	201006	icns
+./.harbor/app/src-tauri/icons/icon.ico	file	16198	ico
+./.harbor/app/src-tauri/icons/icon.png	file	34222	png
+./.harbor/app/src-tauri/icons/ios	dir	0	
+./.harbor/app/src-tauri/icons/ios/AppIcon-20x20@1x.png	file	627	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-20x20@3x.png	file	1718	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-29x29@1x.png	file	923	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-29x29@2x.png	file	1690	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-29x29@3x.png	file	2353	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-40x40@1x.png	file	1194	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-40x40@2x.png	file	2241	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-512@2x.png	file	57955	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-60x60@2x.png	file	3447	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-60x60@3x.png	file	4927	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-76x76@1x.png	file	2069	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-76x76@2x.png	file	4232	png
+./.harbor/app/src-tauri/icons/ios/AppIcon-83.5x83.5@2x.png	file	4631	png
+./.harbor/app/src-tauri/icons/Square107x107Logo.png	file	4608	png
+./.harbor/app/src-tauri/icons/Square142x142Logo.png	file	6294	png
+./.harbor/app/src-tauri/icons/Square150x150Logo.png	file	6635	png
+./.harbor/app/src-tauri/icons/Square284x284Logo.png	file	14530	png
+./.harbor/app/src-tauri/icons/Square30x30Logo.png	file	1228	png
+./.harbor/app/src-tauri/icons/Square310x310Logo.png	file	16969	png
+./.harbor/app/src-tauri/icons/Square44x44Logo.png	file	1907	png
+./.harbor/app/src-tauri/icons/Square71x71Logo.png	file	2815	png
+./.harbor/app/src-tauri/icons/Square89x89Logo.png	file	3707	png
+./.harbor/app/src-tauri/icons/StoreLogo.png	file	1921	png
+./.harbor/app/src-tauri/src	dir	0	
+./.harbor/app/src-tauri/src/lib.rs	file	1790	rs
+./.harbor/app/src-tauri/src/main.rs	file	214	rs
+./.harbor/app/src-tauri/src/tray.rs	file	1743	rs
+./.harbor/app/src-tauri/tauri.conf.json	file	898	json
+./.harbor/app/src/.gitignore	file	34	
+./.harbor/app/src/App.tsx	file	2341	tsx
+./.harbor/app/src/AppContent.tsx	file	262	tsx
+./.harbor/app/src/AppRoutes.tsx	file	1587	tsx
+./.harbor/app/src/AppSidebar.tsx	file	888	tsx
+./.harbor/app/src/assets	dir	0	
+./.harbor/app/src/assets/font	dir	0	
+./.harbor/app/src/assets/font/Inter-Black.woff2	file	108748	woff2
+./.harbor/app/src/assets/font/Inter-BlackItalic.woff2	file	115364	woff2
+./.harbor/app/src/assets/font/Inter-Bold.woff2	file	111040	woff2
+./.harbor/app/src/assets/font/Inter-BoldItalic.woff2	file	118392	woff2
+./.harbor/app/src/assets/font/Inter-ExtraBold.woff2	file	111360	woff2
+./.harbor/app/src/assets/font/Inter-ExtraBoldItalic.woff2	file	118604	woff2
+./.harbor/app/src/assets/font/Inter-ExtraLight.woff2	file	110176	woff2
+./.harbor/app/src/assets/font/Inter-ExtraLightItalic.woff2	file	116296	woff2
+./.harbor/app/src/assets/font/Inter-Italic.woff2	file	114576	woff2
+./.harbor/app/src/assets/font/Inter-Light.woff2	file	109992	woff2
+./.harbor/app/src/assets/font/Inter-LightItalic.woff2	file	116516	woff2
+./.harbor/app/src/assets/font/Inter-Medium.woff2	file	111380	woff2
+./.harbor/app/src/assets/font/Inter-MediumItalic.woff2	file	118392	woff2
+./.harbor/app/src/assets/font/Inter-Regular.woff2	file	108488	woff2
+./.harbor/app/src/assets/font/Inter-SemiBold.woff2	file	111588	woff2
+./.harbor/app/src/assets/font/Inter-SemiBoldItalic.woff2	file	118216	woff2
+./.harbor/app/src/assets/font/Inter-Thin.woff2	file	106620	woff2
+./.harbor/app/src/assets/font/Inter-ThinItalic.woff2	file	113384	woff2
+./.harbor/app/src/assets/font/InterDisplay-Black.woff2	file	107220	woff2
+./.harbor/app/src/assets/font/InterDisplay-BlackItalic.woff2	file	114380	woff2
+./.harbor/app/src/assets/font/InterDisplay-Bold.woff2	file	110184	woff2
+./.harbor/app/src/assets/font/InterDisplay-BoldItalic.woff2	file	117540	woff2
+./.harbor/app/src/assets/font/InterDisplay-ExtraBold.woff2	file	110304	woff2
+./.harbor/app/src/assets/font/InterDisplay-ExtraBoldItalic.woff2	file	117724	woff2
+./.harbor/app/src/assets/font/InterDisplay-ExtraLight.woff2	file	109664	woff2
+./.harbor/app/src/assets/font/InterDisplay-ExtraLightItalic.woff2	file	117068	woff2
+./.harbor/app/src/assets/font/InterDisplay-Italic.woff2	file	113320	woff2
+./.harbor/app/src/assets/font/InterDisplay-Light.woff2	file	109860	woff2
+./.harbor/app/src/assets/font/InterDisplay-LightItalic.woff2	file	116848	woff2
+./.harbor/app/src/assets/font/InterDisplay-Medium.woff2	file	110012	woff2
+./.harbor/app/src/assets/font/InterDisplay-MediumItalic.woff2	file	117596	woff2
+./.harbor/app/src/assets/font/InterDisplay-Regular.woff2	file	105568	woff2
+./.harbor/app/src/assets/font/InterDisplay-SemiBold.woff2	file	110228	woff2
+./.harbor/app/src/assets/font/InterDisplay-SemiBoldItalic.woff2	file	117508	woff2
+./.harbor/app/src/assets/font/InterDisplay-Thin.woff2	file	106240	woff2
+./.harbor/app/src/assets/font/InterDisplay-ThinItalic.woff2	file	113240	woff2
+./.harbor/app/src/assets/font/InterVariable-Italic.woff2	file	380904	woff2
+./.harbor/app/src/assets/font/InterVariable.woff2	file	345588	woff2
+./.harbor/app/src/BackButton.tsx	file	316	tsx
+./.harbor/app/src/Button.tsx	file	227	tsx
+./.harbor/app/src/cli	dir	0	
+./.harbor/app/src/cli/CLI.tsx	file	205	tsx
+./.harbor/app/src/config	dir	0	
+./.harbor/app/src/config/Config.tsx	file	459	tsx
+./.harbor/app/src/config/ConfigNameModal.tsx	file	2260	tsx
+./.harbor/app/src/config/HarborConfig.ts	file	5488	ts
+./.harbor/app/src/config/HarborConfigEditor.tsx	file	7480	tsx
+./.harbor/app/src/config/HarborConfigEntryEditor.tsx	file	795	tsx
+./.harbor/app/src/config/HarborConfigSectionEditor.tsx	file	2177	tsx
+./.harbor/app/src/config/useHarborConfig.ts	file	2498	ts
+./.harbor/app/src/configMetadata.tsx	file	1522	tsx
+./.harbor/app/src/ConfirmModal.tsx	file	920	tsx
+./.harbor/app/src/DataClass.tsx	file	2238	tsx
+./.harbor/app/src/font.css	file	6906	css
+./.harbor/app/src/HarborLogo.tsx	file	125	tsx
+./.harbor/app/src/home	dir	0	
+./.harbor/app/src/home/Doctor.tsx	file	2026	tsx
+./.harbor/app/src/home/Home.tsx	file	198	tsx
+./.harbor/app/src/home/ServiceCard.tsx	file	1399	tsx
+./.harbor/app/src/home/ServiceList.tsx	file	5598	tsx
+./.harbor/app/src/home/useServiceList.tsx	file	1520	tsx
+./.harbor/app/src/home/Version.tsx	file	645	tsx
+./.harbor/app/src/IconButton.tsx	file	454	tsx
+./.harbor/app/src/Icons.tsx	file	18806	tsx
+./.harbor/app/src/Loading.tsx	file	974	tsx
+./.harbor/app/src/localStorage.ts	file	979	ts
+./.harbor/app/src/LostSquirrel.tsx	file	267	tsx
+./.harbor/app/src/main.css	file	343	css
+./.harbor/app/src/main.tsx	file	832	tsx
+./.harbor/app/src/Modal.tsx	file	769	tsx
+./.harbor/app/src/OverlayContext.tsx	file	1245	tsx
+./.harbor/app/src/ScrollToTop.tsx	file	1429	tsx
+./.harbor/app/src/SearchInput.tsx	file	1004	tsx
+./.harbor/app/src/Section.tsx	file	439	tsx
+./.harbor/app/src/service	dir	0	
+./.harbor/app/src/service/ServiceActions.tsx	file	2795	tsx
+./.harbor/app/src/service/ServiceDescription.tsx	file	203	tsx
+./.harbor/app/src/service/ServiceDetails.tsx	file	1300	tsx
+./.harbor/app/src/service/ServiceDocs.tsx	file	1553	tsx
+./.harbor/app/src/service/ServiceHandle.tsx	file	484	tsx
+./.harbor/app/src/service/ServiceName.tsx	file	227	tsx
+./.harbor/app/src/service/useCurrentService.ts	file	412	ts
+./.harbor/app/src/serviceActions.tsx	file	226	tsx
+./.harbor/app/src/serviceMetadata.ts	file	20869	ts
+./.harbor/app/src/ServiceTags.tsx	file	2630	tsx
+./.harbor/app/src/settings	dir	0	
+./.harbor/app/src/settings/ProfileSelector.tsx	file	3487	tsx
+./.harbor/app/src/settings/Settings.tsx	file	5292	tsx
+./.harbor/app/src/squirrel.css	file	2253	css
+./.harbor/app/src/tags.css	file	58	css
+./.harbor/app/src/theme.tsx	file	3004	tsx
+./.harbor/app/src/useArrayState.ts	file	2138	ts
+./.harbor/app/src/useAutostart.tsx	file	1545	tsx
+./.harbor/app/src/useCalled.tsx	file	455	tsx
+./.harbor/app/src/useDebounceCallback.tsx	file	1288	tsx
+./.harbor/app/src/useGlobalKeydown.tsx	file	1364	tsx
+./.harbor/app/src/useHarbor.tsx	file	2425	tsx
+./.harbor/app/src/useInvoke.tsx	file	1174	tsx
+./.harbor/app/src/useOpen.tsx	file	394	tsx
+./.harbor/app/src/useSearch.tsx	file	745	tsx
+./.harbor/app/src/useSelectedProfile.tsx	file	235	tsx
+./.harbor/app/src/useSharedState.tsx	file	2971	tsx
+./.harbor/app/src/useStoredState.tsx	file	795	tsx
+./.harbor/app/src/useUnmount.ts	file	223	ts
+./.harbor/app/src/utils.tsx	file	3957	tsx
+./.harbor/app/src/vite-env.d.ts	file	38	ts
+./.harbor/app/tailwind.config.js	file	1173	js
+./.harbor/app/tsconfig.json	file	605	json
+./.harbor/app/tsconfig.node.json	file	213	json
+./.harbor/app/vite.config.ts	file	850	ts
+./.harbor/autogpt	dir	0	
+./.harbor/autogpt/backends	dir	0	
+./.harbor/autogpt/backends/autogpt.ollama.yml	file	164	yml
+./.harbor/autogpt/override.env	file	6818	env
+./.harbor/bench	dir	0	
+./.harbor/bench/defaultTasks.yml	file	277	yml
+./.harbor/bench/Dockerfile	file	135	
+./.harbor/bench/override.env	file	134	env
+./.harbor/bench/src	dir	0	
+./.harbor/bench/src/bench.ts	file	669	ts
+./.harbor/bench/src/config.ts	file	1137	ts
+./.harbor/bench/src/deps.ts	file	296	ts
+./.harbor/bench/src/judge.ts	file	4248	ts
+./.harbor/bench/src/llm.ts	file	2731	ts
+./.harbor/bench/src/log.ts	file	760	ts
+./.harbor/bench/src/report.ts	file	12768	ts
+./.harbor/bench/src/run.ts	file	3035	ts
+./.harbor/bench/src/runner.ts	file	3954	ts
+./.harbor/bench/src/task.ts	file	1321	ts
+./.harbor/bench/src/tasks.ts	file	693	ts
+./.harbor/bench/src/tsconfig.json	file	309	json
+./.harbor/bench/src/utils.ts	file	5274	ts
+./.harbor/bionicgpt	dir	0	
+./.harbor/bionicgpt/override.env	file	138	env
+./.harbor/bionicgpt/start_envoy.sh	file	654	sh
+./.harbor/bolt	dir	0	
+./.harbor/bolt/.env.local	file	1750	local
+./.harbor/bolt/Dockerfile	file	119	
+./.harbor/bolt/model.ts	file	191	ts
+./.harbor/bolt/override.env	file	294	env
+./.harbor/boost	dir	0	
+./.harbor/boost/.dockerignore	file	9	
+./.harbor/boost/.DS_Store	file	6148	
+./.harbor/boost/Dockerfile	file	236	
+./.harbor/boost/override.env	file	206	env
+./.harbor/boost/README.md	file	9047	md
+./.harbor/boost/src	dir	0	
+./.harbor/boost/src/chat_node.py	file	3459	py
+./.harbor/boost/src/chat.py	file	3728	py
+./.harbor/boost/src/config.py	file	17139	py
+./.harbor/boost/src/custom_modules	dir	0	
+./.harbor/boost/src/custom_modules/.gitkeep	file	46	
+./.harbor/boost/src/custom_modules/3t.py	file	1636	py
+./.harbor/boost/src/custom_modules/ambi.py	file	2266	py
+./.harbor/boost/src/custom_modules/artifacts	dir	0	
+./.harbor/boost/src/custom_modules/artifacts/dnd_mini.html	file	8702	html
+./.harbor/boost/src/custom_modules/artifacts/dnd.html	file	14122	html
+./.harbor/boost/src/custom_modules/artifacts/dot_mini.html	file	4488	html
+./.harbor/boost/src/custom_modules/artifacts/dot.html	file	6855	html
+./.harbor/boost/src/custom_modules/artifacts/fluid	dir	0	
+./.harbor/boost/src/custom_modules/artifacts/fluid_mini.html	file	63232	html
+./.harbor/boost/src/custom_modules/artifacts/fluid.html	file	60957	html
+./.harbor/boost/src/custom_modules/artifacts/fluid/color.ts	file	883	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/config.ts	file	638	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/fluid.ts	file	36978	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/graph.ts	file	8062	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/index.pug	file	866	pug
+./.harbor/boost/src/custom_modules/artifacts/fluid/index.ts	file	1020	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/listener.ts	file	2360	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/package-lock.json	file	86927	json
+./.harbor/boost/src/custom_modules/artifacts/fluid/package.json	file	72	json
+./.harbor/boost/src/custom_modules/artifacts/fluid/pointer.ts	file	614	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/viewport.ts	file	3341	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/visualisation.ts	file	2234	ts
+./.harbor/boost/src/custom_modules/artifacts/fluid/webgl.ts	file	5308	ts
+./.harbor/boost/src/custom_modules/artifacts/graph_mini.html	file	5210	html
+./.harbor/boost/src/custom_modules/artifacts/graph.html	file	10321	html
+./.harbor/boost/src/custom_modules/artifacts/nbs_mini.html	file	8062	html
+./.harbor/boost/src/custom_modules/artifacts/nbs.html	file	12034	html
+./.harbor/boost/src/custom_modules/artifacts/ponder_mini.html	file	6709	html
+./.harbor/boost/src/custom_modules/artifacts/ponder.html	file	12780	html
+./.harbor/boost/src/custom_modules/artifacts/promx	dir	0	
+./.harbor/boost/src/custom_modules/artifacts/promx_mini.html	file	27337	html
+./.harbor/boost/src/custom_modules/artifacts/promx/.gitignore	file	13	
+./.harbor/boost/src/custom_modules/artifacts/promx/index.css	file	4304	css
+./.harbor/boost/src/custom_modules/artifacts/promx/index.pug	file	654	pug
+./.harbor/boost/src/custom_modules/artifacts/promx/index.ts	file	21695	ts
+./.harbor/boost/src/custom_modules/artifacts/promx/listener.ts	file	2220	ts
+./.harbor/boost/src/custom_modules/artifacts/promx/package.json	file	4	json
+./.harbor/boost/src/custom_modules/artifacts/promx/utils.ts	file	1466	ts
+./.harbor/boost/src/custom_modules/artifacts/tokens_mini.html	file	2259	html
+./.harbor/boost/src/custom_modules/artifacts/tokens.html	file	3498	html
+./.harbor/boost/src/custom_modules/cea.py	file	3102	py
+./.harbor/boost/src/custom_modules/cex.py	file	1811	py
+./.harbor/boost/src/custom_modules/clarity.py	file	1598	py
+./.harbor/boost/src/custom_modules/crystal.py	file	1253	py
+./.harbor/boost/src/custom_modules/cssv.py	file	5077	py
+./.harbor/boost/src/custom_modules/discussurl.py	file	1067	py
+./.harbor/boost/src/custom_modules/example.py	file	6866	py
+./.harbor/boost/src/custom_modules/fml.py	file	823	py
+./.harbor/boost/src/custom_modules/gact.py	file	5305	py
+./.harbor/boost/src/custom_modules/grug.py	file	1295	py
+./.harbor/boost/src/custom_modules/l33t.py	file	829	py
+./.harbor/boost/src/custom_modules/meow.py	file	249	py
+./.harbor/boost/src/custom_modules/ow.py	file	3635	py
+./.harbor/boost/src/custom_modules/pad.py	file	5141	py
+./.harbor/boost/src/custom_modules/pdsv.py	file	4341	py
+./.harbor/boost/src/custom_modules/polyglot.py	file	2169	py
+./.harbor/boost/src/custom_modules/recpl.py	file	4069	py
+./.harbor/boost/src/custom_modules/stcl.py	file	11104	py
+./.harbor/boost/src/custom_modules/tmsv.py	file	2326	py
+./.harbor/boost/src/custom_modules/tri.py	file	1446	py
+./.harbor/boost/src/custom_modules/unstable.py	file	1343	py
+./.harbor/boost/src/custom_modules/usv.py	file	2229	py
+./.harbor/boost/src/custom_modules/webui_artifact.py	file	572	py
+./.harbor/boost/src/custom_modules/wswp.py	file	856	py
+./.harbor/boost/src/debouncer.py	file	1712	py
+./.harbor/boost/src/events.py	file	3043	py
+./.harbor/boost/src/format.py	file	989	py
+./.harbor/boost/src/llm_registry.py	file	416	py
+./.harbor/boost/src/llm.py	file	19182	py
+./.harbor/boost/src/log.py	file	1756	py
+./.harbor/boost/src/main.py	file	5706	py
+./.harbor/boost/src/mapper.py	file	3364	py
+./.harbor/boost/src/middleware	dir	0	
+./.harbor/boost/src/middleware/request_id.py	file	577	py
+./.harbor/boost/src/middleware/request_state.py	file	415	py
+./.harbor/boost/src/mods.py	file	1446	py
+./.harbor/boost/src/modules	dir	0	
+./.harbor/boost/src/modules/autotemp.py	file	2932	py
+./.harbor/boost/src/modules/concept.py	file	7226	py
+./.harbor/boost/src/modules/dnd.py	file	2834	py
+./.harbor/boost/src/modules/dot.py	file	3962	py
+./.harbor/boost/src/modules/eli5.py	file	2222	py
+./.harbor/boost/src/modules/g1.py	file	3778	py
+./.harbor/boost/src/modules/klmbr.py	file	6863	py
+./.harbor/boost/src/modules/markov.py	file	888	py
+./.harbor/boost/src/modules/mcts.py	file	11023	py
+./.harbor/boost/src/modules/nbs.py	file	9826	py
+./.harbor/boost/src/modules/ponder.py	file	6858	py
+./.harbor/boost/src/modules/promx.py	file	19943	py
+./.harbor/boost/src/modules/r0.py	file	3094	py
+./.harbor/boost/src/modules/rcn.py	file	3588	py
+./.harbor/boost/src/modules/supersummer.py	file	6951	py
+./.harbor/boost/src/requirements.txt	file	163	txt
+./.harbor/boost/src/selection.py	file	1827	py
+./.harbor/boost/src/state.py	file	126	py
+./.harbor/boost/src/tools	dir	0	
+./.harbor/boost/src/tools/registry.py	file	2469	py
+./.harbor/boost/tests	dir	0	
+./.harbor/boost/tests/protocol.http	file	8944	http
+./.harbor/boost/tests/variables.http	file	204	http
+./.harbor/chatnio	dir	0	
+./.harbor/chatnio/.gitignore	file	44	
+./.harbor/chatnio/config	dir	0	
+./.harbor/chatnio/config/config.base.yml	file	501	yml
+./.harbor/chatnio/config/config.ollama.yml	file	630	yml
+./.harbor/chatnio/config/config.override.yml	file	160	yml
+./.harbor/chatnio/config/config.searxng.yml	file	309	yml
+./.harbor/chatnio/Dockerfile	file	206	
+./.harbor/chatnio/override.env	file	171	env
+./.harbor/chatnio/start_chatnio.sh	file	613	sh
+./.harbor/chatui	dir	0	
+./.harbor/chatui/configs	dir	0	
+./.harbor/chatui/configs/chatui.airllm.yml	file	163	yml
+./.harbor/chatui/configs/chatui.aphrodite.yml	file	175	yml
+./.harbor/chatui/configs/chatui.config.yml	file	113	yml
+./.harbor/chatui/configs/chatui.dify.yml	file	187	yml
+./.harbor/chatui/configs/chatui.litellm.yml	file	210	yml
+./.harbor/chatui/configs/chatui.llamacpp.yml	file	171	yml
+./.harbor/chatui/configs/chatui.mistralrs.yml	file	175	yml
+./.harbor/chatui/configs/chatui.ollama.yml	file	169	yml
+./.harbor/chatui/configs/chatui.searxng.yml	file	66	yml
+./.harbor/chatui/configs/chatui.tabbyapi.yml	file	190	yml
+./.harbor/chatui/configs/chatui.vllm.yml	file	155	yml
+./.harbor/chatui/envify.js	file	739	js
+./.harbor/chatui/override.env	file	191	env
+./.harbor/chatui/start_chatui.sh	file	668	sh
+./.harbor/cmdh	dir	0	
+./.harbor/cmdh/Dockerfile	file	387	
+./.harbor/cmdh/harbor.prompt	file	10490	prompt
+./.harbor/cmdh/ollama.ts	file	1260	ts
+./.harbor/cmdh/override.env	file	131	env
+./.harbor/cmdh/system.prompt	file	1405	prompt
+./.harbor/comfyui	dir	0	
+./.harbor/comfyui/.gitkeep	file	0	
+./.harbor/comfyui/default-workflow.json	file	9508	json
+./.harbor/comfyui/override.env	file	168	env
+./.harbor/comfyui/provisioning.sh	file	6887	sh
+./.harbor/compose.agent.yml	file	688	yml
+./.harbor/compose.agentzero.yml	file	602	yml
+./.harbor/compose.aichat.yml	file	642	yml
+./.harbor/compose.aider.yml	file	1289	yml
+./.harbor/compose.airllm.yml	file	881	yml
+./.harbor/compose.airweave.yml	file	3959	yml
+./.harbor/compose.anythingllm.yml	file	512	yml
+./.harbor/compose.aphrodite.yml	file	689	yml
+./.harbor/compose.autogpt.yml	file	457	yml
+./.harbor/compose.bench.yml	file	383	yml
+./.harbor/compose.bionicgpt.yml	file	3559	yml
+./.harbor/compose.bolt.yml	file	509	yml
+./.harbor/compose.boost.yml	file	541	yml
+./.harbor/compose.cfd.yml	file	201	yml
+./.harbor/compose.chatnio.yml	file	2435	yml
+./.harbor/compose.chatui.yml	file	1230	yml
+./.harbor/compose.cmdh.yml	file	435	yml
+./.harbor/compose.comfyui.yml	file	1507	yml
+./.harbor/compose.dify.yml	file	5344	yml
+./.harbor/compose.docling.yml	file	286	yml
+./.harbor/compose.fabric.yml	file	304	yml
+./.harbor/compose.flowise.yml	file	369	yml
+./.harbor/compose.gptme.yml	file	301	yml
+./.harbor/compose.gum.yml	file	77	yml
+./.harbor/compose.hf.yml	file	322	yml
+./.harbor/compose.hfdownloader.yml	file	482	yml
+./.harbor/compose.hollama.yml	file	229	yml
+./.harbor/compose.jupyter.yml	file	1028	yml
+./.harbor/compose.k6.yml	file	1540	yml
+./.harbor/compose.kobold.yml	file	588	yml
+./.harbor/compose.ktransformers.yml	file	838	yml
+./.harbor/compose.langflow.yml	file	436	yml
+./.harbor/compose.langfuse.yml	file	2916	yml
+./.harbor/compose.latentscope.yml	file	502	yml
+./.harbor/compose.ldr.yml	file	763	yml
+./.harbor/compose.librechat.yml	file	3790	yml
+./.harbor/compose.libretranslate.yml	file	507	yml
+./.harbor/compose.litellm.yml	file	1699	yml
+./.harbor/compose.litlytics.yml	file	300	yml
+./.harbor/compose.llamacpp.yml	file	560	yml
+./.harbor/compose.llamaswap.yml	file	533	yml
+./.harbor/compose.lmdeploy.yml	file	367	yml
+./.harbor/compose.lmeval.yml	file	776	yml
+./.harbor/compose.lobechat.yml	file	253	yml
+./.harbor/compose.localai.yml	file	738	yml
+./.harbor/compose.mcp-inspector.yml	file	584	yml
+./.harbor/compose.mcpo.yml	file	570	yml
+./.harbor/compose.metamcp.yml	file	2032	yml
+./.harbor/compose.mikupad.yml	file	475	yml
+./.harbor/compose.mistralrs.yml	file	802	yml
+./.harbor/compose.modularmax.yml	file	685	yml
+./.harbor/compose.morphic.yml	file	548	yml
+./.harbor/compose.n8n.yml	file	1544	yml
+./.harbor/compose.nexa.yml	file	1077	yml
+./.harbor/compose.ol1.yml	file	464	yml
+./.harbor/compose.ollama.yml	file	1293	yml
+./.harbor/compose.omnichain.yml	file	917	yml
+./.harbor/compose.omniparser.yml	file	304	yml
+./.harbor/compose.openhands.yml	file	661	yml
+./.harbor/compose.opint.yml	file	482	yml
+./.harbor/compose.optillm.yml	file	395	yml
+./.harbor/compose.oterm.yml	file	300	yml
+./.harbor/compose.parler.yml	file	488	yml
+./.harbor/compose.parllama.yml	file	344	yml
+./.harbor/compose.perplexica.yml	file	1109	yml
+./.harbor/compose.perplexideez.yml	file	1855	yml
+./.harbor/compose.pipelines.yml	file	1025	yml
+./.harbor/compose.plandex.yml	file	2391	yml
+./.harbor/compose.promptfoo.yml	file	1401	yml
+./.harbor/compose.qdrant.yml	file	908	yml
+./.harbor/compose.qrgen.yml	file	83	yml
+./.harbor/compose.raglite.yml	file	1349	yml
+./.harbor/compose.repopack.yml	file	241	yml
+./.harbor/compose.searxng.morphic.yml	file	620	yml
+./.harbor/compose.sglang.yml	file	625	yml
+./.harbor/compose.speaches.yml	file	1007	yml
+./.harbor/compose.sqlchat.yml	file	284	yml
+./.harbor/compose.stt.yml	file	488	yml
+./.harbor/compose.supergateway.yml	file	342	yml
+./.harbor/compose.tabbyapi.yml	file	766	yml
+./.harbor/compose.textgrad.yml	file	644	yml
+./.harbor/compose.tgi.yml	file	443	yml
+./.harbor/compose.traefik.yml	file	723	yml
+./.harbor/compose.tts.yml	file	508	yml
+./.harbor/compose.txtairag.yml	file	554	yml
+./.harbor/compose.vllm.yml	file	728	yml
+./.harbor/compose.webtop.yml	file	1098	yml
+./.harbor/compose.webui.yml	file	945	yml
+./.harbor/compose.x.agentzero.ollama.yml	file	93	yml
+./.harbor/compose.x.aichat.ktransformers.yml	file	113	yml
+./.harbor/compose.x.aichat.ollama.yml	file	99	yml
+./.harbor/compose.x.aider.airllm.yml	file	96	yml
+./.harbor/compose.x.aider.aphrodite.yml	file	102	yml
+./.harbor/compose.x.aider.cdi.yml	file	293	yml
+./.harbor/compose.x.aider.dify.yml	file	92	yml
+./.harbor/compose.x.aider.ktransformers.yml	file	110	yml
+./.harbor/compose.x.aider.litellm.yml	file	98	yml
+./.harbor/compose.x.aider.llamacpp.yml	file	100	yml
+./.harbor/compose.x.aider.mistralrs.yml	file	102	yml
+./.harbor/compose.x.aider.nvidia.yml	file	176	yml
+./.harbor/compose.x.aider.ollama.yml	file	96	yml
+./.harbor/compose.x.aider.sglang.yml	file	96	yml
+./.harbor/compose.x.aider.tabbyapi.yml	file	100	yml
+./.harbor/compose.x.aider.vllm.yml	file	92	yml
+./.harbor/compose.x.anythingllm.llamacpp.yml	file	179	yml
+./.harbor/compose.x.anythingllm.ollama.yml	file	214	yml
+./.harbor/compose.x.anythingllm.searxng.yml	file	102	yml
+./.harbor/compose.x.aphrodite.cdi.yml	file	297	yml
+./.harbor/compose.x.aphrodite.nvidia.yml	file	180	yml
+./.harbor/compose.x.boost.airllm.yml	file	145	yml
+./.harbor/compose.x.boost.aphrodite.yml	file	157	yml
+./.harbor/compose.x.boost.dify.yml	file	167	yml
+./.harbor/compose.x.boost.ktransformers.yml	file	173	yml
+./.harbor/compose.x.boost.litellm.yml	file	167	yml
+./.harbor/compose.x.boost.llamacpp.yml	file	153	yml
+./.harbor/compose.x.boost.mistralrs.yml	file	157	yml
+./.harbor/compose.x.boost.ollama.yml	file	156	yml
+./.harbor/compose.x.boost.omnichain.yml	file	158	yml
+./.harbor/compose.x.boost.sglang.yml	file	146	yml
+./.harbor/compose.x.boost.tabbyapi.yml	file	170	yml
+./.harbor/compose.x.boost.vllm.yml	file	137	yml
+./.harbor/compose.x.chatnio.ollama.yml	file	103	yml
+./.harbor/compose.x.chatnio.searxng.yml	file	105	yml
+./.harbor/compose.x.chatui.airllm.yml	file	106	yml
+./.harbor/compose.x.chatui.aphrodite.yml	file	112	yml
+./.harbor/compose.x.chatui.dify.yml	file	102	yml
+./.harbor/compose.x.chatui.litellm.yml	file	108	yml
+./.harbor/compose.x.chatui.llamacpp.yml	file	110	yml
+./.harbor/compose.x.chatui.mistralrs.yml	file	112	yml
+./.harbor/compose.x.chatui.ollama.yml	file	106	yml
+./.harbor/compose.x.chatui.searxng.yml	file	108	yml
+./.harbor/compose.x.chatui.tabbyapi.yml	file	110	yml
+./.harbor/compose.x.chatui.vllm.yml	file	102	yml
+./.harbor/compose.x.cmdh.harbor.yml	file	78	yml
+./.harbor/compose.x.cmdh.llamacpp.yml	file	141	yml
+./.harbor/compose.x.cmdh.ollama.yml	file	172	yml
+./.harbor/compose.x.cmdh.tgi.yml	file	129	yml
+./.harbor/compose.x.comfyui.cdi.yml	file	295	yml
+./.harbor/compose.x.comfyui.nvidia.yml	file	178	yml
+./.harbor/compose.x.docling.cdi.yml	file	295	yml
+./.harbor/compose.x.docling.nvidia.yml	file	178	yml
+./.harbor/compose.x.fabric.ollama.yml	file	166	yml
+./.harbor/compose.x.gptme.ollama.yml	file	93	yml
+./.harbor/compose.x.jupyter.cdi.yml	file	295	yml
+./.harbor/compose.x.jupyter.nvidia.yml	file	178	yml
+./.harbor/compose.x.kobold.cdi.yml	file	294	yml
+./.harbor/compose.x.kobold.nvidia.yml	file	177	yml
+./.harbor/compose.x.ktransformers.cdi.yml	file	301	yml
+./.harbor/compose.x.ktransformers.nvidia.yml	file	184	yml
+./.harbor/compose.x.langflow.litellm.yml	file	130	yml
+./.harbor/compose.x.ldr.ollama.yml	file	209	yml
+./.harbor/compose.x.ldr.searxng.yml	file	154	yml
+./.harbor/compose.x.litellm.langfuse.yml	file	276	yml
+./.harbor/compose.x.litellm.optillm.yml	file	98	yml
+./.harbor/compose.x.litellm.tgi.yml	file	90	yml
+./.harbor/compose.x.litellm.vllm.yml	file	92	yml
+./.harbor/compose.x.llamacpp.cdi.yml	file	296	yml
+./.harbor/compose.x.llamacpp.nvidia.yml	file	228	yml
+./.harbor/compose.x.llamaswap.cdi.yml	file	297	yml
+./.harbor/compose.x.llamaswap.nvidia.yml	file	222	yml
+./.harbor/compose.x.lmdeploy.cdi.yml	file	296	yml
+./.harbor/compose.x.lmdeploy.nvidia.yml	file	179	yml
+./.harbor/compose.x.lmeval.cdi.yml	file	294	yml
+./.harbor/compose.x.lmeval.nvidia.yml	file	177	yml
+./.harbor/compose.x.lobechat.ollama.yml	file	93	yml
+./.harbor/compose.x.localai.cdi.yml	file	295	yml
+./.harbor/compose.x.localai.nvidia.yml	file	246	yml
+./.harbor/compose.x.localai.rocm.yml	file	133	yml
+./.harbor/compose.x.mcpo.mcp-server-time.yml	file	119	yml
+./.harbor/compose.x.mcpo.metamcp.yml	file	173	yml
+./.harbor/compose.x.mistralrs.cdi.yml	file	297	yml
+./.harbor/compose.x.mistralrs.nvidia.yml	file	259	yml
+./.harbor/compose.x.morphic.ollama.yml	file	221	yml
+./.harbor/compose.x.nexa.cdi.yml	file	292	yml
+./.harbor/compose.x.nexa.nvidia.yml	file	346	yml
+./.harbor/compose.x.ollama.cdi.yml	file	294	yml
+./.harbor/compose.x.ollama.nvidia.yml	file	177	yml
+./.harbor/compose.x.ollama.rocm.yml	file	97	yml
+./.harbor/compose.x.ollama.webui.yml	file	89	yml
+./.harbor/compose.x.openhands.ollama.yml	file	90	yml
+./.harbor/compose.x.opint.aphrodite.yml	file	157	yml
+./.harbor/compose.x.opint.litellm.yml	file	171	yml
+./.harbor/compose.x.opint.llamacpp.yml	file	155	yml
+./.harbor/compose.x.opint.mistralrs.yml	file	157	yml
+./.harbor/compose.x.opint.ollama.yml	file	162	yml
+./.harbor/compose.x.opint.tabbyapi.yml	file	172	yml
+./.harbor/compose.x.opint.vllm.yml	file	147	yml
+./.harbor/compose.x.optillm.airllm.yml	file	117	yml
+./.harbor/compose.x.optillm.aphrodite.yml	file	123	yml
+./.harbor/compose.x.optillm.boost.yml	file	130	yml
+./.harbor/compose.x.optillm.cdi.yml	file	295	yml
+./.harbor/compose.x.optillm.dify.yml	file	143	yml
+./.harbor/compose.x.optillm.ktransformers.yml	file	132	yml
+./.harbor/compose.x.optillm.litellm.yml	file	137	yml
+./.harbor/compose.x.optillm.llamacpp.yml	file	121	yml
+./.harbor/compose.x.optillm.mistralrs.yml	file	123	yml
+./.harbor/compose.x.optillm.nexa.yml	file	119	yml
+./.harbor/compose.x.optillm.nvidia.yml	file	178	yml
+./.harbor/compose.x.optillm.ollama.yml	file	128	yml
+./.harbor/compose.x.optillm.omnichain.yml	file	124	yml
+./.harbor/compose.x.optillm.pipelines.yml	file	135	yml
+./.harbor/compose.x.optillm.sglang.yml	file	118	yml
+./.harbor/compose.x.optillm.tabbyapi.yml	file	138	yml
+./.harbor/compose.x.optillm.vllm.yml	file	113	yml
+./.harbor/compose.x.oterm.ollama.yml	file	84	yml
+./.harbor/compose.x.parler.cdi.yml	file	294	yml
+./.harbor/compose.x.parler.nvidia.yml	file	177	yml
+./.harbor/compose.x.parllama.ollama.yml	file	87	yml
+./.harbor/compose.x.perplexica.ollama.yml	file	101	yml
+./.harbor/compose.x.perplexica.searxng.yml	file	103	yml
+./.harbor/compose.x.perplexideez.mdc.yml	file	3117	yml
+./.harbor/compose.x.perplexideez.ollama.yml	file	117	yml
+./.harbor/compose.x.perplexideez.searxng.yml	file	93	yml
+./.harbor/compose.x.plandex.litellm.yml	file	161	yml
+./.harbor/compose.x.plandex.llamacpp.yml	file	233	yml
+./.harbor/compose.x.plandex.ollama.yml	file	236	yml
+./.harbor/compose.x.promptfoo.ollama.yml	file	126	yml
+./.harbor/compose.x.raglite.ollama.yml	file	91	yml
+./.harbor/compose.x.raglite.vllm.yml	file	76	yml
+./.harbor/compose.x.sglang.cdi.yml	file	294	yml
+./.harbor/compose.x.sglang.nvidia.yml	file	177	yml
+./.harbor/compose.x.speaches.cdi.yml	file	296	yml
+./.harbor/compose.x.speaches.nvidia.yml	file	619	yml
+./.harbor/compose.x.sqlchat.ollama.yml	file	131	yml
+./.harbor/compose.x.stt.cdi.yml	file	291	yml
+./.harbor/compose.x.stt.nvidia.yml	file	241	yml
+./.harbor/compose.x.tabbyapi.cdi.yml	file	296	yml
+./.harbor/compose.x.tabbyapi.nvidia.yml	file	231	yml
+./.harbor/compose.x.textgrad.cdi.yml	file	296	yml
+./.harbor/compose.x.textgrad.nvidia.yml	file	179	yml
+./.harbor/compose.x.tgi.cdi.yml	file	291	yml
+./.harbor/compose.x.tgi.nvidia.yml	file	174	yml
+./.harbor/compose.x.traefik.agent.yml	file	491	yml
+./.harbor/compose.x.traefik.agentzero.yml	file	521	yml
+./.harbor/compose.x.traefik.aichat.yml	file	521	yml
+./.harbor/compose.x.traefik.aider.yml	file	491	yml
+./.harbor/compose.x.traefik.airllm.yml	file	499	yml
+./.harbor/compose.x.traefik.airweave.yml	file	515	yml
+./.harbor/compose.x.traefik.anythingllm.yml	file	539	yml
+./.harbor/compose.x.traefik.aphrodite.yml	file	523	yml
+./.harbor/compose.x.traefik.autogpt.yml	file	507	yml
+./.harbor/compose.x.traefik.bionicgpt.yml	file	523	yml
+./.harbor/compose.x.traefik.bolt.yml	file	483	yml
+./.harbor/compose.x.traefik.boost.yml	file	491	yml
+./.harbor/compose.x.traefik.chatnio.yml	file	507	yml
+./.harbor/compose.x.traefik.chatui.yml	file	499	yml
+./.harbor/compose.x.traefik.comfyui.yml	file	530	yml
+./.harbor/compose.x.traefik.dify.yml	file	481	yml
+./.harbor/compose.x.traefik.docling.yml	file	507	yml
+./.harbor/compose.x.traefik.flowise.yml	file	507	yml
+./.harbor/compose.x.traefik.hollama.yml	file	507	yml
+./.harbor/compose.x.traefik.jupyter.yml	file	507	yml
+./.harbor/compose.x.traefik.k6.yml	file	467	yml
+./.harbor/compose.x.traefik.kobold.yml	file	499	yml
+./.harbor/compose.x.traefik.ktransformers.yml	file	556	yml
+./.harbor/compose.x.traefik.langflow.yml	file	515	yml
+./.harbor/compose.x.traefik.langfuse.yml	file	515	yml
+./.harbor/compose.x.traefik.latentscope.yml	file	539	yml
+./.harbor/compose.x.traefik.ldr.yml	file	475	yml
+./.harbor/compose.x.traefik.librechat.yml	file	548	yml
+./.harbor/compose.x.traefik.libretranslate.yml	file	563	yml
+./.harbor/compose.x.traefik.litellm.yml	file	507	yml
+./.harbor/compose.x.traefik.litlytics.yml	file	523	yml
+./.harbor/compose.x.traefik.llamacpp.yml	file	515	yml
+./.harbor/compose.x.traefik.llamaswap.yml	file	523	yml
+./.harbor/compose.x.traefik.lmdeploy.yml	file	516	yml
+./.harbor/compose.x.traefik.lobechat.yml	file	515	yml
+./.harbor/compose.x.traefik.localai.yml	file	507	yml
+./.harbor/compose.x.traefik.mcp-inspector.yml	file	555	yml
+./.harbor/compose.x.traefik.mcpo.yml	file	483	yml
+./.harbor/compose.x.traefik.metamcp.yml	file	507	yml
+./.harbor/compose.x.traefik.mikupad.yml	file	507	yml
+./.harbor/compose.x.traefik.mistralrs.yml	file	523	yml
+./.harbor/compose.x.traefik.modularmax.yml	file	531	yml
+./.harbor/compose.x.traefik.morphic.yml	file	507	yml
+./.harbor/compose.x.traefik.n8n.yml	file	475	yml
+./.harbor/compose.x.traefik.nexa.yml	file	147	yml
+./.harbor/compose.x.traefik.ol1.yml	file	475	yml
+./.harbor/compose.x.traefik.ollama.yml	file	500	yml
+./.harbor/compose.x.traefik.omnichain.yml	file	548	yml
+./.harbor/compose.x.traefik.omniparser.yml	file	531	yml
+./.harbor/compose.x.traefik.openhands.yml	file	523	yml
+./.harbor/compose.x.traefik.optillm.yml	file	507	yml
+./.harbor/compose.x.traefik.parler.yml	file	499	yml
+./.harbor/compose.x.traefik.perplexica.yml	file	531	yml
+./.harbor/compose.x.traefik.perplexideez.yml	file	545	yml
+./.harbor/compose.x.traefik.pipelines.yml	file	523	yml
+./.harbor/compose.x.traefik.plandex.yml	file	150	yml
+./.harbor/compose.x.traefik.promptfoo.yml	file	523	yml
+./.harbor/compose.x.traefik.qdrant.yml	file	499	yml
+./.harbor/compose.x.traefik.raglite.yml	file	507	yml
+./.harbor/compose.x.traefik.sglang.yml	file	500	yml
+./.harbor/compose.x.traefik.speaches.yml	file	515	yml
+./.harbor/compose.x.traefik.sqlchat.yml	file	507	yml
+./.harbor/compose.x.traefik.stt.yml	file	475	yml
+./.harbor/compose.x.traefik.tabbyapi.yml	file	515	yml
+./.harbor/compose.x.traefik.textgrad.yml	file	515	yml
+./.harbor/compose.x.traefik.tgi.yml	file	473	yml
+./.harbor/compose.x.traefik.tts.yml	file	475	yml
+./.harbor/compose.x.traefik.txtairag.yml	file	515	yml
+./.harbor/compose.x.traefik.vllm.yml	file	483	yml
+./.harbor/compose.x.traefik.webtop.yml	file	499	yml
+./.harbor/compose.x.traefik.webui.yml	file	491	yml
+./.harbor/compose.x.tts.cdi.yml	file	291	yml
+./.harbor/compose.x.tts.nvidia.yml	file	174	yml
+./.harbor/compose.x.txtairag.cdi.yml	file	296	yml
+./.harbor/compose.x.txtairag.nvidia.yml	file	179	yml
+./.harbor/compose.x.txtairag.ollama.yml	file	137	yml
+./.harbor/compose.x.vllm.cdi.yml	file	292	yml
+./.harbor/compose.x.vllm.nvidia.yml	file	175	yml
+./.harbor/compose.x.webui.agent.yml	file	109	yml
+./.harbor/compose.x.webui.airllm.yml	file	111	yml
+./.harbor/compose.x.webui.aphrodite.yml	file	117	yml
+./.harbor/compose.x.webui.boost.yml	file	109	yml
+./.harbor/compose.x.webui.comfyui.yml	file	113	yml
+./.harbor/compose.x.webui.dify.yml	file	107	yml
+./.harbor/compose.x.webui.kobold.yml	file	111	yml
+./.harbor/compose.x.webui.ktransformers.yml	file	125	yml
+./.harbor/compose.x.webui.litellm.yml	file	113	yml
+./.harbor/compose.x.webui.llamacpp.yml	file	115	yml
+./.harbor/compose.x.webui.llamaswap.yml	file	117	yml
+./.harbor/compose.x.webui.mcpo.metamcp.yml	file	127	yml
+./.harbor/compose.x.webui.mistralrs.yml	file	117	yml
+./.harbor/compose.x.webui.modularmax.yml	file	119	yml
+./.harbor/compose.x.webui.nexa.yml	file	107	yml
+./.harbor/compose.x.webui.ollama.yml	file	111	yml
+./.harbor/compose.x.webui.omnichain.yml	file	117	yml
+./.harbor/compose.x.webui.optillm.yml	file	113	yml
+./.harbor/compose.x.webui.parler.yml	file	111	yml
+./.harbor/compose.x.webui.pipelines.yml	file	118	yml
+./.harbor/compose.x.webui.searxng.ollama.yml	file	131	yml
+./.harbor/compose.x.webui.searxng.yml	file	205	yml
+./.harbor/compose.x.webui.sglang.yml	file	111	yml
+./.harbor/compose.x.webui.speaches.yml	file	198	yml
+./.harbor/compose.x.webui.stt.yml	file	188	yml
+./.harbor/compose.x.webui.tabbyapi.yml	file	115	yml
+./.harbor/compose.x.webui.tts.yml	file	105	yml
+./.harbor/compose.x.webui.vllm.yml	file	107	yml
+./.harbor/compose.yml	file	249	yml
+./.harbor/deno.lock	file	11040	lock
+./.harbor/dify	dir	0	
+./.harbor/dify/.DS_Store	file	6148	
+./.harbor/dify/certbot	dir	0	
+./.harbor/dify/certbot/docker-entrypoint.sh	file	927	sh
+./.harbor/dify/certbot/README.md	file	2079	md
+./.harbor/dify/certbot/update-cert.template.txt	file	874	txt
+./.harbor/dify/nginx	dir	0	
+./.harbor/dify/nginx/conf.d	dir	0	
+./.harbor/dify/nginx/conf.d/default.conf.template	file	815	template
+./.harbor/dify/nginx/docker-entrypoint.sh	file	1774	sh
+./.harbor/dify/nginx/https.conf.template	file	355	template
+./.harbor/dify/nginx/nginx.conf.template	file	856	template
+./.harbor/dify/nginx/proxy.conf.template	file	416	template
+./.harbor/dify/nginx/ssl	dir	0	
+./.harbor/dify/nginx/ssl/.gitkeep	file	0	
+./.harbor/dify/openai	dir	0	
+./.harbor/dify/openai/app.js	file	8924	js
+./.harbor/dify/openai/Dockerfile	file	93	
+./.harbor/dify/openai/package.json	file	324	json
+./.harbor/dify/override.env	file	21877	env
+./.harbor/dify/ssrf_proxy	dir	0	
+./.harbor/dify/ssrf_proxy/docker-entrypoint.sh	file	1749	sh
+./.harbor/dify/ssrf_proxy/squid.conf.template	file	2202	template
+./.harbor/docling	dir	0	
+./.harbor/docling/override.env	file	199	env
+./.harbor/docs	dir	0	
+./.harbor/docs/_Footer.md	file	175	md
+./.harbor/docs/1.-Harbor-User-Guide.md	file	16678	md
+./.harbor/docs/1.0.-Installing-Harbor.md	file	6483	md
+./.harbor/docs/1.1-Harbor-App.md	file	2474	md
+./.harbor/docs/1.2-Tools.md	file	4335	md
+./.harbor/docs/2.-Services.md	file	18017	md
+./.harbor/docs/2.1.1-Frontend&colon-Open-WebUI.md	file	5451	md
+./.harbor/docs/2.1.10-Frontend&colon-Chat-Nio.md	file	1550	md
+./.harbor/docs/2.1.11-Frontend&colon-Mikupad.md	file	788	md
+./.harbor/docs/2.1.12-Frontend-oterm.md	file	834	md
+./.harbor/docs/2.1.2-Frontend&colon-ComfyUI.md	file	7432	md
+./.harbor/docs/2.1.3-Frontend&colon-LibreChat.md	file	2542	md
+./.harbor/docs/2.1.4-Frontend&colon-ChatUI.md	file	2297	md
+./.harbor/docs/2.1.5-Frontend&colon-Lobe-Chat.md	file	1253	md
+./.harbor/docs/2.1.6-Frontend&colon-hollama.md	file	567	md
+./.harbor/docs/2.1.7-Frontend&colon-parllama.md	file	866	md
+./.harbor/docs/2.1.8-Frontend&colon-BionicGPT.md	file	657	md
+./.harbor/docs/2.1.9-Frontend&colon-AnythingLLM.md	file	3396	md
+./.harbor/docs/2.2.1-Backend&colon-Ollama.md	file	9228	md
+./.harbor/docs/2.2.10-Backend&colon-lmdeploy.md	file	161	md
+./.harbor/docs/2.2.11-Backend&colon-AirLLM.md	file	1837	md
+./.harbor/docs/2.2.12-Backend&colon-SGLang.md	file	1907	md
+./.harbor/docs/2.2.13-Backend&colon-KTransformers.md	file	3564	md
+./.harbor/docs/2.2.14-Backend&colon-Speaches.md	file	3688	md
+./.harbor/docs/2.2.15-Backend&colon-Nexa-SDK.md	file	4201	md
+./.harbor/docs/2.2.16-Backend&colon-KoboldCpp.md	file	6849	md
+./.harbor/docs/2.2.17-Backend-Modular-MAX.md	file	3170	md
+./.harbor/docs/2.2.2-Backend&colon-llama.cpp.md	file	5012	md
+./.harbor/docs/2.2.3-Backend&colon-vLLM.md	file	3750	md
+./.harbor/docs/2.2.4-Backend&colon-TabbyAPI.md	file	3193	md
+./.harbor/docs/2.2.5-Backend&colon-Aphrodite-Engine.md	file	1549	md
+./.harbor/docs/2.2.6-Backend&colon-mistral.rs.md	file	3828	md
+./.harbor/docs/2.2.7-Backend&colon-openedai-speech.md	file	1629	md
+./.harbor/docs/2.2.8-Backend&colon-Parler.md	file	1278	md
+./.harbor/docs/2.2.9-Backend&colon-text-generation-inference.md	file	3356	md
+./.harbor/docs/2.3.1-Satellite&colon-SearXNG.md	file	1951	md
+./.harbor/docs/2.3.10-Satellite&colon-fabric.md	file	3904	md
+./.harbor/docs/2.3.11-Satellite&colon-txtai-RAG.md	file	3891	md
+./.harbor/docs/2.3.12-Satellite&colon-TextGrad.md	file	1935	md
+./.harbor/docs/2.3.13-Satellite&colon-aider.md	file	2274	md
+./.harbor/docs/2.3.14-Satellite&colon-aichat.md	file	2258	md
+./.harbor/docs/2.3.15-Satellite&colon-AutoGPT.md	file	1323	md
+./.harbor/docs/2.3.16-Satellite&colon-omnichain.md	file	2268	md
+./.harbor/docs/2.3.17-Satellite&colon-lm-evaluation-harness.md	file	4218	md
+./.harbor/docs/2.3.18-Satellite&colon-JupyterLab.md	file	3681	md
+./.harbor/docs/2.3.19-Satellite&colon-ol1.md	file	1626	md
+./.harbor/docs/2.3.2-Satellite&colon-Perplexica.md	file	1426	md
+./.harbor/docs/2.3.20-Satellite&colon-OpenHands.md	file	4416	md
+./.harbor/docs/2.3.21-Satellite&colon-LitLytics.md	file	6047	md
+./.harbor/docs/2.3.22-Satellite&colon-Repopack.md	file	1448	md
+./.harbor/docs/2.3.23-Satellite&colon-n8n.md	file	2513	md
+./.harbor/docs/2.3.24-Satellite&colon-Bolt.new.md	file	2370	md
+./.harbor/docs/2.3.25-Satellite&colon-Open-WebUI-Pipelines.md	file	2098	md
+./.harbor/docs/2.3.26-Satellite&colon-Qdrant.md	file	1633	md
+./.harbor/docs/2.3.27-Satellite&colon-K6.md	file	4918	md
+./.harbor/docs/2.3.28-Satellite&colon-Promptfoo.md	file	4306	md
+./.harbor/docs/2.3.29-Satellite&colon-Webtop.md	file	5248	md
+./.harbor/docs/2.3.3-Satellite&colon-Dify.md	file	6220	md
+./.harbor/docs/2.3.30-Satellite&colon-OmniParser.md	file	1797	md
+./.harbor/docs/2.3.31-Satellite&colon-Flowise.md	file	2607	md
+./.harbor/docs/2.3.32-Satellite&colon-LangFlow.md	file	3148	md
+./.harbor/docs/2.3.33-Satellite&colon-OptiLLM.md	file	2136	md
+./.harbor/docs/2.3.34-Satellite-Morphic.md	file	2372	md
+./.harbor/docs/2.3.35-Satellite-SQL-Chat.md	file	2430	md
+./.harbor/docs/2.3.36-Satellite-gptme.md	file	2383	md
+./.harbor/docs/2.3.37-Satellite-traefik.md	file	1657	md
+./.harbor/docs/2.3.38-Satellite-Latent-Scope.md	file	1237	md
+./.harbor/docs/2.3.39-Satellite-RAGLite.md	file	1781	md
+./.harbor/docs/2.3.4-Satellite&colon-Plandex.md	file	8690	md
+./.harbor/docs/2.3.40-Satellite-llamaswap.md	file	1188	md
+./.harbor/docs/2.3.41-Satellite-libretranslate.md	file	1590	md
+./.harbor/docs/2.3.42-Satellite-metamcp.md	file	2596	md
+./.harbor/docs/2.3.43-Satellite-mcpo.md	file	2530	md
+./.harbor/docs/2.3.44-Satellite-supergateway.md	file	773	md
+./.harbor/docs/2.3.45-Satellite-Local-Deep-Research.md	file	1532	md
+./.harbor/docs/2.3.46-Satellite-LocalAI.md	file	2652	md
+./.harbor/docs/2.3.47-Satellite-Agent-Zero.md	file	2575	md
+./.harbor/docs/2.3.48-Satellite-Airweave.md	file	2241	md
+./.harbor/docs/2.3.49-Satellite-Docling.md	file	2120	md
+./.harbor/docs/2.3.5-Satellite&colon-LiteLLM.md	file	2493	md
+./.harbor/docs/2.3.6-Satellite&colon-langfuse.md	file	1426	md
+./.harbor/docs/2.3.7-Satellite&colon-Open-Interpreter.md	file	3764	md
+./.harbor/docs/2.3.8-Satellite&colon-cloudflared.md	file	1136	md
+./.harbor/docs/2.3.9-Satellite&colon-cmdh.md	file	2425	md
+./.harbor/docs/3.-Harbor-CLI-Reference.md	file	42265	md
+./.harbor/docs/4.-Compatibility.md	file	6334	md
+./.harbor/docs/5.1.-Harbor-Bench.md	file	15890	md
+./.harbor/docs/5.2.-Harbor-Boost.md	file	8862	md
+./.harbor/docs/5.2.1.-Harbor-Boost-Custom-Modules.md	file	15780	md
+./.harbor/docs/5.2.2-Harbor-Boost-Configuration.md	file	10539	md
+./.harbor/docs/5.2.3-Harbor-Boost-Modules.md	file	22020	md
+./.harbor/docs/6.-Harbor-Compose-Setup.md	file	5203	md
+./.harbor/docs/7.-Adding-A-New-Service.md	file	8718	md
+./.harbor/docs/anythingllm.png	file	152392	png
+./.harbor/docs/bench-report.png	file	230458	png
+./.harbor/docs/bench-superset.png	file	168856	png
+./.harbor/docs/bionicgpt.png	file	140863	png
+./.harbor/docs/bolt-local-qwen.png	file	230934	png
+./.harbor/docs/bolt-openailike.png	file	128095	png
+./.harbor/docs/boost-autotemp.png	file	143503	png
+./.harbor/docs/boost-behavior.png	file	78276	png
+./.harbor/docs/boost-concept.png	file	686926	png
+./.harbor/docs/boost-custom-example.png	file	168629	png
+./.harbor/docs/boost-dnd.png	file	391659	png
+./.harbor/docs/boost-dot.png	file	86124	png
+./.harbor/docs/boost-klmbr.png	file	73804	png
+./.harbor/docs/boost-markov.png	file	505387	png
+./.harbor/docs/boost-nbs.png	file	729508	png
+./.harbor/docs/boost-ponder.png	file	473258	png
+./.harbor/docs/boost-promx.png	file	840536	png
+./.harbor/docs/boost-r0.png	file	108335	png
+./.harbor/docs/boost-unstable.png	file	265398	png
+./.harbor/docs/boost.png	file	110539	png
+./.harbor/docs/chatnio-searxng.png	file	25264	png
+./.harbor/docs/chatui-searxng.png	file	364850	png
+./.harbor/docs/dify-harbor.png	file	750958	png
+./.harbor/docs/dify-sample-webllama.yml	file	8145	yml
+./.harbor/docs/dify-sample-webrag.yml	file	12638	yml
+./.harbor/docs/dify-searxng.png	file	137068	png
+./.harbor/docs/dify-webui.png	file	460351	png
+./.harbor/docs/flowise.png	file	236508	png
+./.harbor/docs/g1-reasoning.png	file	95218	png
+./.harbor/docs/gptme.png	file	268510	png
+./.harbor/docs/harbor-2.png	file	523196	png
+./.harbor/docs/harbor-agentzero.png	file	395136	png
+./.harbor/docs/harbor-airllm.png	file	237408	png
+./.harbor/docs/harbor-airweave.png	file	215528	png
+./.harbor/docs/harbor-app-2.png	file	128968	png
+./.harbor/docs/harbor-app-3.png	file	1732655	png
+./.harbor/docs/harbor-app-4.png	file	175810	png
+./.harbor/docs/harbor-app-5.png	file	272003	png
+./.harbor/docs/harbor-app-6.png	file	256224	png
+./.harbor/docs/harbor-app-7.png	file	176733	png
+./.harbor/docs/harbor-app-8.png	file	306783	png
+./.harbor/docs/harbor-app-macos.png	file	1107886	png
+./.harbor/docs/harbor-app.png	file	70586	png
+./.harbor/docs/harbor-arch-diag.png	file	119638	png
+./.harbor/docs/harbor-boost.png	file	19487	png
+./.harbor/docs/harbor-docling.png	file	579146	png
+./.harbor/docs/harbor-history.gif	file	620834	gif
+./.harbor/docs/harbor-k6.png	file	393645	png
+./.harbor/docs/harbor-latentscope.png	file	459648	png
+./.harbor/docs/harbor-ldr.png	file	184552	png
+./.harbor/docs/harbor-libretranslate.png	file	74473	png
+./.harbor/docs/harbor-metamcp.png	file	228252	png
+./.harbor/docs/harbor-morphic.png	file	239764	png
+./.harbor/docs/harbor-ollama-models.png	file	59865	png
+./.harbor/docs/harbor-oterm.png	file	332127	png
+./.harbor/docs/harbor-raglite.png	file	340952	png
+./.harbor/docs/harbor-tools.png	file	21428	png
+./.harbor/docs/harbor-top.png	file	100038	png
+./.harbor/docs/harbor-traefik.png	file	28802	png
+./.harbor/docs/harbor-webtop.png	file	1636261	png
+./.harbor/docs/harbor-webui-json.png	file	52371	png
+./.harbor/docs/image.png	file	133733	png
+./.harbor/docs/ktransformers-webui.png	file	113721	png
+./.harbor/docs/langflow.png	file	461147	png
+./.harbor/docs/langfuse.png	file	124220	png
+./.harbor/docs/litlytics-config.png	file	44308	png
+./.harbor/docs/litlytics.png	file	141520	png
+./.harbor/docs/mcp-inspector.png	file	163937	png
+./.harbor/docs/mcpo.png	file	83378	png
+./.harbor/docs/mikupad.png	file	291296	png
+./.harbor/docs/nexa-webui-error.png	file	26712	png
+./.harbor/docs/nexa-webui-workaround.png	file	71766	png
+./.harbor/docs/ol1.png	file	285766	png
+./.harbor/docs/omnichain-import.png	file	149317	png
+./.harbor/docs/omnichain.png	file	531730	png
+./.harbor/docs/omniparser.png	file	632754	png
+./.harbor/docs/openhands-config.png	file	64063	png
+./.harbor/docs/optillm.png	file	148983	png
+./.harbor/docs/parllama.png	file	67231	png
+./.harbor/docs/plandex-exec.png	file	59595	png
+./.harbor/docs/promptfoo-2.png	file	374038	png
+./.harbor/docs/promptfoo.png	file	284960	png
+./.harbor/docs/qr.png	file	16871	png
+./.harbor/docs/README.md	file	1772	md
+./.harbor/docs/seaxng-webrag.png	file	191031	png
+./.harbor/docs/sqlchat.png	file	191434	png
+./.harbor/docs/tunnels.png	file	207311	png
+./.harbor/docs/txtairag.png	file	96311	png
+./.harbor/docs/webui-boost-status.png	file	6453	png
+./.harbor/docs/webui-pipelines-2.png	file	105160	png
+./.harbor/docs/webui-pipelines.png	file	20864	png
+./.harbor/fabric	dir	0	
+./.harbor/fabric/Dockerfile	file	114	
+./.harbor/fabric/override.env	file	168	env
+./.harbor/flowise	dir	0	
+./.harbor/flowise/override.env	file	172	env
+./.harbor/gptme	dir	0	
+./.harbor/gptme/config.toml	file	875	toml
+./.harbor/gptme/Dockerfile	file	62	
+./.harbor/gptme/override.env	file	169	env
+./.harbor/gum	dir	0	
+./.harbor/gum/Dockerfile	file	150	
+./.harbor/harbor-README.md	file	17857	md
+./.harbor/harbor.sh	file	139821	sh
+./.harbor/harbor.yml	file	4625	yml
+./.harbor/hf	dir	0	
+./.harbor/hf/Dockerfile	file	91	
+./.harbor/hf/override.env	file	160	env
+./.harbor/hfdownloader	dir	0	
+./.harbor/hfdownloader/Dockerfile	file	312	
+./.harbor/hfdownloader/override.env	file	179	env
+./.harbor/http-catalog	dir	0	
+./.harbor/http-catalog/agent.http	file	373	http
+./.harbor/http-catalog/airllm.http	file	718	http
+./.harbor/http-catalog/aphrodite.http	file	690	http
+./.harbor/http-catalog/boost.http	file	14003	http
+./.harbor/http-catalog/comfyui.http	file	105	http
+./.harbor/http-catalog/dify.http	file	1456	http
+./.harbor/http-catalog/hf.http	file	235	http
+./.harbor/http-catalog/kobold.http	file	2007	http
+./.harbor/http-catalog/ktransformers.http	file	339	http
+./.harbor/http-catalog/langfuse.http	file	68	http
+./.harbor/http-catalog/litellm.http	file	1517	http
+./.harbor/http-catalog/llamacpp.http	file	365	http
+./.harbor/http-catalog/llamaswap.http	file	336	http
+./.harbor/http-catalog/mistral.http	file	1079	http
+./.harbor/http-catalog/mistralrs.http	file	774	http
+./.harbor/http-catalog/modularmax.http	file	359	http
+./.harbor/http-catalog/nexa.http	file	355	http
+./.harbor/http-catalog/ollama.http	file	12553	http
+./.harbor/http-catalog/omnichain.http	file	1270	http
+./.harbor/http-catalog/optillm.http	file	544	http
+./.harbor/http-catalog/parler.http	file	453	http
+./.harbor/http-catalog/perplexideez.http	file	189	http
+./.harbor/http-catalog/plandex.http	file	57	http
+./.harbor/http-catalog/sglang.http	file	341	http
+./.harbor/http-catalog/speaches.http	file	599	http
+./.harbor/http-catalog/stt.http	file	597	http
+./.harbor/http-catalog/tabbyapi.http	file	1406	http
+./.harbor/http-catalog/tgi.http	file	1500	http
+./.harbor/http-catalog/tts.http	file	187	http
+./.harbor/http-catalog/vllm.http	file	2629	http
+./.harbor/http-catalog/webui.http	file	88	http
+./.harbor/install.sh	file	1586	sh
+./.harbor/jupyter	dir	0	
+./.harbor/jupyter/Dockerfile	file	402	
+./.harbor/jupyter/override.env	file	169	env
+./.harbor/jupyter/workspace	dir	0	
+./.harbor/jupyter/workspace/000-sample.ipynb	file	2349	ipynb
+./.harbor/k6	dir	0	
+./.harbor/k6/.DS_Store	file	6148	
+./.harbor/k6/.gitignore	file	9	
+./.harbor/k6/dashboards	dir	0	
+./.harbor/k6/dashboards/k6-load-testing-results_rev3.json	file	34534	json
+./.harbor/k6/dashboards/k6-openai-tokens_rev1.json	file	62524	json
+./.harbor/k6/docker-compose.yaml	file	1582	yaml
+./.harbor/k6/grafana-dashboard.yaml	file	143	yaml
+./.harbor/k6/grafana-datasource.yaml	file	156	yaml
+./.harbor/k6/override.env	file	160	env
+./.harbor/k6/scripts	dir	0	
+./.harbor/k6/scripts/concurrent-prefix-caching.js	file	1828	js
+./.harbor/k6/scripts/example.js	file	163	js
+./.harbor/k6/scripts/helpers	dir	0	
+./.harbor/k6/scripts/helpers/config.js	file	370	js
+./.harbor/k6/scripts/helpers/http.js	file	3106	js
+./.harbor/k6/scripts/helpers/ollamaHttp.js	file	1051	js
+./.harbor/k6/scripts/helpers/openaiGeneric.js	file	1999	js
+./.harbor/k6/scripts/helpers/utils.js	file	5923	js
+./.harbor/k6/scripts/ollama.js	file	553	js
+./.harbor/k6/scripts/openai-api-throughput.js	file	1666	js
+./.harbor/k6/scripts/payloads	dir	0	
+./.harbor/k6/scripts/payloads/completions.js	file	321	js
+./.harbor/k6/scripts/payloads/ollama.js	file	756	js
+./.harbor/kobold	dir	0	
+./.harbor/kobold/override.env	file	243	env
+./.harbor/ktransformers	dir	0	
+./.harbor/ktransformers/chat.py	file	1878	py
+./.harbor/ktransformers/Dockerfile	file	685	
+./.harbor/ktransformers/override.env	file	177	env
+./.harbor/langflow	dir	0	
+./.harbor/langflow/override.env	file	367	env
+./.harbor/langfuse	dir	0	
+./.harbor/langfuse/.gitkeep	file	0	
+./.harbor/langfuse/override.env	file	2039	env
+./.harbor/latentscope	dir	0	
+./.harbor/latentscope/Dockerfile	file	81	
+./.harbor/latentscope/override.env	file	175	env
+./.harbor/ldr	dir	0	
+./.harbor/ldr/override.env	file	167	env
+./.harbor/librechat	dir	0	
+./.harbor/librechat/.env	file	1462	
+./.harbor/librechat/.gitignore	file	65	
+./.harbor/librechat/.gitkeep	file	0	
+./.harbor/librechat/librechat.yml	file	9090	yml
+./.harbor/librechat/override.env	file	173	env
+./.harbor/librechat/start_librechat.sh	file	617	sh
+./.harbor/libretranslate	dir	0	
+./.harbor/libretranslate/override.env	file	358	env
+./.harbor/LICENSE	file	11357	
+./.harbor/litellm	dir	0	
+./.harbor/litellm/litellm.config.yaml	file	38	yaml
+./.harbor/litellm/litellm.langfuse.yaml	file	50	yaml
+./.harbor/litellm/litellm.optillm.yaml	file	153	yaml
+./.harbor/litellm/litellm.tgi.yaml	file	147	yaml
+./.harbor/litellm/litellm.vllm.yaml	file	146	yaml
+./.harbor/litellm/override.env	file	171	env
+./.harbor/litellm/start_litellm.sh	file	432	sh
+./.harbor/litlytics	dir	0	
+./.harbor/litlytics/override.env	file	173	env
+./.harbor/llamacpp	dir	0	
+./.harbor/llamacpp/data	dir	0	
+./.harbor/llamacpp/data/templates	dir	0	
+./.harbor/llamacpp/data/templates/tars.jinja	file	1017	jinja
+./.harbor/llamacpp/override.env	file	191	env
+./.harbor/llamaswap	dir	0	
+./.harbor/llamaswap/config.yaml	file	893	yaml
+./.harbor/llamaswap/override.env	file	173	env
+./.harbor/lmeval	dir	0	
+./.harbor/lmeval/Dockerfile	file	168	
+./.harbor/lmeval/override.env	file	170	env
+./.harbor/lobechat	dir	0	
+./.harbor/lobechat/override.env	file	5384	env
+./.harbor/localai	dir	0	
+./.harbor/localai/override.env	file	171	env
+./.harbor/mcp	dir	0	
+./.harbor/mcp/.gitignore	file	6	
+./.harbor/mcp/inspector-entrypoint.sh	file	765	sh
+./.harbor/mcp/override.env	file	167	env
+./.harbor/mcpo	dir	0	
+./.harbor/mcpo/configs	dir	0	
+./.harbor/mcpo/configs/mcpo.mcp-server-fetch.json	file	121	json
+./.harbor/mcpo/configs/mcpo.mcp-server-time.json	file	119	json
+./.harbor/mcpo/configs/mcpo.metamcp.json	file	190	json
+./.harbor/mcpo/override.env	file	168	env
+./.harbor/mcpo/start_mcpo.sh	file	590	sh
+./.harbor/metamcp	dir	0	
+./.harbor/metamcp/override.env	file	358	env
+./.harbor/metamcp/start-sse.mjs	file	1956	mjs
+./.harbor/mikupad	dir	0	
+./.harbor/mikupad/override.env	file	171	env
+./.harbor/modularmax	dir	0	
+./.harbor/modularmax/override.env	file	201	env
+./.harbor/morphic	dir	0	
+./.harbor/morphic/.gitignore	file	6	
+./.harbor/morphic/override.env	file	690	env
+./.harbor/n8n	dir	0	
+./.harbor/n8n/.gitignore	file	20	
+./.harbor/n8n/override.env	file	337	env
+./.harbor/nexa	dir	0	
+./.harbor/nexa/Dockerfile	file	409	
+./.harbor/nexa/nvidia.sh	file	582	sh
+./.harbor/nexa/override.env	file	168	env
+./.harbor/nexa/proxy_server.py	file	2121	py
+./.harbor/nexa/proxy.Dockerfile	file	200	Dockerfile
+./.harbor/ol1	dir	0	
+./.harbor/ol1/app.py	file	7474	py
+./.harbor/ol1/Dockerfile	file	175	
+./.harbor/ol1/override.env	file	167	env
+./.harbor/ol1/README.md	file	144	md
+./.harbor/omnichain	dir	0	
+./.harbor/omnichain/.DS_Store	file	6148	
+./.harbor/omnichain/custom_nodes	dir	0	
+./.harbor/omnichain/custom_nodes/example	dir	0	
+./.harbor/omnichain/custom_nodes/example/example.maker.js	file	3071	js
+./.harbor/omnichain/Dockerfile	file	262	
+./.harbor/omnichain/entrypoint.sh	file	758	sh
+./.harbor/omnichain/examples	dir	0	
+./.harbor/omnichain/examples/HarborChat.json	file	4787	json
+./.harbor/omnichain/files	dir	0	
+./.harbor/omnichain/files/harbor.prompt	file	6770	prompt
+./.harbor/omnichain/openai.ts	file	9322	ts
+./.harbor/omnichain/override.env	file	173	env
+./.harbor/omniparser	dir	0	
+./.harbor/omniparser/Dockerfile	file	2791	
+./.harbor/open-webui	dir	0	
+./.harbor/open-webui/.DS_Store	file	6148	
+./.harbor/open-webui/configs	dir	0	
+./.harbor/open-webui/configs/config.agent.json	file	140	json
+./.harbor/open-webui/configs/config.airllm.json	file	127	json
+./.harbor/open-webui/configs/config.aphrodite.json	file	133	json
+./.harbor/open-webui/configs/config.boost.json	file	140	json
+./.harbor/open-webui/configs/config.comfyui.json	file	3966	json
+./.harbor/open-webui/configs/config.dify.json	file	153	json
+./.harbor/open-webui/configs/config.kobold.json	file	127	json
+./.harbor/open-webui/configs/config.ktransformers.json	file	142	json
+./.harbor/open-webui/configs/config.litellm.json	file	147	json
+./.harbor/open-webui/configs/config.llamacpp.json	file	131	json
+./.harbor/open-webui/configs/config.llamaswap.json	file	133	json
+./.harbor/open-webui/configs/config.mistralrs.json	file	133	json
+./.harbor/open-webui/configs/config.modularmax.json	file	136	json
+./.harbor/open-webui/configs/config.nexa.json	file	129	json
+./.harbor/open-webui/configs/config.ollama.json	file	75	json
+./.harbor/open-webui/configs/config.omnichain.json	file	134	json
+./.harbor/open-webui/configs/config.optillm.json	file	129	json
+./.harbor/open-webui/configs/config.override.json	file	162	json
+./.harbor/open-webui/configs/config.parler.json	file	285	json
+./.harbor/open-webui/configs/config.pipelines.json	file	146	json
+./.harbor/open-webui/configs/config.searxng.json	file	2292	json
+./.harbor/open-webui/configs/config.sglang.json	file	128	json
+./.harbor/open-webui/configs/config.speaches.json	file	446	json
+./.harbor/open-webui/configs/config.stt.json	file	202	json
+./.harbor/open-webui/configs/config.tabbyapi.json	file	148	json
+./.harbor/open-webui/configs/config.tts.json	file	250	json
+./.harbor/open-webui/configs/config.vllm.json	file	123	json
+./.harbor/open-webui/configs/config.x.mcpo.metamcp.json	file	290	json
+./.harbor/open-webui/configs/config.x.searxng.ollama.json	file	96	json
+./.harbor/open-webui/extras	dir	0	
+./.harbor/open-webui/extras/artifact.py	file	11094	py
+./.harbor/open-webui/extras/mcts.py	file	16897	py
+./.harbor/open-webui/override.env	file	169	env
+./.harbor/open-webui/start_webui.sh	file	600	sh
+./.harbor/openhands	dir	0	
+./.harbor/openhands/.gitignore	file	6	
+./.harbor/openhands/override.env	file	173	env
+./.harbor/openinterpreter	dir	0	
+./.harbor/openinterpreter/Dockerfile	file	79	
+./.harbor/openinterpreter/override.env	file	177	env
+./.harbor/optillm	dir	0	
+./.harbor/optillm/override.env	file	193	env
+./.harbor/oterm	dir	0	
+./.harbor/oterm/Dockerfile	file	49	
+./.harbor/oterm/override.env	file	169	env
+./.harbor/package.json	file	409	json
+./.harbor/parler	dir	0	
+./.harbor/parler/main.py	file	6253	py
+./.harbor/parler/override.env	file	170	env
+./.harbor/parllama	dir	0	
+./.harbor/parllama/Dockerfile	file	76	
+./.harbor/parllama/override.env	file	172	env
+./.harbor/perplexica	dir	0	
+./.harbor/perplexica/override.env	file	174	env
+./.harbor/perplexica/source.config.toml	file	54	toml
+./.harbor/perplexideez	dir	0	
+./.harbor/perplexideez/.gitignore	file	7	
+./.harbor/perplexideez/override.env	file	1544	env
+./.harbor/pipelines	dir	0	
+./.harbor/pipelines/override.env	file	181	env
+./.harbor/plandex	dir	0	
+./.harbor/plandex/Dockerfile	file	140	
+./.harbor/plandex/override.env	file	179	env
+./.harbor/poetry.lock	file	246	lock
+./.harbor/profiles	dir	0	
+./.harbor/profiles/default.env	file	19844	env
+./.harbor/promptfoo	dir	0	
+./.harbor/promptfoo/.DS_Store	file	6148	
+./.harbor/promptfoo/evals	dir	0	
+./.harbor/promptfoo/evals/hf	dir	0	
+./.harbor/promptfoo/evals/hf/deno.json	file	160	json
+./.harbor/promptfoo/evals/hf/deno.lock	file	44797	lock
+./.harbor/promptfoo/evals/hf/generate.ts	file	2421	ts
+./.harbor/promptfoo/evals/hf/promptfooconfig.yaml	file	1067	yaml
+./.harbor/promptfoo/evals/hf/queries.ts	file	678	ts
+./.harbor/promptfoo/evals/hf/tests	dir	0	
+./.harbor/promptfoo/evals/hf/tests/category_sample.yaml	file	11089	yaml
+./.harbor/promptfoo/evals/hf/tests/challenge.yaml	file	18102	yaml
+./.harbor/promptfoo/evals/hf/tests/gpqa_diamond.yaml	file	180778	yaml
+./.harbor/promptfoo/evals/hf/tests/validate.yaml	file	193	yaml
+./.harbor/promptfoo/examples	dir	0	
+./.harbor/promptfoo/examples/bias	dir	0	
+./.harbor/promptfoo/examples/bias/promptfooconfig.yaml	file	1371	yaml
+./.harbor/promptfoo/examples/hello-promptfoo	dir	0	
+./.harbor/promptfoo/examples/hello-promptfoo/promptfooconfig.yaml	file	1004	yaml
+./.harbor/promptfoo/examples/misguided	dir	0	
+./.harbor/promptfoo/examples/misguided/promptfooconfig.yaml	file	2407	yaml
+./.harbor/promptfoo/examples/temp-test	dir	0	
+./.harbor/promptfoo/examples/temp-test/promptfooconfig.yaml	file	1481	yaml
+./.harbor/promptfoo/examples/temp-test/README.md	file	251	md
+./.harbor/promptfoo/override.env	file	167	env
+./.harbor/promptfoo/README.md	file	4333	md
+./.harbor/pyproject.toml	file	43514	toml
+./.harbor/qdrant	dir	0	
+./.harbor/qdrant/override.env	file	178	env
+./.harbor/qrgen	dir	0	
+./.harbor/qrgen/Dockerfile	file	119	
+./.harbor/qrgen/gen.ts	file	243	ts
+./.harbor/raglite	dir	0	
+./.harbor/raglite/.gitignore	file	15	
+./.harbor/raglite/Dockerfile	file	120	
+./.harbor/raglite/override.env	file	171	env
+./.harbor/README.md	file	2990	md
+./.harbor/RELEASE.md	file	741	md
+./.harbor/repopack	dir	0	
+./.harbor/repopack/Dockerfile	file	73	
+./.harbor/repopack/override.env	file	168	env
+./.harbor/requirements.sh	file	3815	sh
+./.harbor/routines	dir	0	
+./.harbor/routines/.vscode	dir	0	
+./.harbor/routines/.vscode/settings.json	file	25	json
+./.harbor/routines/config.ts	file	1975	ts
+./.harbor/routines/deno.json	file	220	json
+./.harbor/routines/deno.lock	file	522	lock
+./.harbor/routines/docker.ts	file	2411	ts
+./.harbor/routines/envManager.ts	file	2608	ts
+./.harbor/routines/manageTools.ts	file	2074	ts
+./.harbor/routines/mergeComposeFiles.ts	file	1296	ts
+./.harbor/routines/paths.ts	file	736	ts
+./.harbor/routines/tsconfig.json	file	160	json
+./.harbor/routines/types.ts	file	264	ts
+./.harbor/routines/utils.ts	file	4939	ts
+./.harbor/searxng	dir	0	
+./.harbor/searxng/override.env	file	171	env
+./.harbor/searxng/settings.yml	file	62145	yml
+./.harbor/searxng/settings.yml.new	file	69444	new
+./.harbor/searxng/uwsgi.ini	file	1197	ini
+./.harbor/searxng/uwsgi.ini.new	file	1241	new
+./.harbor/setup-harbor-aider.sh	file	8958	sh
+./.harbor/setup-harbor.sh	file	2275	sh
+./.harbor/shared	dir	0	
+./.harbor/shared/harbor_entrypoint.sh	file	60	sh
+./.harbor/shared/json_config_merger.py	file	4638	py
+./.harbor/shared/proxy_user.sh	file	1094	sh
+./.harbor/shared/README.md	file	115	md
+./.harbor/shared/yaml_config_merger.js	file	2940	js
+./.harbor/shared/yaml_config_merger.py	file	2815	py
+./.harbor/speaches	dir	0	
+./.harbor/speaches/init_entrypoint.ts	file	2363	ts
+./.harbor/speaches/override.env	file	125	env
+./.harbor/sqlchat	dir	0	
+./.harbor/sqlchat/override.env	file	171	env
+./.harbor/stt	dir	0	
+./.harbor/stt/override.env	file	270	env
+./.harbor/supergateway	dir	0	
+./.harbor/supergateway/override.env	file	176	env
+./.harbor/tabbyapi	dir	0	
+./.harbor/tabbyapi/api_tokens.yml	file	75	yml
+./.harbor/tabbyapi/config.yml	file	8881	yml
+./.harbor/tabbyapi/override.env	file	172	env
+./.harbor/tabbyapi/start_tabbyapi.sh	file	408	sh
+./.harbor/test-harbor.sh	file	1933	sh
+./.harbor/textgrad	dir	0	
+./.harbor/textgrad/Dockerfile	file	157	
+./.harbor/textgrad/override.env	file	172	env
+./.harbor/textgrad/workspace	dir	0	
+./.harbor/textgrad/workspace/000-sample.ipynb	file	7041	ipynb
+./.harbor/tgi	dir	0	
+./.harbor/tgi/override.env	file	167	env
+./.harbor/tools	dir	0	
+./.harbor/tools/config.yaml	file	110	yaml
+./.harbor/traefik	dir	0	
+./.harbor/traefik/override.env	file	171	env
+./.harbor/traefik/traefik.yml	file	599	yml
+./.harbor/tts	dir	0	
+./.harbor/tts/config	dir	0	
+./.harbor/tts/config/pre_process_map.yaml	file	512	yaml
+./.harbor/tts/config/voice_to_speaker.yaml	file	1536	yaml
+./.harbor/tts/override.env	file	185	env
+./.harbor/txtairag	dir	0	
+./.harbor/txtairag/rag.py	file	20977	py
+./.harbor/vllm	dir	0	
+./.harbor/vllm/Dockerfile	file	214	
+./.harbor/vllm/override.env	file	269	env
+./.harbor/webtop	dir	0	
+./.harbor/webtop/.gitignore	file	5	
+./.harbor/webtop/Dockerfile	file	1067	
+./.harbor/webtop/init	dir	0	
+./.harbor/webtop/init/create_symlink.sh	file	535	sh
+./.harbor/webtop/init/fix_desktop_app.sh	file	294	sh
+./.harbor/webtop/init/provision_docker_groups.sh	file	707	sh
+./.harbor/webtop/override.env	file	168	env
+./.harbor/yarn.lock	file	28887	lock

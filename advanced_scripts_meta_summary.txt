@@ -1,0 +1,35 @@
+Advanced Scripts Meta Analysis Summary
+========================================
+
+Total scripts analyzed: 384
+Language distribution:
+  Shell: 364 (94.8%)
+  Python: 15 (3.9%)
+  JavaScript: 2 (0.5%)
+  Perl: 2 (0.5%)
+  Unknown: 1 (0.3%)
+
+Category distribution:
+  AI/ML Tools: 380 (99.0%)
+  System Maintenance: 2 (0.5%)
+  File Management: 2 (0.5%)
+
+Complexity distribution:
+  high: 167 (43.5%)
+  medium: 126 (32.8%)
+  low: 91 (23.7%)
+
+File size statistics:
+  Average: 7037 bytes
+  Median: 2618 bytes
+  Max: 842083 bytes
+  Min: 133 bytes
+
+Lines of code statistics:
+  Average: 205
+  Median: 84
+  Max: 23171
+  Min: 5
+
+API usage:
+  Scripts using APIs: 130 (33.9%)

@@ -1,0 +1,13 @@
+./superpowers-codex-product
+./superpowers-codex-product/.DS_Store
+./superpowers-codex-product/.gitignore
+./superpowers-codex-product/bin
+./superpowers-codex-product/bin/superpowers-codex
+./superpowers-codex-product/docs
+./superpowers-codex-product/docs/INSTALL.md
+./superpowers-codex-product/docs/superpowers-bootstrap.md
+./superpowers-codex-product/lib
+./superpowers-codex-product/lib/skills-core.js
+./superpowers-codex-product/README.md
+./superpowers-codex-product/templates
+./superpowers-codex-product/templates/AGENTS.md

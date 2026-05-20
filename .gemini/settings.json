@@ -1,0 +1,12 @@
+{
+  "hooksConfig": {
+    "disabled": [
+      "/Users/steven/.git-ai/bin/git-ai checkpoint gemini --hook-input stdin",
+      "tool-usage-logger",
+      "/Users/steven/.git-ai/bin/git-ai checkpoint gemini --hook-input stdin",
+      "dynamic-instruction",
+      "session-env-setup",
+      "\"${CLAUDE_PLUGIN_ROOT}/hooks/run-hook.cmd\" session-start.sh"
+    ]
+  }
+}

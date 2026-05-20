@@ -1,0 +1,4 @@
+path	type	size_bytes	ext
+./.claude	dir	0	
+./.claude/settings.json	file	450	json
+./.claude/settings.local.json	file	314	json

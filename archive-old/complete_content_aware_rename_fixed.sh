@@ -1,0 +1,341 @@
+#!/usr/bin/env bash
+
+# Exit on error, undefined variables, and pipe failures
+set -euo pipefail
+
+
+# Complete Content-Aware Rename Script (Fixed)
+# Renames directories AND their internal files with proper content-aware names
+
+BASE_PATH="/Users/steven/AvaTarArTs/02_Content_Aware_Analysis/01_Projects"
+
+echo "🎯 COMPLETE CONTENT-AWARE RENAMING (Directories + Files) - FIXED"
+echo "================================================================="
+echo "📁 Base path: $BASE_PATH"
+echo ""
+
+# Function to create content-aware name
+create_content_aware_name() {
+    local dir_name="$1"
+    local new_name=""
+    
+    # Handle emoji-based directories
+    case "$dir_name" in
+        "🎯")
+            new_name="goals_and_targets"
+            ;;
+        "📁")
+            new_name="folders_and_organization"
+            ;;
+        "📊")
+            new_name="analytics_and_data"
+            ;;
+        "🚀")
+            new_name="launch_and_deployment"
+            ;;
+        "🛠"|"🛠️")
+            new_name="tools_and_development"
+            ;;
+        "💰")
+            new_name="financial_and_revenue"
+            ;;
+        "✅")
+            new_name="completed_and_status"
+            ;;
+        "🌐")
+            new_name="web_and_online"
+            ;;
+        "🐍")
+            new_name="python_and_code"
+            ;;
+        "🎉")
+            new_name="celebration_and_success"
+            ;;
+        "✨")
+            new_name="features_and_highlights"
+            ;;
+        "🌟")
+            new_name="featured_and_starred"
+            ;;
+        "🏆")
+            new_name="achievements_and_top"
+            ;;
+        "🧪")
+            new_name="experimental_and_testing"
+            ;;
+        "📋")
+            new_name="documentation_and_lists"
+            ;;
+        "🔮")
+            new_name="future_and_innovation"
+            ;;
+        "📝")
+            new_name="documentation_and_notes"
+            ;;
+        "🗺️")
+            new_name="navigation_and_planning"
+            ;;
+        "💻")
+            new_name="technical_and_computing"
+            ;;
+        "📜")
+            new_name="technical_and_code"
+            ;;
+        "💾")
+            new_name="storage_and_data"
+            ;;
+        *)
+            # Handle text-based directories with content analysis
+            case "$dir_name" in
+                *"Expe_ime_tal"*|*"Experimental"*|*"experimental"*)
+                    new_name="experimental_projects"
+                    ;;
+                *"Completed"*|*"Complete"*|*"complete"*)
+                    new_name="completed_projects"
+                    ;;
+                *"A_chived"*|*"Archived"*|*"archived"*)
+                    new_name="archived_projects"
+                    ;;
+                *"Fi_ished"*|*"Finished"*|*"finished"*)
+                    new_name="finished_projects"
+                    ;;
+                *"I_dividual"*|*"Individual"*|*"individual"*)
+                    new_name="individual_projects"
+                    ;;
+                *"Qua_tumFo_geLabs"*|*"QuantumForgeLabs"*|*"quantumforge"*)
+                    new_name="quantumforge_labs_technical"
+                    ;;
+                *"Lice_se"*|*"License"*|*"license"*)
+                    new_name="license_and_legal"
+                    ;;
+                *"ud83d_udcc4"*)
+                    new_name="license_documentation"
+                    ;;
+                *"A_alysis"*|*"Analysis"*|*"analysis"*)
+                    new_name="analysis_and_reports"
+                    ;;
+                *"P_oject"*|*"Project"*|*"project"*)
+                    new_name="project_management"
+                    ;;
+                *"SEO"*|*"seo"*)
+                    new_name="seo_optimization"
+                    ;;
+                *"Python"*|*"python"*|*"pytho"*)
+                    new_name="python_development"
+                    ;;
+                *"Web"*|*"web"*|*"website"*)
+                    new_name="web_development"
+                    ;;
+                *"AI"*|*"ai"*|*"artificial"*)
+                    new_name="ai_and_machine_learning"
+                    ;;
+                *"Data"*|*"data"*|*"database"*)
+                    new_name="data_management"
+                    ;;
+                *"Code"*|*"code"*|*"coding"*)
+                    new_name="code_development"
+                    ;;
+                *"Creative"*|*"creative"*|*"design"*)
+                    new_name="creative_design"
+                    ;;
+                *"Business"*|*"business"*|*"commercial"*)
+                    new_name="business_development"
+                    ;;
+                *"Financial"*|*"financial"*|*"revenue"*|*"ROI"*)
+                    new_name="financial_analysis"
+                    ;;
+                *"Technical"*|*"technical"*|*"tech"*)
+                    new_name="technical_implementation"
+                    ;;
+                *"Documentation"*|*"documentation"*|*"docs"*)
+                    new_name="documentation"
+                    ;;
+                *"Template"*|*"template"*|*"templates"*)
+                    new_name="templates_and_tools"
+                    ;;
+                *"Automation"*|*"automation"*|*"automated"*)
+                    new_name="automation_tools"
+                    ;;
+                *"Media"*|*"media"*|*"video"*|*"audio"*)
+                    new_name="media_processing"
+                    ;;
+                *"Content"*|*"content"*|*"creation"*)
+                    new_name="content_creation"
+                    ;;
+                *"Marketing"*|*"marketing"*|*"promotion"*)
+                    new_name="marketing_strategy"
+                    ;;
+                [0-9])
+                    new_name="project_$dir_name"
+                    ;;
+                [0-9][0-9])
+                    new_name="project_$dir_name"
+                    ;;
+                *)
+                    # Clean up the name as fallback
+                    new_name=$(echo "$dir_name" | sed 's/[🎯📁📊🚀🛠💰✅🌐🐍🎉✨🌟🏆🧪📋🔮📝🗺️💻📜💾]//g')
+                    new_name=$(echo "$new_name" | sed 's/&amp;/and/g; s/&quot;/"/g; s/&lt;/</g; s/&gt;/>/g; s/&nbsp;/ /g; s/&#x27;/'"'"'/g')
+                    new_name=$(echo "$new_name" | sed 's/__*/_/g')
+                    new_name=$(echo "$new_name" | sed 's/^_*//; s/_*$//')
+                    new_name=$(echo "$new_name" | sed 's/[<>"'"'"'&]//g')
+                    new_name=$(echo "$new_name" | sed 's/ /_/g')
+                    new_name=$(echo "$new_name" | sed 's/__*/_/g')
+                    new_name=$(echo "$new_name" | sed 's/^_*//; s/_*$//')
+                    
+                    # If name is empty or too short, use a default
+                    if [ -z "$new_name" ] || [ ${#new_name} -lt 3 ]; then
+                        new_name="project_$(date +%s)_$RANDOM"
+                    fi
+                    
+                    # Ensure name starts with letter or number
+                    if [[ ! "$new_name" =~ ^[A-Za-z0-9] ]]; then
+                        new_name="project_$new_name"
+                    fi
+                    
+                    # Limit length
+                    if [ ${#new_name} -gt 50 ]; then
+                        new_name="${new_name:0:50}"
+                    fi
+                    ;;
+            esac
+            ;;
+    esac
+    
+    echo "$new_name"
+}
+
+# Function to rename directory and its files
+rename_directory_and_files() {
+    local old_dir_name="$1"
+    local new_dir_name="$2"
+    local old_path="$BASE_PATH/$old_dir_name"
+    local new_path="$BASE_PATH/$new_dir_name"
+    
+    echo "📂 Renaming directory: $old_dir_name"
+    echo "     to: $new_dir_name"
+    
+    if [ -d "$old_path" ]; then
+        # Rename the directory
+        if mv "$old_path" "$new_path" 2>/dev/null; then
+            echo "   ✅ Directory renamed successfully"
+            
+            # Now rename the files inside the directory
+            if [ -d "$new_path" ]; then
+                echo "   📄 Renaming files inside directory..."
+                
+                # Find and rename analysis files
+                for file in "$new_path"/*; do
+                    if [ -f "$file" ]; then
+                        filename=$(basename "$file")
+                        
+                        # Check if it's an analysis file
+                        if [[ $filename == *"_ANALYSIS.md" ]]; then
+                            new_filename="${new_dir_name}_ANALYSIS.md"
+                            if [ "$filename" != "$new_filename" ]; then
+                                if mv "$file" "$new_path/$new_filename" 2>/dev/null; then
+                                    echo "     ✅ Renamed: $filename → $new_filename"
+                                else
+                                    echo "     ❌ Failed to rename: $filename"
+                                fi
+                            else
+                                echo "     ℹ️  Already correct: $filename"
+                            fi
+                        elif [[ $filename == *"_ANALYSIS.md.seo_backup" ]]; then
+                            new_filename="${new_dir_name}_ANALYSIS.md.seo_backup"
+                            if [ "$filename" != "$new_filename" ]; then
+                                if mv "$file" "$new_path/$new_filename" 2>/dev/null; then
+                                    echo "     ✅ Renamed: $filename → $new_filename"
+                                else
+                                    echo "     ❌ Failed to rename: $filename"
+                                fi
+                            else
+                                echo "     ℹ️  Already correct: $filename"
+                            fi
+                        else
+                            echo "     ℹ️  Skipped: $filename (not an analysis file)"
+                        fi
+                    fi
+                done
+            fi
+            
+            return 0
+        else
+            echo "   ❌ Failed to rename directory"
+            return 1
+        fi
+    else
+        echo "   ⚠️  Directory not found: $old_dir_name"
+        return 2
+    fi
+}
+
+# Array of directories to rename (the 11 you specified)
+declare -a directories=(
+    "Expe_ime_tal"
+    "Completed"
+    "ud83d_udcc4 Lice_se____This"
+    "3"
+    "I_dividual"
+    "A_chived"
+    "Qua_tumFo_geLabs tech_ical"
+    "Lice_se____This"
+    "1"
+    "2"
+    "Fi_ished"
+)
+
+echo "📋 Processing ${#directories[@]} directories with their files:"
+echo ""
+
+# Show what will be renamed
+for i in "${!directories[@]}"; do
+    old_name="${directories[$i]}"
+    new_name=$(create_content_aware_name "$old_name")
+    
+    echo "$((i+1)). Directory: $old_name"
+    echo "   → $new_name"
+    echo "   Files will be renamed:"
+    echo "     - ${old_name}_ANALYSIS.md → ${new_name}_ANALYSIS.md"
+    echo "     - ${old_name}_ANALYSIS.md.seo_backup → ${new_name}_ANALYSIS.md.seo_backup"
+    echo "   ---"
+done
+
+echo ""
+read -p "❓ Do you want to proceed with renaming these ${#directories[@]} directories and their files? (y/N): " confirm
+
+if [[ $confirm =~ ^[Yy]$ ]]; then
+    echo "🚀 Starting complete rename operations..."
+    echo ""
+    
+    success_count=0
+    fail_count=0
+    skip_count=0
+    
+    for i in "${!directories[@]}"; do
+        old_name="${directories[$i]}"
+        new_name=$(create_content_aware_name "$old_name")
+        
+        echo "=== Processing $((i+1))/${#directories[@]} ==="
+        
+        result=$(rename_directory_and_files "$old_name" "$new_name")
+        case $? in
+            0) ((success_count++)) ;;
+            1) ((fail_count++)) ;;
+            2) ((skip_count++)) ;;
+        esac
+        
+        echo ""
+    done
+    
+    echo "📊 Final Results:"
+    echo "   ✅ Successful: $success_count"
+    echo "   ❌ Failed: $fail_count"
+    echo "   ⚠️  Skipped: $skip_count"
+    echo "   📁 Total processed: ${#directories[@]}"
+    
+else
+    echo "❌ Rename operations cancelled"
+fi
+
+echo ""
+echo "🏁 Complete renaming script finished"
