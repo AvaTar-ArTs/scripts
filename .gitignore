@@ -1,0 +1,56 @@
+.aider*
+
+# IDE cache files
+*.tags.cache*
+.aider.chat.history
+
+# Editor backups
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Python (backup)
+__pycache__/
+*.pyc
+.venv
+venv/
+.mypy_cache
+.pytest_cache
+.coverage
+.tox
+
+# Node.js
+node_modules/
+dist/
+npm-debug.log
+
+# Project configuration and lock files
+package-lock.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+uv.lock
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.zip
+*.tar.gz
+*.mov
+*.mp4
+
+# Secrets and environment files
+.env
+*.env
+.env.d/
+*.local
+*.key
+*.pem
+*.crt
+
+# Allow environment templates
+!*.env.example
+!*.env.template
