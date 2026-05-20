@@ -1,0 +1,74 @@
+install-miniforge-default-env.sh
+  s_1a2fe21748f975::t_590532146d54d2 4-6
+auto-activate-mamba-env-by-directory.sh
+  s_1a2fe21748f975::t_19423ba182bc8d 66
+  s_1a2fe21748f975::t_60902579b1a4c0 55
+mamba-env-activation-helper.sh
+  s_1a2fe21748f975::t_df5a2cfc006150 44
+pip-reinstall-ai.sh
+  s_1a2fe21748f975::t_dda864b14f8647 145
+install-miniforge-brew-stack.sh
+  s_1a2fe21748f975::t_a0062fd6d87e51 1-10,12-21,37,40-55,57-60,63-80,82,89-90,98,110,116,126-137,140-141,143-146
+  s_1a2fe21748f975::t_a0e1e121c87196 81,83-88
+  s_1a2fe21748f975::t_6898c7a6346bc9 56,61-62
+  s_1a2fe21748f975::t_8347858896be77 30-32
+  s_1a2fe21748f975::t_715e7dead662f4 142
+  s_1a2fe21748f975::t_6d3a856d1f3a65 22-29,33-36,38-39
+  s_1a2fe21748f975::t_de4d84b17eddf0 11
+  s_1a2fe21748f975::t_648306fb7abc47 138-139
+  s_1a2fe21748f975::t_d06ab99567ebd4 91-97,99-109,111-115,117-125
+transcribe-media-whisper-gpt.sh
+  s_1a2fe21748f975::t_f0fd8825b6938a 11
+archive-old/setup_all_envs.sh
+  s_1a2fe21748f975::t_617b29d4d5d4e2 82
+batch-process-mp3-files.sh
+  s_1a2fe21748f975::t_611a2cab3c43ce 12
+install_miniforge_brew_stack.sh
+  s_1a2fe21748f975::t_fdca84a11b7913 1-4
+mamba-environment-manager.sh
+  s_1a2fe21748f975::t_849752c3a2f3aa 93
+  s_1a2fe21748f975::t_393106af5afe20 178
+mp4-transcription-pipeline.sh
+  s_1a2fe21748f975::t_a03823b06e0258 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "6c10273c7cdf13c18033c30a316867e63b0c1a7a",
+  "prompts": {
+    "0ef8475562eb7b0b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5507eaaa-04b9-4d43-afe3-e8937f3edc45",
+        "model": "unknown"
+      },
+      "human_author": "steven <steven@newCho.local>",
+      "total_additions": 18,
+      "total_deletions": 9,
+      "accepted_lines": 2,
+      "overriden_lines": 1
+    },
+    "72ee4b50f60487fa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6539ba4d-32fb-4145-9aac-76d5e43c3531",
+        "model": "unknown"
+      },
+      "human_author": "steven <steven@newCho.local>",
+      "total_additions": 459,
+      "total_deletions": 40,
+      "accepted_lines": 224,
+      "overriden_lines": 3
+    }
+  },
+  "sessions": {
+    "s_1a2fe21748f975": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "fc8f7888-2b13-4765-be9d-3ae3de925ca3",
+        "model": "default"
+      },
+      "human_author": "steven <steven@newCho.local>"
+    }
+  }
+}
