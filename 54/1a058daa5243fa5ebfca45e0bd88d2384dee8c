@@ -1,0 +1,26 @@
+scripts/git-check-size.sh
+  s_5ba6ce1f0960a8::t_fe7d7218889f9b 1-18
+.gitignore
+  s_5ba6ce1f0960a8::t_8c28020ce56577 29,45-52
+  s_5ba6ce1f0960a8::t_cb18ae8c1374e5 18-28
+  s_5ba6ce1f0960a8::t_ad480041b17d2f 53-56
+  s_5ba6ce1f0960a8::t_bc1fb373970e19 30-44
+scripts/git-tag-release.sh
+  s_5ba6ce1f0960a8::t_e2462a721e4eb0 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "541a058daa5243fa5ebfca45e0bd88d2384dee8c",
+  "prompts": {},
+  "sessions": {
+    "s_5ba6ce1f0960a8": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "4d614300-39ab-4a86-8266-1d28f4ccd56b",
+        "model": "gemini-2.5-flash-lite"
+      },
+      "human_author": "steven <steven@newCho.local>"
+    }
+  }
+}
