@@ -1,0 +1,153 @@
+HOME_DIR_AUDIT.md
+  72ee4b50f60487fa 1-76
+check-performance.sh
+  0ef8475562eb7b0b 25
+mac-cleanup-pro.sh
+  s_2878e7bcb1a901::t_7a02d53ab9adf4 422
+  s_2878e7bcb1a901::t_f4326178a31323 353
+  s_2878e7bcb1a901::t_727f4b914ac898 390-397
+docs/plans/2026-05-09-Evolved_Analyzer_Design.md
+  s_6649ed10a4a35e::t_ba2f388227a90d 1-110
+generate_noi_static_site.py
+  s_8d48d51ea568b6::t_c67fe2c5363df2 1-62,64-70,72-110
+  s_8d48d51ea568b6::t_a295859aa6c509 63,71
+HARBOR_ONE_PAGER.md
+  72ee4b50f60487fa 1-86
+docs/AGENT_SYNCHRONIZATION_PLAN.md
+  s_2294b2137aa617::t_ebdd3b1d538a45 1-23
+mcp-lifecycle-manager.sh
+  0ef8475562eb7b0b 143
+home_tree.sh
+  72ee4b50f60487fa 1-3
+analyze_python_scripts.py
+  s_6649ed10a4a35e::t_cc5461ff807542 234
+  s_6649ed10a4a35e::t_9fb0a757c6a040 26,34,45,48-50,56,71,89,92,97,99,101-102,104-105,108,110,123-124,128,130,154,159,162-205,208-209,212,222,231-233,248-252,256-260,288-294,296,298,306,308-309,311-312,314-315,318-336,338,340-345,349-350,353-405,408-409
+  s_6649ed10a4a35e::t_81fff3f07aa758 1-24,27-33,35-40,43-44,46-47,51-55,57-70,72-88,90-91,94-96,98,100,103,106-107,109,111-122,125-127,129,131-153,156-158,160-161,206-207,210-211,213-221,223-230,235-247,253-255,261-287,295,297,299-300,303-305,307,310,313,316-317,346-348,351-352,406
+  s_6649ed10a4a35e::t_90669d2129a747 25,41-42,93,301-302,337,339,407
+  s_6649ed10a4a35e::t_0fec4087134cb9 155
+iterm2_tree_summary.sh
+  72ee4b50f60487fa 1-3
+mac_diag.sh
+  0ef8475562eb7b0b 3
+system-maintenance.sh
+  s_61db01f972a306::t_cac1c994284fab 200-201
+docs/RHYTHM_COMPLIANCE.md
+  s_2294b2137aa617::t_1178783d9dd358 1-16
+SCRIPTS_FULL_INVENTORY.md
+  s_e51f8834d8d3b3::t_e2909b92afc27c 1-53
+docs/STORAGE_CONFIGURATION.md
+  s_2294b2137aa617::t_52706393402228 1-14
+CARBON_INVENTORY.csv
+  s_e51f8834d8d3b3::t_678f37492ae9db 1-71
+iterm2_full_tree.sh
+  72ee4b50f60487fa 1-3
+inject_error_handling.sh
+  s_61db01f972a306::t_a60cf17be7d313 3,37-38
+  s_61db01f972a306::t_a969ca630f0ea1 1-2,4-36,39-44
+audit_environments.sh
+  s_e51f8834d8d3b3::t_baaa049cac8055 1-21
+CARBON_CONSOLIDATION_PREVIEW.md
+  s_e51f8834d8d3b3::t_26ae9eb8949ae2 1-27
+analyze_scripts.sh
+  s_61db01f972a306::t_ea448cac69285e 5-7,9-10,12-21,23,26-29,32-33,44-45,47-51,53-61,66-67,74,80-81,84-86,89-90,92-93,95-96,98-99,101
+  s_6649ed10a4a35e::t_6eb563e0563d37 1-4,22,24-25,34,38-43,46,52,65,68-69,72-73,75-76,79,82-83,87
+  s_6649ed10a4a35e::t_fd5b3d063cc815 8,11,30-31,35-37,62-64,70-71,77-78,88,91,94,97,100
+setup_environment.sh
+  s_e51f8834d8d3b3::t_53de8decdc0fe1 1-3,6-10,12-19,21-23,27,35-41,44
+  s_e51f8834d8d3b3::t_dcd766c7538c9b 4-5,11,20,24-26,28-34,42-43,45-46
+noi_to_site.sh
+  s_8d48d51ea568b6::t_7ff3939bf7c19a 1-95
+SCRIPTS_INDEX.md
+  s_e51f8834d8d3b3::t_f4638e699d4047 1,16-19,21-23,25-27,29,32-39,42-43,45-63,65
+  s_e51f8834d8d3b3::t_ce0bfaf77deaa1 64
+  s_e51f8834d8d3b3::t_deb3217bea3b4c 3-4,20,24,28,30-31,40-41,44
+  s_e51f8834d8d3b3::t_5ba27b44aceee5 2
+  s_e51f8834d8d3b3::t_89f0c5b2e3af28 5-15
+ORGANIZATION_COMPARISON.md
+  s_e51f8834d8d3b3::t_53c39faec3a6fc 1-37
+pip_list.csv
+  s_e51f8834d8d3b3::t_4a713dd7dc5321 1-713
+iterm2_tree_summary_helper.py
+  72ee4b50f60487fa 1-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "9b2030d70cb146cf7dd4b656dfcb7ae665458f22",
+  "prompts": {
+    "0ef8475562eb7b0b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5507eaaa-04b9-4d43-afe3-e8937f3edc45",
+        "model": "unknown"
+      },
+      "human_author": "steven <steven@newCho.local>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    },
+    "72ee4b50f60487fa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6539ba4d-32fb-4145-9aac-76d5e43c3531",
+        "model": "unknown"
+      },
+      "human_author": "steven <steven@newCho.local>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 227,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_2294b2137aa617": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "3bb65762-1508-42ba-9305-2d91cd691538",
+        "model": "gemini-2.5-flash-lite"
+      },
+      "human_author": "steven <steven@newCho.local>"
+    },
+    "s_2878e7bcb1a901": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "f9876ff1-80c0-4266-a5b2-f9086dfe9e55",
+        "model": "gemini-2.5-flash-lite"
+      },
+      "human_author": "steven <steven@newCho.local>"
+    },
+    "s_61db01f972a306": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "a7864257-613b-40a6-9766-cd9f90b69da5",
+        "model": "gemini-2.5-flash-lite"
+      },
+      "human_author": "steven <steven@newCho.local>"
+    },
+    "s_6649ed10a4a35e": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "fe84d9b4-4b21-4ce5-80d7-26d47bcba79a",
+        "model": "gemini-2.5-flash-lite"
+      },
+      "human_author": "steven <steven@newCho.local>"
+    },
+    "s_8d48d51ea568b6": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "abed74d0-9b8c-4836-ba18-3344c6d77756",
+        "model": "gemini-2.5-flash-lite"
+      },
+      "human_author": "steven <steven@newCho.local>"
+    },
+    "s_e51f8834d8d3b3": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "560a0070-2a58-4b5b-8ea0-165acdd03a86",
+        "model": "gemini-2.5-flash-lite"
+      },
+      "human_author": "steven <steven@newCho.local>"
+    }
+  }
+}
